@@ -1,0 +1,2443 @@
+movieId,user_weighted_rating,title,genres,year,rtAllCriticsRating,rtAllCriticsNumReviews
+6987,3.7051063803525803,"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das) (1920)",Crime|Fantasy|Horror,1920,4.45,34
+3310,3.65960525990977,"Kid, The (1921)",Comedy|Drama,1921,3.45,41
+1348,3.8078519205524293,"Nosferatu (Nosferatu, eine Symphonie des Grauens) (1922)",Horror,1922,4.45,47
+6986,3.4815024192753237,Ben-Hur: A Tale of the Christ (1925),Adventure|Drama,1925,3.9,33
+3022,3.9737885444430434,"General, The (1926)",Comedy|War,1926,4.45,38
+2010,3.9186626233893973,Metropolis (1927),Drama|Sci-Fi,1927,4.45,98
+6985,3.6760574581507193,"Passion of Joan of Arc, The (Passion de Jeanne d'Arc, La) (1928)",Drama,1928,4.45,31
+1927,3.8218064500202744,All Quiet on the Western Front (1930),Action|Drama|War,1930,4.3,32
+4970,3.6490687187301547,"Blue Angel, The (Blaue Engel, Der) (1930)",Drama,1930,4.15,32
+2644,3.6229992210811384,Dracula (1931),Horror,1931,3.85,42
+8228,3.909240178706648,"Maltese Falcon, The (a.k.a. Dangerous Female) (1931)",Mystery,1931,4.5,40
+1260,4.0811707512812445,M (1931),Crime|Film-Noir|Thriller,1931,4.5,40
+2648,3.7655011642224427,Frankenstein (1931),Drama|Horror|Sci-Fi,1931,4.25,38
+3307,4.005851922102441,City Lights (1931),Comedy|Drama|Romance,1931,4.5,37
+25788,3.529984047099562,Scarface (1932),Crime|Drama,1932,3.75,50
+2633,3.3004510577640285,"Mummy, The (1932)",Horror|Romance,1932,2.85,81
+8507,3.6090909062502017,Freaks (1932),Crime|Drama|Horror,1932,4.15,41
+1256,4.047553138089117,Duck Soup (1933),Comedy|Musical|War,1933,4.45,35
+2366,3.520078573742507,King Kong (1933),Action|Adventure|Fantasy|Horror,1933,3.85,242
+905,4.059372330286689,It Happened One Night (1934),Comedy|Romance,1934,4.35,32
+945,3.881526715672844,Top Hat (1935),Comedy|Musical|Romance,1935,4.3,37
+7132,3.8236790582499265,"Night at the Opera, A (1935)",Comedy|Musical|Romance,1935,4.25,33
+965,3.8978176515671317,"39 Steps, The (1935)",Drama|Mystery|Thriller,1935,4.4,32
+1340,3.632222627265782,"Bride of Frankenstein, The (Bride of Frankenstein) (1935)",Drama|Horror|Sci-Fi,1935,4.45,39
+3462,4.02377126537402,Modern Times (1936),Comedy|Drama|Romance,1936,4.45,47
+1066,3.765065271573291,Shall We Dance (1937),Comedy|Musical|Romance,1937,2.7,152
+3134,3.9078796538026985,Grand Illusion (La grande illusion) (1937),Drama|War,1937,4.6,34
+2208,3.909718099058921,"Lady Vanishes, The (1938)",Drama|Mystery|Thriller,1938,4.15,33
+955,3.9669372833494725,Bringing Up Baby (1938),Comedy|Romance,1938,4.2,36
+940,3.8085237648681103,"Adventures of Robin Hood, The (1938)",Action|Adventure|Romance,1938,4.45,43
+6783,3.68807999605028,"Rules of the Game, The (La règle du jeu) (1939)",Comedy|Drama,1939,4.55,37
+927,3.6613043442484425,"Women, The (1939)",Comedy,1939,1.95,142
+920,3.7987446290992786,Gone with the Wind (1939),Drama|Romance|War,1939,4.35,62
+919,3.9639632489063628,"Wizard of Oz, The (1939)",Adventure|Children|Fantasy|Musical,1939,4.6,70
+898,4.098136382191564,"Philadelphia Story, The (1940)",Comedy|Drama|Romance,1940,4.3,43
+3095,3.9023957822383446,"Grapes of Wrath, The (1940)",Drama,1940,4.45,36
+1282,3.7117335228311457,Fantasia (1940),Animation|Children|Fantasy|Musical,1940,4.25,42
+1281,3.958385524254895,"Great Dictator, The (1940)",Comedy|Drama|War,1940,4.45,34
+596,3.4858906787428734,Pinocchio (1940),Animation|Children|Fantasy|Musical,1940,4.5,37
+928,4.0205939431410815,Rebecca (1940),Drama|Mystery|Romance|Thriller,1940,4.35,36
+951,4.037164923912505,His Girl Friday (1940),Comedy|Romance,1940,4.3,36
+941,3.4265292062287633,"Mark of Zorro, The (1940)",Adventure,1940,3.55,66
+7579,3.4297010559911767,Pride and Prejudice (1940),Comedy|Drama|Romance,1940,3.85,164
+923,4.10315749124783,Citizen Kane (1941),Drama|Mystery,1941,4.7,54
+2654,3.4280231680397186,"Wolf Man, The (1941)",Drama|Fantasy|Horror,1941,3.85,31
+2205,3.256441713464374,Mr. & Mrs. Smith (1941),Comedy|Romance,1941,3.0,202
+1935,3.5979577430020075,How Green Was My Valley (1941),Drama|Musical|Romance,1941,3.9,34
+1029,3.4741932065456407,Dumbo (1941),Animation|Children|Drama|Musical,1941,4.2,31
+913,4.145531476990102,"Maltese Falcon, The (1941)",Film-Noir|Mystery,1941,4.5,40
+2018,3.5042026550293732,Bambi (1942),Animation|Children|Drama,1942,4.0,38
+912,4.235687552620341,Casablanca (1942),Drama|Romance,1942,4.5,58
+946,3.7430460047926233,To Be or Not to Be (1942),Comedy|Drama|War,1942,4.35,34
+3936,3.324472164167803,Phantom of the Opera (1943),Horror|Musical|Thriller,1943,2.5,165
+3435,4.123423922178379,Double Indemnity (1944),Crime|Drama|Film-Noir,1944,4.35,43
+942,3.955619227972891,Laura (1944),Crime|Film-Noir|Mystery,1944,4.3,45
+1337,3.330427346207564,"Body Snatcher, The (1945)",Drama|Horror|Thriller,1945,4.45,36
+1939,3.9044987125376394,"Best Years of Our Lives, The (1946)",Drama|War,1946,4.3,35
+1284,4.118278320627443,"Big Sleep, The (1946)",Crime|Film-Noir|Mystery,1946,4.3,43
+930,4.099797495409214,Notorious (1946),Film-Noir|Romance|Thriller,1946,2.75,136
+953,4.0323710912687085,It's a Wonderful Life (1946),Drama|Fantasy|Romance,1946,4.35,54
+2398,3.6882642428663353,Miracle on 34th Street (1947),Comedy|Drama,1947,4.0,31
+1254,4.070486294440823,"Treasure of the Sierra Madre, The (1948)",Action|Adventure|Drama|Western,1948,4.5,38
+3089,4.006538251509183,Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948),Drama,1948,4.4,47
+2176,3.8064765285391715,Rope (1948),Crime|Drama|Thriller,1948,3.9,31
+1941,3.5270614655643553,Hamlet (1948),Drama,1948,4.1,54
+2430,3.117938140936667,Mighty Joe Young (1949),Adventure|Children|Drama,1949,2.9,42
+1212,4.167246991516327,"Third Man, The (1949)",Film-Noir|Mystery|Thriller,1949,4.55,57
+926,4.103567404255135,All About Eve (1950),Drama,1950,4.5,54
+922,4.176953735952007,Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),Drama|Film-Noir|Romance,1950,4.6,52
+3088,3.909745654762742,Harvey (1950),Comedy|Fantasy,1950,3.1,146
+900,3.711463344201203,"American in Paris, An (1951)",Musical|Romance,1951,3.95,47
+2186,4.0679342049987355,Strangers on a Train (1951),Crime|Drama|Film-Noir|Thriller,1951,4.35,40
+1104,3.944499417209379,"Streetcar Named Desire, A (1951)",Drama,1951,4.25,46
+1253,3.875884005779383,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi|Thriller,1951,4.0,50
+1226,3.779080880537813,"Quiet Man, The (1952)",Drama|Romance,1952,4.0,34
+1283,3.988715308778322,High Noon (1952),Drama|Western,1952,4.4,41
+899,4.036673196665999,Singin' in the Rain (1952),Comedy|Musical|Romance,1952,4.6,44
+7700,3.691089104837335,"Wages of Fear, The (Salaire de la peur, Le) (1953)",Action|Adventure|Drama|Thriller,1953,4.4,36
+6643,3.642372876951696,Tokyo Story (Tôkyô monogatari) (1953),Drama,1953,4.8,34
+2087,3.5329504943977366,Peter Pan (1953),Animation|Children|Fantasy|Musical,1953,3.4,132
+4356,3.5531034456566846,Gentlemen Prefer Blondes (1953),Comedy|Musical|Romance,1953,3.9,34
+3404,3.230676218120399,Titanic (1953),Action|Drama,1953,3.7,97
+1944,3.8324905536364,From Here to Eternity (1953),Drama|Romance|War,1953,4.0,40
+916,4.008450703461206,Roman Holiday (1953),Comedy|Drama|Romance,1953,4.1,43
+2662,3.567035854151089,"War of the Worlds, The (1953)",Action|Drama|Sci-Fi,1953,3.5,244
+1945,4.079687499196427,On the Waterfront (1954),Crime|Drama,1954,4.5,49
+915,3.8375113031403236,Sabrina (1954),Comedy|Romance,1954,3.7,31
+904,4.239628948412884,Rear Window (1954),Mystery|Thriller,1954,4.45,60
+2019,4.227074559909409,Seven Samurai (Shichinin no samurai) (1954),Action|Adventure|Drama,1954,4.6,49
+2287,3.3987179462834574,Them! (1954),Horror|Sci-Fi|Thriller,1954,3.0,50
+7234,3.7146619181942,"Strada, La (1954)",Drama,1954,4.35,31
+2363,3.1891151668057764,Godzilla (Gojira) (1954),Drama|Horror|Sci-Fi,1954,3.8,57
+1103,3.759432645336049,Rebel Without a Cause (1955),Drama,1955,4.1,41
+5602,3.571677416169581,"Ladykillers, The (1955)",Comedy|Crime,1955,3.05,185
+668,3.7407612966398496,Song of the Little Road (Pather Panchali) (1955),Drama,1955,4.45,33
+7013,3.823948049383299,"Night of the Hunter, The (1955)",Drama|Film-Noir|Thriller,1955,4.35,41
+2080,3.5763681116325365,Lady and the Tramp (1955),Animation|Children|Comedy|Romance,1955,3.7,31
+4298,3.7055643839927273,Rififi (Du rififi chez les hommes) (1955),Crime|Film-Noir|Thriller,1955,4.05,40
+933,3.9429890354035106,To Catch a Thief (1955),Crime|Mystery|Romance|Thriller,1955,4.0,32
+1946,3.6965536381672326,Marty (1955),Drama|Romance,1955,4.2,54
+948,3.603344019726455,Giant (1956),Drama|Romance|Western,1956,3.85,35
+3365,3.8293759494150876,"Searchers, The (1956)",Drama|Western,1956,4.4,41
+1301,3.784863865958203,Forbidden Planet (1956),Drama|Sci-Fi,1956,4.05,36
+952,3.4262575436159795,Around the World in 80 Days (1956),Adventure|Comedy,1956,2.4,127
+2664,3.7099572141312427,Invasion of the Body Snatchers (1956),Horror|Sci-Fi|Thriller,1956,4.45,36
+4432,3.7107059697927465,Sweet Smell of Success (1957),Drama|Film-Noir,1957,4.35,41
+1203,4.183534315547332,12 Angry Men (1957),Drama,1957,4.4,36
+5300,3.3995278518062797,3:10 to Yuma (1957),Action|Adventure|Drama|Thriller|Western,1957,3.75,205
+1178,4.097492624155077,Paths of Glory (1957),Drama|War,1957,4.3,39
+2351,3.8345036289726697,"Nights of Cabiria (Notti di Cabiria, Le) (1957)",Drama,1957,4.35,35
+1237,3.9984058584797175,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama,1957,4.5,46
+1250,4.072698072427565,"Bridge on the River Kwai, The (1957)",Adventure|Drama|War,1957,4.4,43
+7766,3.7659192793483984,Throne of Blood (Kumonosu jô) (1957),Action|Drama|Thriller|War,1957,4.35,33
+5147,3.8793569408494184,Wild Strawberries (Smultronstället) (1957),Drama,1957,4.4,31
+2454,3.307234361985142,"Fly, The (1958)",Horror|Mystery|Sci-Fi,1958,4.0,44
+903,4.1132383167783235,Vertigo (1958),Drama|Mystery|Romance|Thriller,1958,4.3,54
+3379,3.47397910262379,On the Beach (1959),Drama,1959,2.2,116
+908,4.199423327033102,North by Northwest (1959),Action|Adventure|Mystery|Romance|Thriller,1959,4.5,58
+6239,3.2979574426066813,Journey to the Center of the Earth (1959),Adventure|Children|Sci-Fi,1959,3.0,148
+2096,3.566794285828722,Sleeping Beauty (1959),Animation|Children|Musical,1959,3.9,32
+2634,3.116520206557865,"Mummy, The (1959)",Horror,1959,2.85,81
+910,4.041113639910948,Some Like It Hot (1959),Comedy|Crime,1959,4.45,40
+1016,3.1255612219708424,"Shaggy Dog, The (1959)",Children|Comedy,1959,2.2,103
+1287,3.7958151150388146,Ben-Hur (1959),Action|Adventure|Drama,1959,3.9,33
+2519,3.206692603161752,House on Haunted Hill (1959),Drama|Horror|Thriller,1959,2.2,53
+3801,3.8499545844972074,Anatomy of a Murder (1959),Drama|Mystery,1959,4.25,35
+4329,3.6733624427198968,Rio Bravo (1959),Western,1959,4.1,33
+2731,3.986601013149164,"400 Blows, The (Les quatre cents coups) (1959)",Crime|Drama,1959,4.65,48
+2488,3.597976498082801,Peeping Tom (1960),Drama|Horror|Thriller,1960,4.1,31
+2728,3.7920136387406407,Spartacus (1960),Action|Drama|Romance|War,1960,4.05,45
+4792,2.956205529693953,13 Ghosts (1960),Horror,1960,1.7,89
+6461,3.6670231699719853,"Unforgiven, The (1960)",Drama|Western,1960,4.25,56
+3959,3.6153457984751705,"Time Machine, The (1960)",Action|Adventure|Sci-Fi,1960,2.4,146
+909,3.9649955546778397,"Apartment, The (1960)",Comedy|Drama|Romance,1960,4.15,43
+4914,3.8075966828097845,Breathless (�? bout de souffle) (1960),Crime|Drama|Romance,1960,4.3,48
+1219,4.053481562115383,Psycho (1960),Crime|Horror,1960,4.45,67
+8154,3.7313913999224266,"Dolce Vita, La (1960)",Drama,1960,4.55,53
+4954,3.465270433128447,Ocean's Eleven (a.k.a. Ocean's 11) (1960),Comedy|Crime,1960,3.45,166
+1947,3.7410031133299437,West Side Story (1961),Drama|Musical|Romance,1961,4.05,49
+2732,3.794189186965248,Jules and Jim (Jules et Jim) (1961),Drama|Romance,1961,4.45,31
+3030,4.07886178740154,Yojimbo (1961),Action|Adventure,1961,4.4,34
+1013,3.3870974391128925,"Parent Trap, The (1961)",Children|Comedy|Romance,1961,3.5,34
+902,3.8175417536816534,Breakfast at Tiffany's (1961),Drama|Romance,1961,3.7,43
+2085,3.414546112392908,101 Dalmatians (One Hundred and One Dalmatians) (1961),Adventure|Animation|Children,1961,4.0,37
+3468,4.013378225603333,"Hustler, The (1961)",Drama,1961,4.3,33
+3627,3.3161671163150324,Carnival of Souls (1962),Horror|Thriller,1962,3.6,31
+1207,4.154371602270146,To Kill a Mockingbird (1962),Drama,1962,4.4,39
+2949,3.6520369640847132,Dr. No (1962),Action|Adventure|Thriller,1962,3.8,42
+4406,3.7956132858018954,"Man Who Shot Liberty Valance, The (1962)",Crime|Drama|Western,1962,4.3,34
+3546,3.6179037086573977,What Ever Happened to Baby Jane? (1962),Drama|Horror|Thriller,1962,3.8,37
+1344,3.7253968243921145,Cape Fear (1962),Crime|Drama|Thriller,1962,3.45,38
+1267,4.076053962380149,"Manchurian Candidate, The (1962)",Crime|Thriller|War,1962,4.3,48
+1204,4.122154060806247,Lawrence of Arabia (1962),Adventure|Drama|War,1962,4.4,56
+2729,3.7367959227463485,Lolita (1962),Drama|Romance,1962,4.0,38
+6662,3.6308201041874506,"Pink Panther, The (1963)",Comedy|Crime,1963,2.05,139
+1572,3.5051612857722128,"Contempt (Mépris, Le) (1963)",Drama,1963,4.2,35
+911,3.9672512045293407,Charade (1963),Comedy|Crime|Mystery|Romance|Thriller,1963,4.05,33
+2136,2.891398165847724,"Nutty Professor, The (1963)",Comedy|Sci-Fi,1963,3.0,51
+2948,3.665659983736377,From Russia with Love (1963),Action|Adventure|Thriller,1963,3.95,45
+1251,3.9227196871698697,8 1/2 (8½) (1963),Drama|Fantasy,1963,4.2,34
+1333,3.7255231556657677,"Birds, The (1963)",Horror|Thriller,1963,4.0,40
+2550,3.495125551483432,"Haunting, The (1963)",Horror|Thriller,1963,1.85,87
+914,3.873136082596537,My Fair Lady (1964),Comedy|Drama|Musical|Romance,1964,4.0,36
+199,3.6223214261224452,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)",Drama|Musical|Romance,1964,4.3,45
+1028,3.7118799667760243,Mary Poppins (1964),Children|Comedy|Fantasy|Musical,1964,4.1,37
+2951,3.8788041171996683,"Fistful of Dollars, A (Per un pugno di dollari) (1964)",Action|Western,1964,4.05,35
+750,4.223802697936883,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),Comedy|War,1964,4.5,58
+2863,3.7653014062303827,"Hard Day's Night, A (1964)",Adventure|Comedy|Musical,1964,4.1,72
+2947,3.718279386291554,Goldfinger (1964),Action|Adventure|Thriller,1964,4.2,48
+2067,3.875036377536435,Doctor Zhivago (1965),Drama|Romance|War,1965,3.6,32
+1035,3.781366416596526,"Sound of Music, The (1965)",Musical|Romance,1965,3.85,47
+2993,3.5700849246417947,Thunderball (1965),Action|Adventure|Thriller,1965,3.5,33
+6448,3.46012432954072,"Flight of the Phoenix, The (1965)",Action|Adventure|Drama,1965,2.4,115
+3075,3.647683752355065,Repulsion (1965),Drama|Horror,1965,4.4,44
+2132,3.923416130355247,Who's Afraid of Virginia Woolf? (1966),Drama,1966,4.3,31
+52435,3.631984005528661,How the Grinch Stole Christmas! (1966),Animation|Comedy|Fantasy|Musical,1966,2.8,127
+3788,3.7019634069892238,Blow-Up (Blowup) (1966),Drama|Mystery,1966,4.0,35
+4191,3.407504074276387,Alfie (1966),Comedy|Drama|Romance,1966,2.75,149
+1201,4.090230727864953,"Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)",Action|Adventure|Western,1966,4.35,62
+26131,3.800115071957911,"Battle of Algiers, The (La battaglia di Algeri) (1966)",Drama|War,1966,4.5,70
+2135,3.060429445959682,Doctor Dolittle (1967),Adventure|Children|Musical,1967,2.6,49
+7569,3.5223053873738213,You Only Live Twice (1967),Action|Adventure|Sci-Fi|Thriller,1967,3.05,33
+1084,3.848908601122581,Bonnie and Clyde (1967),Crime|Drama,1967,4.05,46
+1276,4.068640850001084,Cool Hand Luke (1967),Drama,1967,4.4,44
+5796,2.988819871943207,Casino Royale (1967),Action|Adventure|Comedy,1967,3.9,214
+154,3.7067236453170516,Beauty of the Day (Belle de jour) (1967),Drama,1967,4.3,36
+1247,4.04707223872871,"Graduate, The (1967)",Comedy|Drama|Romance,1967,4.0,44
+3507,3.7996143237087745,"Odd Couple, The (1968)",Comedy,1968,4.1,31
+674,2.991442154004979,Barbarella (1968),Adventure|Comedy|Sci-Fi,1968,3.0,35
+4912,3.3899999963155603,Funny Girl (1968),Drama|Musical|Romance,1968,3.8,38
+1209,4.02712451499141,Once Upon a Time in the West (C'era una volta il West) (1968),Action|Drama|Western,1968,4.5,48
+2529,3.601961823592096,Planet of the Apes (1968),Action|Drama|Sci-Fi,1968,3.7,44
+924,3.9397778897628566,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,1968,4.4,53
+2764,3.477874185021026,"Thomas Crown Affair, The (1968)",Crime|Drama|Romance|Thriller,1968,3.2,88
+2857,3.540751326064281,Yellow Submarine (1968),Adventure|Animation|Comedy|Fantasy|Musical,1968,3.8,36
+968,3.604478836330502,Night of the Living Dead (1968),Horror|Sci-Fi|Thriller,1968,4.25,45
+7076,3.6027101493168816,Bullitt (1968),Action|Crime|Drama|Thriller,1968,3.85,33
+2300,3.861672172829026,"Producers, The (1968)",Comedy,1968,2.9,150
+1304,4.024978203703005,Butch Cassidy and the Sundance Kid (1969),Action|Western,1969,4.05,42
+3633,3.3631116672091754,On Her Majesty's Secret Service (1969),Action|Adventure|Romance|Thriller,1969,3.3,37
+1952,3.93687150765405,Midnight Cowboy (1969),Drama,1969,4.15,49
+599,3.8861186704036066,"Wild Bunch, The (1969)",Adventure|Western,1969,4.4,38
+6893,3.5484780976476804,"Italian Job, The (1969)",Action|Comedy|Crime,1969,3.2,178
+3168,3.6579615640121568,Easy Rider (1969),Adventure|Drama,1969,3.95,37
+5060,3.878308258755208,M*A*S*H (a.k.a. MASH) (1970),Comedy|Drama|War,1970,4.1,35
+2925,3.70122604985659,"Conformist, The (Conformista, Il) (1970)",Drama,1970,4.4,40
+1272,3.9916368251198855,Patton (1970),Drama|War,1970,4.1,36
+1235,3.9492295114479163,Harold and Maude (1971),Comedy|Drama|Romance,1971,3.8,38
+3947,3.374345987394811,Get Carter (1971),Action|Crime|Drama|Thriller,1971,1.8,60
+26242,3.5184986562083447,Duel (1971),Action|Mystery|Thriller,1971,3.85,36
+3152,3.8617264836209313,"Last Picture Show, The (1971)",Drama,1971,4.3,33
+6645,3.357203386841919,THX 1138 (1971),Action|Adventure|Drama|Sci-Fi,1971,3.5,56
+3032,3.3629270521989154,"Omega Man, The (1971)",Action|Drama|Sci-Fi|Thriller,1971,2.8,32
+3729,3.236548515434544,Shaft (1971),Action|Crime|Drama|Thriller,1971,3.7,31
+3984,3.4732550947216083,Diamonds Are Forever (1971),Action|Adventure|Thriller,1971,3.2,36
+4855,3.7296522851034855,Dirty Harry (1971),Action|Crime|Thriller,1971,3.9,42
+3093,3.6344159219815877,McCabe & Mrs. Miller (1971),Drama|Western,1971,4.2,35
+1953,3.9157865720497025,"French Connection, The (1971)",Action|Crime|Thriller,1971,4.25,45
+2361,3.251974068982234,Pink Flamingos (1972),Comedy,1972,3.3,35
+7084,3.6220108662111756,"Play It Again, Sam (1972)",Comedy|Romance,1972,3.7,32
+3503,3.6646903304618013,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi,1972,4.15,39
+1082,3.5343270847797488,"Candidate, The (1972)",Drama,1972,4.3,48
+6666,3.6565902543430164,"Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le) (1972)",Comedy|Drama|Fantasy,1972,4.2,38
+3545,3.781879006150781,Cabaret (1972),Drama|Musical,1972,4.15,32
+2871,3.780697259418896,Deliverance (1972),Adventure|Drama|Thriller,1972,4.25,50
+7063,3.748528592483537,"Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) (1972)",Adventure|Drama,1972,4.45,32
+858,4.350020308088947,"Godfather, The (1972)",Crime|Drama,1972,4.5,66
+5120,3.731032606012419,Sleuth (1972),Comedy|Mystery|Thriller,1972,2.55,118
+6533,3.451858402710487,"What's Up, Doc? (1972)",Comedy,1972,3.55,33
+8016,3.38738827712299,"Getaway, The (1972)",Action|Crime|Drama|Thriller,1972,2.9,124
+5105,3.4954440116315446,Don't Look Now (1973),Drama|Horror|Thriller,1973,4.1,37
+1997,3.7221372389828162,"Exorcist, The (1973)",Horror|Mystery,1973,3.85,43
+2137,3.540342856336792,Charlotte's Web (1973),Animation|Children,1973,3.5,142
+8042,3.661626097909296,Mean Streets (1973),Crime|Drama,1973,4.45,46
+7089,3.5390476147730308,Amarcord (1973),Comedy|Drama,1973,4.1,39
+4754,3.5802208329634424,"Wicker Man, The (1973)",Drama|Horror|Mystery|Thriller,1973,3.85,45
+3741,3.872196967826837,Badlands (1973),Crime|Drama|Thriller,1973,4.35,38
+2991,3.455229969410766,Live and Let Die (1973),Action|Adventure|Thriller,1973,2.95,36
+1234,4.13983534260747,"Sting, The (1973)",Comedy|Crime,1973,4.05,45
+2009,3.4593013089656877,Soylent Green (1973),Drama|Mystery|Sci-Fi|Thriller,1973,3.0,31
+3363,3.761878521610877,American Graffiti (1973),Comedy|Drama,1973,4.15,32
+3735,3.8396279461524663,Serpico (1973),Crime|Drama,1973,4.0,37
+2459,3.2002552453383015,"Texas Chainsaw Massacre, The (1974)",Horror,1974,2.4,152
+4220,3.412200814397461,"Longest Yard, The (1974)",Comedy,1974,2.4,163
+1278,3.9690832100508664,Young Frankenstein (1974),Comedy|Fantasy,1974,4.25,46
+3730,3.9794765828886245,"Conversation, The (1974)",Drama|Mystery,1974,4.3,43
+1252,4.16594560373579,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller,1974,4.65,47
+3384,3.6484152480766427,"Taking of Pelham One Two Three, The (1974)",Action|Crime,1974,4.1,32
+3671,3.842599146479976,Blazing Saddles (1974),Comedy|Western,1974,4.05,45
+1221,4.255165244643445,"Godfather: Part II, The (1974)",Crime|Drama,1974,4.6,55
+3639,3.443419234943132,"Man with the Golden Gun, The (1974)",Action|Adventure|Thriller,1974,2.55,33
+3362,3.9271835646206563,Dog Day Afternoon (1975),Crime|Drama,1975,4.25,35
+2346,3.2568649439067903,"Stepford Wives, The (1975)",Mystery|Sci-Fi|Thriller,1975,2.35,163
+1193,4.229761435168994,One Flew Over the Cuckoo's Nest (1975),Drama,1975,4.4,50
+2303,3.77767441683823,Nashville (1975),Drama|Musical,1975,4.3,39
+1387,3.790479971548564,Jaws (1975),Action|Horror,1975,4.4,37
+1136,4.1586206895079005,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,1975,3.9,51
+7991,3.181913870873541,Death Race 2000 (1975),Action|Sci-Fi,1975,2.4,145
+2657,3.3225647257232764,"Rocky Horror Picture Show, The (1975)",Comedy|Horror|Musical|Sci-Fi,1975,3.25,35
+2730,3.680762738799477,Barry Lyndon (1975),Drama|Romance|War,1975,3.9,49
+2819,3.863096445447424,Three Days of the Condor (3 Days of the Condor) (1975),Drama|Mystery|Romance|Thriller,1975,3.5,37
+3508,3.827860562816086,"Outlaw Josey Wales, The (1976)",Action|Adventure|Drama|Thriller|Western,1976,4.0,31
+1345,3.432362994273112,Carrie (1976),Drama|Fantasy|Horror|Thriller,1976,4.0,42
+1350,3.5205405397065626,"Omen, The (1976)",Horror|Mystery|Thriller,1976,3.5,32
+3504,3.9443743419318,Network (1976),Comedy|Drama,1976,4.05,41
+2367,2.826877468854622,King Kong (1976),Adventure|Fantasy|Romance|Sci-Fi|Thriller,1976,3.85,242
+1954,3.706579889037608,Rocky (1976),Drama,1976,4.05,41
+111,4.09101316981157,Taxi Driver (1976),Crime|Drama|Thriller,1976,4.35,50
+3551,3.7792438831388315,Marathon Man (1976),Crime|Drama|Thriller,1976,3.6,34
+6787,3.9464417167817687,All the President's Men (1976),Drama|Thriller,1976,4.5,40
+3726,3.404894626147417,Assault on Precinct 13 (1976),Action|Thriller,1976,2.95,160
+3471,3.7630228587555683,Close Encounters of the Third Kind (1977),Adventure|Drama|Sci-Fi,1977,4.3,39
+260,4.181058870496761,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,1977,4.1,64
+5693,3.2508897892796913,Saturday Night Fever (1977),Comedy|Drama|Romance,1977,3.7,38
+1230,4.051413460622228,Annie Hall (1977),Comedy|Romance,1977,4.4,46
+3635,3.4978841622275807,"Spy Who Loved Me, The (1977)",Action|Adventure|Thriller,1977,3.35,37
+3676,3.5264334289157278,Eraserhead (1977),Drama|Horror,1977,3.95,40
+2014,3.0856473573521512,Freaky Friday (1977),Children|Comedy|Fantasy,1977,3.5,140
+2116,3.2088281929626166,"Lord of the Rings, The (1978)",Adventure|Animation|Children|Fantasy,1978,4.3,239
+2640,3.389511834951752,Superman (1978),Action|Adventure|Sci-Fi,1978,4.0,52
+1982,3.5181831494597584,Halloween (1978),Horror,1978,2.05,101
+7001,3.487337983580683,Invasion of the Body Snatchers (1978),Horror|Mystery|Sci-Fi|Thriller,1978,4.45,36
+2091,2.9599646197304543,Return from Witch Mountain (1978),Children|Sci-Fi,1978,2.55,145
+7387,3.7108045962824283,Dawn of the Dead (1978),Action|Drama|Horror,1978,3.35,171
+1388,2.6388922205684566,Jaws 2 (1978),Horror|Thriller,1978,4.4,37
+2924,3.6790128391102934,Drunken Master (Jui kuen) (1978),Action|Comedy,1978,3.5,74
+2932,3.745479007030598,Days of Heaven (1978),Drama,1978,3.95,36
+1263,3.948121386837324,"Deer Hunter, The (1978)",Drama|War,1978,4.15,44
+1380,3.3088406692537418,Grease (1978),Comedy|Musical|Romance,1978,3.35,54
+5385,3.693911822997096,"Last Waltz, The (1978)",Documentary,1978,4.2,39
+3421,3.7959061361579174,Animal House (1978),Comedy,1978,3.85,40
+1244,4.0162969875160925,Manhattan (1979),Comedy|Drama|Romance,1979,4.3,43
+1327,2.9447884109806446,"Amityville Horror, The (1979)",Drama|Horror|Mystery|Thriller,1979,2.1,155
+3702,3.516096514215855,Mad Max (1979),Action|Adventure|Sci-Fi,1979,3.85,38
+1371,3.0840904654964763,Star Trek: The Motion Picture (1979),Adventure|Sci-Fi,1979,2.9,31
+6658,2.9806502736422287,10 (1979),Comedy|Romance,1979,3.65,157
+2901,3.1606415236509973,Phantasm (1979),Horror|Sci-Fi,1979,3.1,35
+1080,3.9609915940097284,Monty Python's Life of Brian (1979),Comedy,1979,4.1,53
+1208,4.088219584360443,Apocalypse Now (1979),Action|Drama|War,1979,4.4,61
+5489,3.463673135164119,Nosferatu the Vampyre (Nosferatu: Phantom der Nacht) (1979),Horror,1979,3.8,34
+1955,3.6789074064931206,Kramer vs. Kramer (1979),Drama,1979,3.95,34
+3638,3.1462548253017086,Moonraker (1979),Action|Adventure|Sci-Fi|Thriller,1979,2.85,36
+3396,3.6430961188897366,"Muppet Movie, The (1979)",Adventure|Children|Comedy|Musical,1979,3.9,37
+1292,3.9240116695934137,Being There (1979),Comedy|Drama,1979,4.2,38
+3359,3.9002721815631056,Breaking Away (1979),Comedy|Drama,1979,4.1,33
+4941,3.0831878709521594,Flash Gordon (1980),Action|Adventure|Sci-Fi,1980,3.15,32
+4826,3.3632653015425333,"Big Red One, The (1980)",Action|Adventure|Drama|War,1980,3.85,44
+1974,2.904647397702393,Friday the 13th (1980),Horror|Mystery|Thriller,1980,2.8,45
+1196,4.176687839588389,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,1980,4.3,71
+1258,3.993166039107605,"Shining, The (1980)",Horror,1980,3.9,45
+3552,3.6667488207311245,Caddyshack (1980),Comedy,1980,3.25,44
+1128,3.026986299115457,"Fog, The (1980)",Horror,1980,1.35,66
+2791,3.781090570849058,Airplane! (1980),Comedy,1980,4.15,49
+2313,3.8664159708823806,"Elephant Man, The (1980)",Drama,1980,4.1,33
+1220,3.7882601847600297,"Blues Brothers, The (1980)",Action|Comedy|Musical,1980,3.45,45
+1956,3.815934290567321,Ordinary People (1980),Drama,1980,3.95,32
+1987,2.7659999955116823,Prom Night (1980),Horror,1980,1.4,60
+4833,3.378319001970249,"Changeling, The (1980)",Horror|Mystery|Thriller,1980,3.15,190
+1228,4.036881793660058,Raging Bull (1980),Drama,1980,4.5,54
+4713,3.388606962717836,Altered States (1980),Drama|Sci-Fi,1980,3.45,33
+2641,3.1099113800213214,Superman II (1980),Action|Sci-Fi,1980,3.7,41
+5540,3.262880225790328,Clash of the Titans (1981),Action|Adventure|Fantasy|Romance,1981,2.9,37
+4105,3.639321250011168,"Evil Dead, The (1981)",Fantasy|Horror|Thriller,1981,4.05,45
+1957,3.687176290688665,Chariots of Fire (1981),Drama,1981,3.7,36
+1663,3.6476414533658215,Stripes (1981),Comedy|War,1981,3.3,33
+1129,3.3642423591803694,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller,1981,3.4,45
+3703,3.619446844756142,"Road Warrior, The (Mad Max 2) (1981)",Action|Adventure|Sci-Fi,1981,4.15,36
+1233,4.104067459967605,"Boot, Das (Boat, The) (1981)",Action|Drama|War,1981,4.5,36
+2917,3.8422381823593263,Body Heat (1981),Crime|Thriller,1981,4.0,36
+2929,3.4099999974151047,Reds (1981),Drama|Romance,1981,4.25,40
+5712,3.357417098658683,Blow Out (1981),Mystery|Thriller,1981,3.75,36
+2989,3.411120975596637,For Your Eyes Only (1981),Action|Adventure|Thriller,1981,3.1,35
+1321,3.533049146823326,"American Werewolf in London, An (1981)",Comedy|Horror|Thriller,1981,3.75,43
+2968,3.56944474931972,Time Bandits (1981),Adventure|Comedy|Fantasy|Sci-Fi,1981,4.0,36
+3524,3.2794322117795045,Arthur (1981),Comedy|Romance,1981,2.45,183
+1264,3.87904096381799,Diva (1981),Action|Drama|Mystery|Romance|Thriller,1981,4.05,41
+4929,2.8935323342146355,"Toy, The (1982)",Comedy,1982,4.5,73
+2068,3.7871036825462085,Fanny and Alexander (Fanny och Alexander) (1982),Drama|Fantasy|Mystery,1982,4.45,33
+5049,3.451784479636853,48 Hrs. (1982),Action|Comedy|Crime|Drama,1982,3.7,33
+2403,3.503557243146754,First Blood (Rambo: First Blood) (1982),Action|Adventure|Drama|Thriller,1982,3.55,35
+1293,3.9528020512027786,Gandhi (1982),Drama,1982,3.85,40
+1374,3.678527419939172,Star Trek II: The Wrath of Khan (1982),Action|Adventure|Sci-Fi|Thriller,1982,3.9,40
+2105,3.3157715577782576,Tron (1982),Action|Adventure|Sci-Fi,1982,3.0,37
+1994,3.4972286368951133,Poltergeist (1982),Horror|Thriller,1982,3.55,49
+4361,3.62132706929687,Tootsie (1982),Comedy|Romance,1982,3.8,39
+1097,3.7455507004689728,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,1982,4.45,89
+1381,2.1039808141637533,Grease 2 (1982),Comedy|Musical|Romance,1982,3.35,54
+1346,3.0376358673291897,Cat People (1982),Drama|Fantasy|Horror,1982,3.05,36
+3210,3.6393599427329772,Fast Times at Ridgemont High (1982),Comedy|Drama|Romance,1982,3.35,44
+7573,3.2095541366332982,Never Say Never Again (1983),Action|Adventure|Thriller,1983,2.95,34
+7570,3.248502063565522,Octopussy (1983),Action|Adventure|Thriller,1983,2.65,32
+2114,3.5496603957844437,"Outsiders, The (1983)",Drama,1983,3.05,31
+4262,3.9061851914737904,Scarface (1983),Action|Crime|Drama,1983,3.75,50
+2795,3.735599311621011,National Lampoon's Vacation (1983),Comedy,1983,3.65,34
+4957,3.1897459120352547,Sudden Impact (1983),Crime|Thriller,1983,2.85,32
+3584,2.965123147845173,Breathless (1983),Action|Drama|Romance|Thriller,1983,4.3,48
+3550,3.295308307682876,"Hunger, The (1983)",Horror,1983,3.85,109
+6774,3.553776976197325,Videodrome (1983),Fantasy|Horror|Sci-Fi|Thriller,1983,3.55,44
+2642,2.490349229264523,Superman III (1983),Action|Adventure|Sci-Fi,1983,2.2,40
+2942,2.962076371136719,Flashdance (1983),Drama|Romance,1983,2.35,34
+3039,3.704736352808054,Trading Places (1983),Comedy,1983,3.6,36
+2915,3.492811234832522,Risky Business (1983),Comedy,1983,3.7,43
+2352,3.6960979014073914,"Big Chill, The (1983)",Comedy|Drama,1983,3.05,31
+2804,3.9974765516646458,"Christmas Story, A (1983)",Children|Comedy,1983,4.15,43
+1210,3.9954181540603493,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,1983,3.35,63
+1958,3.593403834927917,Terms of Endearment (1983),Comedy|Drama,1983,3.7,35
+6001,3.684005435008088,"King of Comedy, The (1983)",Comedy|Drama,1983,4.15,39
+1965,3.5610545229273294,Repo Man (1984),Comedy|Sci-Fi,1984,3.95,37
+3791,3.0964717988830417,Footloose (1984),Drama,1984,2.8,32
+2100,3.2194021336696954,Splash (1984),Comedy|Fantasy|Romance,1984,3.45,35
+3098,3.741599559857769,"Natural, The (1984)",Drama,1984,3.5,31
+1240,3.885145450648792,"Terminator, The (1984)",Action|Sci-Fi|Thriller,1984,2.5,251
+1299,4.0275294111193265,"Killing Fields, The (1984)",Drama|War,1984,4.05,33
+3070,3.3407728325674118,"Adventures of Buckaroo Banzai Across the 8th Dimension, The (1984)",Adventure|Comedy|Sci-Fi,1984,3.2,34
+4085,3.5376815536549424,Beverly Hills Cop (1984),Action|Comedy|Crime|Drama,1984,3.55,36
+2716,3.736993407016594,Ghostbusters (a.k.a. Ghost Busters) (1984),Action|Comedy|Sci-Fi,1984,3.8,46
+1375,3.241500927699359,Star Trek III: The Search for Spock (1984),Action|Adventure|Sci-Fi,1984,3.2,38
+3937,3.0297127424262573,Runaway (1984),Sci-Fi|Thriller,1984,3.3,152
+2420,3.277662009968268,"Karate Kid, The (1984)",Drama,1984,3.45,41
+1347,3.2586918232783457,"Nightmare on Elm Street, A (1984)",Horror|Thriller,1984,3.85,40
+2144,3.6106444761602647,Sixteen Candles (1984),Comedy|Romance,1984,3.5,31
+1225,4.051537181993958,Amadeus (1984),Drama,1984,4.3,69
+1288,4.005080342821243,This Is Spinal Tap (1984),Comedy,1984,4.3,53
+3683,3.952296055296749,Blood Simple (1984),Crime|Drama|Film-Noir,1984,4.05,77
+2406,3.4706183729497506,Romancing the Stone (1984),Action|Adventure|Comedy|Romance,1984,3.5,42
+2364,2.8519183633166127,"Godzilla 1985: The Legend Is Reborn (Gojira) (Godzilla) (Return of Godzilla, The) (1984)",Action|Horror|Sci-Fi|Thriller,1984,2.35,59
+2003,3.239111110689133,Gremlins (1984),Comedy|Horror,1984,3.4,41
+2115,3.6640218687431245,Indiana Jones and the Temple of Doom (1984),Action|Adventure|Fantasy,1984,3.6,59
+6664,3.096431879083805,Commando (1985),Action|Adventure,1985,3.0,31
+3685,3.509418980535132,Prizzi's Honor (1985),Comedy|Drama|Romance,1985,3.5,32
+1968,3.8125911900943232,"Breakfast Club, The (1985)",Comedy|Drama,1985,3.75,42
+1674,3.818595678589065,Witness (1985),Drama|Romance|Thriller,1985,4.05,31
+1959,3.5840464095472897,Out of Africa (1985),Drama|Romance,1985,3.1,32
+1217,4.075901576833743,Ran (1985),Drama|War,1985,4.35,56
+2005,3.587340610500216,"Goonies, The (1985)",Action|Adventure|Children|Comedy|Fantasy,1985,2.95,39
+8880,3.2962611875001846,Mask (1985),Drama,1985,3.2,44
+3608,3.271032131623312,Pee-wee's Big Adventure (1985),Adventure|Comedy,1985,3.7,35
+3018,3.4072609903440303,Re-Animator (1985),Comedy|Horror|Sci-Fi,1985,3.85,38
+1270,3.914709249512543,Back to the Future (1985),Adventure|Comedy|Sci-Fi,1985,4.2,54
+3704,3.103706198629186,Mad Max Beyond Thunderdome (1985),Action|Adventure|Sci-Fi,1985,3.15,37
+7419,3.6604777389049135,After Hours (1985),Comedy|Thriller,1985,3.9,37
+2376,3.171403330404556,"View to a Kill, A (1985)",Action|Adventure|Thriller,1985,2.4,41
+1199,3.9985889185213286,Brazil (1985),Fantasy|Sci-Fi,1985,4.3,40
+2411,2.81827656710643,Rocky IV (1985),Action|Drama,1985,2.35,34
+1090,3.8958547948897997,Platoon (1986),Drama|War,1986,3.9,42
+2450,2.24454138058544,Howard the Duck (1986),Adventure|Comedy|Sci-Fi,1986,1.25,32
+2918,3.9266532306782067,Ferris Bueller's Day Off (1986),Comedy,1986,3.7,46
+6993,3.7785581549843372,Hannah and Her Sisters (1986),Comedy|Drama|Romance,1986,4.2,40
+2262,3.09081486599816,About Last Night... (1986),Comedy|Drama|Romance,1986,3.6,49
+2076,3.7939839994733706,Blue Velvet (1986),Drama|Mystery|Thriller,1986,4.2,33
+2474,3.3926945460727507,"Color of Money, The (1986)",Drama,1986,3.65,34
+3360,3.7968553449710023,Hoosiers (a.k.a. Best Shot) (1986),Drama|Romance,1986,3.7,42
+8501,3.3312191063120684,"Hitcher, The (1986)",Action|Thriller,1986,1.9,93
+2349,3.5865989822654063,Mona Lisa (1986),Comedy|Thriller,1986,2.45,147
+2457,3.2902373220403724,Running Scared (1986),Action|Comedy,1986,2.25,128
+1259,3.9788114905681025,Stand by Me (1986),Adventure|Drama,1986,3.9,34
+1200,3.9898974949492114,Aliens (1986),Action|Adventure|Horror|Sci-Fi,1986,4.4,47
+2455,3.3858066324773146,"Fly, The (1986)",Drama|Horror|Sci-Fi|Thriller,1986,4.0,44
+4210,3.482392024527762,Manhunter (1986),Action|Crime|Drama|Horror|Thriller,1986,3.85,32
+2159,3.347790971526295,Henry: Portrait of a Serial Killer (1986),Crime|Horror|Thriller,1986,3.65,41
+1967,3.6028506524773256,Labyrinth (1986),Adventure|Fantasy|Musical,1986,3.0,32
+1376,3.4813281361275816,Star Trek IV: The Voyage Home (1986),Adventure|Comedy|Sci-Fi,1986,3.4,37
+2348,3.4761343938562006,Sid and Nancy (1986),Drama,1986,3.65,31
+1960,3.804974926769972,"Last Emperor, The (1987)",Drama,1987,3.95,44
+4103,3.7351745688022016,Empire of the Sun (1987),Action|Adventure|Drama|War,1987,3.4,35
+2194,3.860939655944226,"Untouchables, The (1987)",Action|Crime|Drama,1987,3.6,42
+1222,4.013114242177064,Full Metal Jacket (1987),Drama|War,1987,4.1,55
+2243,3.653957618426745,Broadcast News (1987),Comedy|Drama|Romance,1987,4.05,38
+4005,3.2319678695031526,"Living Daylights, The (1987)",Action|Adventure|Thriller,1987,3.05,33
+4128,3.535494031011746,"Lost Boys, The (1987)",Comedy|Horror|Thriller,1987,3.15,40
+1211,3.917453056105645,"Wings of Desire (Himmel über Berlin, Der) (1987)",Drama|Fantasy|Romance,1987,4.25,39
+3072,3.6175672273263197,Moonstruck (1987),Comedy|Romance,1987,3.85,36
+1970,2.738828095680498,"Nightmare on Elm Street 3: Dream Warriors, A (1987)",Horror|Thriller,1987,2.95,31
+4007,3.662395161900303,Wall Street (1987),Drama,1987,3.4,48
+3576,3.4466351800843276,"Hidden, The (1987)",Action|Horror|Sci-Fi,1987,3.9,128
+4121,3.235084154109939,Innerspace (1987),Action|Adventure|Comedy|Sci-Fi,1987,3.3,34
+3698,3.186005052647789,"Running Man, The (1987)",Action|Sci-Fi,1987,2.75,32
+2451,2.850126364838122,"Gate, The (1987)",Horror,1987,2.45,85
+4002,3.551847420928077,"Planes, Trains & Automobiles (1987)",Comedy,1987,3.9,41
+3527,3.6041165122739143,Predator (1987),Action|Sci-Fi|Thriller,1987,3.4,37
+8623,3.437777776036279,Roxanne (1987),Comedy|Romance,1987,3.65,33
+2985,3.3028996380611892,RoboCop (1987),Action|Crime|Drama|Sci-Fi|Thriller,1987,3.85,42
+3727,3.473894077920779,Near Dark (1987),Horror|Western,1987,3.7,41
+3101,3.4077492928221904,Fatal Attraction (1987),Drama|Thriller,1987,3.4,42
+1197,4.160962340417786,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,1987,4.1,44
+1394,3.861984608337787,Raising Arizona (1987),Comedy,1987,3.8,49
+2000,3.675253862862188,Lethal Weapon (1987),Action|Comedy|Crime|Drama,1987,3.65,40
+1261,3.7335424704467726,Evil Dead II (Dead by Dawn) (1987),Action|Comedy|Fantasy|Horror,1987,3.9,42
+1088,3.2059063662870537,Dirty Dancing (1987),Drama|Musical|Romance,1987,2.9,43
+3448,3.640612549391007,"Good Morning, Vietnam (1987)",Comedy|Drama|War,1987,3.65,31
+1290,3.472218428349096,Some Kind of Wonderful (1987),Drama|Romance,1987,3.2,33
+2797,3.6099970006529465,Big (1988),Comedy|Drama|Fantasy|Romance,1988,3.95,52
+1036,3.920890643550369,Die Hard (1988),Action|Crime|Thriller,1988,4.05,50
+3361,3.667823676265389,Bull Durham (1988),Comedy|Drama|Romance,1988,3.95,45
+4489,3.4570715463941033,Coming to America (1988),Comedy|Romance,1988,2.85,36
+4546,3.7450673827832075,"Vanishing, The (Spoorloos) (1988)",Drama|Thriller,1988,4.2,33
+3868,3.5498979325163114,"Naked Gun: From the Files of Police Squad!, The (1988)",Action|Comedy|Crime|Romance,1988,3.6,35
+2551,3.420393870924661,Dead Ringers (1988),Drama|Horror|Thriller,1988,3.85,35
+4496,3.1686329541786993,D.O.A. (1988),Film-Noir|Mystery|Thriller,1988,2.25,44
+4506,3.2920863277062464,Frantic (1988),Crime|Mystery|Thriller,1988,3.2,39
+3087,3.430882098232842,Scrooged (1988),Comedy|Fantasy|Romance,1988,2.9,38
+2245,3.3261401115976814,Working Girl (1988),Comedy|Drama|Romance,1988,3.35,36
+709,3.2609299305982726,Oliver & Company (1988),Adventure|Animation|Children|Comedy|Musical,1988,2.7,33
+4587,2.8362999975314254,Earth Girls Are Easy (1988),Comedy|Musical|Sci-Fi,1988,2.75,32
+1961,3.8839065798518537,Rain Man (1988),Drama,1988,3.8,54
+2174,3.464496290270541,Beetlejuice (1988),Comedy|Fantasy,1988,3.5,42
+4557,3.3364864829750003,Tucker: The Man and His Dream (1988),Drama,1988,3.6,35
+4322,3.623795047791077,Eight Men Out (1988),Drama,1988,3.6,36
+4474,3.1375068018850576,Beaches (1988),Comedy|Drama|Musical,1988,2.2,116
+2987,3.520778811774938,Who Framed Roger Rabbit? (1988),Adventure|Animation|Children|Comedy|Crime|Fantasy|Mystery,1988,4.15,42
+1274,3.821464188017096,Akira (1988),Action|Adventure|Animation|Sci-Fi,1988,3.65,34
+2926,3.3129842919012695,Hairspray (1988),Comedy|Drama,1988,3.85,205
+26614,3.911807034931464,"Bourne Identity, The (1988)",Action|Adventure|Drama|Mystery|Thriller,1988,3.5,180
+4499,3.6159368737636925,Dirty Rotten Scoundrels (1988),Comedy,1988,3.45,31
+2022,3.5603150545479707,"Last Temptation of Christ, The (1988)",Drama,1988,3.65,46
+1079,3.831867750325312,"Fish Called Wanda, A (1988)",Comedy|Crime,1988,4.0,46
+4553,3.4606382954849373,They Live (1988),Action|Sci-Fi|Thriller,1988,3.5,33
+4703,3.5840350855538814,Chocolat (1988),Drama,1988,3.0,114
+1373,2.8534880780954777,Star Trek V: The Final Frontier (1989),Action|Sci-Fi,1989,2.0,41
+2011,3.438639325933162,Back to the Future Part II (1989),Adventure|Comedy|Sci-Fi,1989,3.0,40
+1285,3.731407187804617,Heathers (1989),Comedy,1989,3.9,41
+1291,3.993835745596691,Indiana Jones and the Last Crusade (1989),Action|Adventure,1989,3.95,54
+1242,3.9415713610420533,Glory (1989),Drama|War,1989,3.95,40
+1246,3.875729631859628,Dead Poets Society (1989),Drama,1989,3.6,49
+1962,3.6847113525079793,Driving Miss Daisy (1989),Drama,1989,3.5,41
+4681,3.149925978927776,"War of the Roses, The (1989)",Comedy|Drama,1989,3.5,37
+1218,3.9269541764189433,"Killer, The (Die xue shuang xiong) (1989)",Action|Crime|Drama|Thriller,1989,4.3,31
+4571,3.351748878370275,Bill & Ted's Excellent Adventure (1989),Adventure|Comedy|Sci-Fi,1989,3.15,32
+2081,3.5010544812128463,"Little Mermaid, The (1989)",Animation|Children|Comedy|Musical|Romance,1989,4.0,51
+4623,3.442479575940137,Major League (1989),Comedy,1989,3.3,31
+1302,3.633046134178966,Field of Dreams (1989),Children|Drama|Fantasy,1989,3.85,45
+2001,3.302621501845571,Lethal Weapon 2 (1989),Action|Comedy|Crime|Drama,1989,3.65,40
+2973,3.9226495715391025,Crimes and Misdemeanors (1989),Comedy|Crime|Drama,1989,3.95,38
+1172,4.100843749485714,Cinema Paradiso (Nuovo cinema Paradiso) (1989),Drama,1989,3.95,56
+4673,2.8012284992067364,Tango & Cash (1989),Action|Comedy|Crime|Thriller,1989,2.15,33
+3424,3.7930557658506077,Do the Right Thing (1989),Drama,1989,4.4,51
+3526,3.553421876971565,Parenthood (1989),Comedy|Drama,1989,3.6,39
+2248,3.834283030167277,Say Anything... (1989),Comedy|Drama|Romance,1989,4.05,38
+1127,3.643525099681411,"Abyss, The (1989)",Action|Adventure|Sci-Fi|Thriller,1989,3.6,43
+4621,2.712584100439285,Look Who's Talking (1989),Comedy|Romance,1989,2.5,33
+2717,2.988938104098712,Ghostbusters II (1989),Comedy|Fantasy|Sci-Fi,1989,2.6,34
+4636,2.699999995544089,"Punisher, The (1989)",Action,1989,2.1,96
+2990,3.1926143780093352,Licence to Kill (1989),Action|Adventure|Thriller,1989,2.9,35
+4008,3.396231948344506,Born on the Fourth of July (1989),Drama|War,1989,3.65,36
+1307,3.827144005496822,When Harry Met Sally... (1989),Comedy|Romance,1989,3.9,47
+1173,3.3822795809347017,"Cook the Thief His Wife & Her Lover, The (1989)",Comedy|Drama,1989,3.65,37
+1186,3.516331095547158,"Sex, Lies, and Videotape (1989)",Drama,1989,3.95,34
+2423,3.556916171672199,Christmas Vacation (National Lampoon's Christmas Vacation) (1989),Comedy,1989,3.1,34
+1224,4.025038788801949,Henry V (1989),Action|Drama|Romance|War,1989,4.1,32
+2291,3.713533387917368,Edward Scissorhands (1990),Drama|Fantasy|Romance,1990,3.8,53
+3723,3.495641741328609,Hamlet (1990),Drama,1990,4.1,54
+2916,3.557470292380012,Total Recall (1990),Action|Adventure|Sci-Fi|Thriller,1990,3.6,42
+587,3.438678804690638,Ghost (1990),Comedy|Drama|Fantasy|Romance|Thriller,1990,3.4,42
+7044,3.5331860555045904,Wild at Heart (1990),Crime|Drama|Mystery|Romance|Thriller,1990,2.9,42
+3476,3.627175294289346,Jacob's Ladder (1990),Horror|Mystery,1990,3.3,45
+2004,2.7493788197718105,Gremlins 2: The New Batch (1990),Comedy|Horror,1990,3.2,34
+8225,3.2216318738736724,Night of the Living Dead (1990),Horror,1990,4.25,45
+590,3.7218081773969502,Dances with Wolves (1990),Adventure|Drama|Western,1990,3.5,46
+26680,3.2593489743095008,Cry-Baby (1990),Comedy|Musical|Romance,1990,3.35,37
+3438,2.8427077591382957,Teenage Mutant Ninja Turtles (1990),Action|Children|Comedy|Fantasy|Sci-Fi,1990,2.45,37
+3499,3.718669571924331,Misery (1990),Drama|Horror|Thriller,1990,3.65,51
+1610,3.8458327609988032,"Hunt for Red October, The (1990)",Action|Adventure|Thriller,1990,3.9,42
+6974,3.3320671987310817,"Freshman, The (1990)",Comedy|Crime,1990,3.65,32
+6966,3.0889013425240193,Darkman (1990),Action|Crime|Fantasy|Sci-Fi|Thriller,1990,3.3,46
+4211,3.6054132683718576,Reversal of Fortune (1990),Drama,1990,3.85,32
+2616,2.7566491815894554,Dick Tracy (1990),Action|Crime,1990,2.85,43
+1213,4.164112093773243,Goodfellas (1990),Crime|Drama,1990,4.4,58
+1236,3.7275312032335997,Trust (1990),Comedy|Drama|Romance,1990,2.3,100
+1268,3.453559781267079,Pump Up the Volume (1990),Comedy|Drama,1990,3.35,31
+1179,3.683173276974649,"Grifters, The (1990)",Crime|Drama|Film-Noir,1990,3.95,38
+7018,3.5012688791920543,Presumed Innocent (1990),Crime|Drama|Thriller,1990,3.6,31
+597,3.4162529068332224,Pretty Woman (1990),Comedy|Romance,1990,2.85,55
+2986,2.496091323299151,RoboCop 2 (1990),Action|Crime|Sci-Fi|Thriller,1990,2.25,31
+2012,3.2463953715913196,Back to the Future Part III (1990),Adventure|Comedy|Sci-Fi|Western,1990,3.15,38
+1100,2.8659876746084993,Days of Thunder (1990),Action|Drama|Romance,1990,2.3,43
+7004,2.8506567074588856,Kindergarten Cop (1990),Action|Comedy|Crime|Thriller,1990,2.55,32
+1370,3.4090801663699764,Die Hard 2 (1990),Action|Adventure|Thriller,1990,4.05,50
+1245,3.9136585358327514,Miller's Crossing (1990),Crime|Drama|Film-Noir|Thriller,1990,4.0,51
+3697,2.859490228557833,Predator 2 (1990),Action|Sci-Fi|Thriller,1990,3.4,37
+2023,3.3993609618515976,"Godfather: Part III, The (1990)",Crime|Drama|Mystery|Thriller,1990,3.2,53
+3060,3.718936354849669,"Commitments, The (1991)",Comedy|Drama|Musical,1991,3.75,38
+6978,3.4365630667850557,Slacker (1991),Comedy|Drama,1991,1.55,104
+6440,3.7297971144128215,Barton Fink (1991),Drama|Thriller,1991,3.8,50
+2879,3.2596306036034637,Armour of God II: Operation Condor (Operation Condor) (Fei ying gai wak) (1991),Action|Adventure|Comedy,1991,3.2,32
+3108,3.587386073042028,"Fisher King, The (1991)",Comedy|Drama|Fantasy|Romance,1991,3.5,50
+3809,3.371969210240996,What About Bob? (1991),Comedy,1991,3.2,38
+2108,3.581058495166846,L.A. Story (1991),Comedy|Romance,1991,3.7,32
+6810,3.0654216837728017,Sleeping with the Enemy (1991),Drama|Thriller,1991,2.2,31
+3418,3.563810941766958,Thelma & Louise (1991),Adventure|Crime|Drama,1991,3.95,44
+1343,3.519925318438217,Cape Fear (1991),Thriller,1991,3.45,38
+1372,3.295731384884954,Star Trek VI: The Undiscovered Country (1991),Action|Mystery|Sci-Fi,1991,3.4,46
+4351,3.29974735761664,Point Break (1991),Action|Crime|Thriller,1991,3.0,49
+5034,3.551422619752152,"Truly, Madly, Deeply (1991)",Drama|Romance,1991,3.3,32
+589,3.9243819201248074,Terminator 2: Judgment Day (1991),Action|Sci-Fi,1991,4.2,42
+3107,3.3040727266742853,Backdraft (1991),Action|Drama,1991,3.0,39
+1175,3.928112183498194,Delicatessen (1991),Comedy|Drama|Romance,1991,3.8,39
+7123,3.489531822757944,Naked Lunch (1991),Drama|Fantasy|Mystery|Sci-Fi,1991,3.4,31
+1611,3.3628137368107165,My Own Private Idaho (1991),Drama|Romance,1991,3.5,32
+3386,3.6346829444453532,JFK (1991),Drama|Mystery|Thriller,1991,3.75,52
+1093,3.3407407401372504,"Doors, The (1991)",Drama,1991,2.9,44
+4980,2.979495422968798,Bill & Ted's Bogus Journey (1991),Adventure|Comedy|Fantasy|Sci-Fi,1991,3.0,33
+2094,3.0593941813534626,"Rocketeer, The (1991)",Action|Adventure|Sci-Fi,1991,2.9,50
+3869,3.1341870382349346,"Naked Gun 2 1/2: The Smell of Fear, The (1991)",Comedy,1991,2.9,34
+6796,3.6852424930861085,Boyz N the Hood (1991),Crime|Drama,1991,4.15,45
+3044,3.6826467192319563,Dead Again (1991),Mystery|Romance|Thriller,1991,3.65,37
+595,3.6657247880089474,Beauty and the Beast (1991),Animation|Children|Fantasy|Musical|Romance|IMAX,1991,4.0,57
+2124,3.1785501256094117,"Addams Family, The (1991)",Children|Comedy|Fantasy,1991,2.8,39
+3489,3.1640825993074757,Hook (1991),Adventure|Comedy|Fantasy,1991,2.15,37
+6797,3.191092741104546,Bugsy (1991),Crime|Drama,1991,3.5,32
+4061,3.404681097169602,"Man in the Moon, The (1991)",Drama|Romance,1991,3.1,117
+3712,3.2101112209620073,Soapdish (1991),Comedy,1991,3.0,33
+593,4.168875687629318,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,1991,4.25,52
+3262,3.4029422563673597,Twin Peaks: Fire Walk with Me (1992),Crime|Drama|Mystery|Thriller,1992,3.1,50
+3253,3.4489577213052596,Wayne's World (1992),Comedy,1992,3.4,45
+1339,3.4194639797626736,Dracula (Bram Stoker's Dracula) (1992),Fantasy|Horror|Romance|Thriller,1992,3.85,42
+3261,3.3892420522808226,Singles (1992),Comedy|Drama|Romance,1992,3.45,40
+861,3.3984473059342086,Supercop (Police Story 3: Supercop) (Jing cha gu shi III: Chao ji jing cha) (1992),Action|Comedy|Crime|Thriller,1992,3.65,37
+7618,3.4286443112702996,Chaplin (1992),Drama,1992,2.9,44
+2582,3.0996097512808296,Twin Dragons (Shuang long hui) (1992),Action|Comedy,1992,2.55,37
+373,3.7014154445152343,Red Rock West (1992),Thriller,1992,3.75,37
+7624,3.2997229871309792,School Ties (1992),Drama,1992,2.9,35
+5339,3.5826203175553815,Husbands and Wives (1992),Comedy|Drama,1992,4.15,35
+3263,3.1159180319775164,White Men Can't Jump (1992),Comedy|Drama,1992,3.15,37
+3272,3.2604143309422455,Bad Lieutenant (1992),Crime|Drama,1992,3.45,38
+1396,3.624920449752646,Sneakers (1992),Action|Comedy|Crime|Drama|Sci-Fi,1992,3.4,45
+1094,3.6371108339868345,"Crying Game, The (1992)",Drama|Romance|Thriller,1992,4.25,38
+1171,3.6399895439265157,Bob Roberts (1992),Comedy,1992,3.75,34
+3100,3.6482598599706413,"River Runs Through It, A (1992)",Drama,1992,3.4,38
+2002,3.180572224074459,Lethal Weapon 3 (1992),Action|Comedy|Crime|Drama,1992,2.8,39
+3260,3.6806092545585387,Howards End (1992),Drama,1992,4.1,34
+1408,3.6980106815591647,"Last of the Mohicans, The (1992)",Action|Romance|War|Western,1992,4.0,32
+1092,3.3322838750272092,Basic Instinct (1992),Crime|Mystery|Thriller,1992,3.0,42
+2302,3.5678633184659923,My Cousin Vinny (1992),Comedy,1992,3.45,38
+3252,3.7018701029899983,Scent of a Woman (1992),Drama,1992,3.6,32
+1320,3.094568735706989,Alien³ (a.k.a. Alien 3) (1992),Action|Horror|Sci-Fi|Thriller,1992,2.5,39
+3274,3.0722495375116323,Single White Female (1992),Drama|Thriller,1992,2.65,39
+1377,3.0960272839414475,Batman Returns (1992),Action|Crime,1992,3.25,46
+8132,3.851550670345018,Gladiator (1992),Action|Drama,1992,3.5,159
+3264,2.949000570162355,Buffy the Vampire Slayer (1992),Action|Comedy|Horror,1992,2.05,34
+3709,2.705867122573642,Sleepwalkers (1992),Horror,1992,2.1,57
+7228,2.7036636095444218,Cool World (1992),Animation|Comedy|Fantasy,1992,1.6,31
+3677,3.8144845335375517,Baraka (1992),Documentary,1992,3.4,42
+1095,3.807905917308475,Glengarry Glen Ross (1992),Drama,1992,4.25,41
+1089,4.072368935314123,Reservoir Dogs (1992),Crime|Mystery|Thriller,1992,4.45,45
+3246,3.731298934965439,Malcolm X (1992),Drama,1992,3.7,51
+1342,2.973370281093389,Candyman (1992),Horror|Thriller,1992,3.15,37
+1266,3.9591563712417477,Unforgiven (1992),Drama|Western,1992,4.25,56
+3249,3.092882560680314,"Hand That Rocks the Cradle, The (1992)",Drama|Thriller,1992,2.8,32
+2268,3.7906944176095,"Few Good Men, A (1992)",Crime|Drama|Thriller,1992,3.4,42
+3450,3.321139946626618,Grumpy Old Men (1993),Comedy,1993,2.95,36
+2269,2.8364883772228646,Indecent Proposal (1993),Drama|Romance,1993,2.35,35
+565,3.1635214785702193,Cronos (1993),Drama|Horror,1993,3.65,35
+307,3.933263655945213,Three Colors: Blue (Trois couleurs: Bleu) (1993),Drama,1993,4.2,32
+3020,3.5416263019320198,Falling Down (1993),Action|Drama,1993,3.3,44
+2803,3.2917579241235067,"Pelican Brief, The (1993)",Crime|Drama|Mystery|Romance|Thriller,1993,2.75,47
+4846,3.557673399815866,Iron Monkey (Siu nin Wong Fei-hung ji: Tit Ma Lau) (1993),Action|Comedy,1993,3.65,90
+521,3.2905400354051584,Romeo Is Bleeding (1993),Crime|Thriller,1993,2.25,34
+442,3.0459988299602725,Demolition Man (1993),Action|Adventure|Sci-Fi,1993,2.8,32
+475,3.8839716158888495,In the Name of the Father (1993),Drama,1993,3.8,39
+1215,3.7024905540182624,Army of Darkness (1993),Action|Adventure|Comedy|Fantasy|Horror,1993,3.45,37
+515,3.8704506760203254,"Remains of the Day, The (1993)",Drama|Romance,1993,4.2,38
+497,3.8683294817903255,Much Ado About Nothing (1993),Comedy|Romance,1993,3.55,41
+410,2.9957683855561696,Addams Family Values (1993),Children|Comedy|Fantasy,1993,3.15,35
+431,3.6653186528755928,Carlito's Way (1993),Crime|Drama,1993,3.4,33
+3254,2.944343649068454,Wayne's World 2 (1993),Comedy,1993,2.9,42
+517,3.133696201281735,Rising Sun (1993),Action|Drama|Mystery,1993,2.55,35
+434,3.058828616158131,Cliffhanger (1993),Action|Adventure|Thriller,1993,3.15,33
+337,3.7388934222873,What's Eating Gilbert Grape (1993),Drama,1993,3.65,42
+480,3.6603271609244015,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,1993,3.6,38
+553,3.6794788270462315,Tombstone (1993),Action|Drama|Western,1993,3.2,39
+529,3.8194289202814224,Searching for Bobby Fischer (1993),Drama,1993,4.05,33
+555,3.787080705867772,True Romance (1993),Crime|Thriller,1993,3.75,44
+441,3.6529115401362446,Dazed and Confused (1993),Comedy,1993,3.95,41
+446,3.804350892535948,Farewell My Concubine (Ba wang bie ji) (1993),Drama|Romance,1993,3.7,33
+508,3.797943868881027,Philadelphia (1993),Drama,1993,3.25,43
+1678,3.6514714704830533,"Joy Luck Club, The (1993)",Drama|Romance,1993,3.45,31
+440,3.592089710312818,Dave (1993),Comedy|Romance,1993,3.7,37
+1265,3.8563333946708127,Groundhog Day (1993),Comedy|Fantasy|Romance,1993,3.95,52
+493,3.5563467480502147,Menace II Society (1993),Action|Crime|Drama,1993,3.7,34
+509,3.6741006372417377,"Piano, The (1993)",Drama|Romance,1993,4.0,45
+4808,3.1067095542857084,"Vanishing, The (1993)",Mystery|Thriller,1993,2.4,33
+454,3.4884722591570068,"Firm, The (1993)",Drama|Thriller,1993,3.1,50
+551,3.7176019798687636,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical,1993,4.1,70
+474,3.717009722541521,In the Line of Fire (1993),Action|Thriller,1993,3.8,41
+535,3.7248354172256177,Short Cuts (1993),Drama,1993,3.9,51
+6436,3.4134185264080275,This Boy's Life (1993),Drama,1993,3.15,34
+457,3.977178969969906,"Fugitive, The (1993)",Thriller,1993,3.8,52
+477,3.5079658313593267,What's Love Got to Do with It? (1993),Drama|Musical,1993,3.75,33
+500,3.382640719794304,Mrs. Doubtfire (1993),Comedy|Drama,1993,2.85,42
+485,2.791333380341184,Last Action Hero (1993),Action|Adventure|Comedy|Fantasy,1993,2.45,37
+539,3.5118443949859355,Sleepless in Seattle (1993),Comedy|Drama|Romance,1993,3.25,43
+524,3.5132349317420477,Rudy (1993),Drama,1993,3.4,34
+346,3.3383057059931556,Backbeat (1993),Drama|Musical,1993,3.1,34
+556,3.7307155294141072,"War Room, The (1993)",Documentary,1993,4.5,58
+527,4.298534240516337,Schindler's List (1993),Drama|War,1993,4.4,59
+426,3.116046144484229,Body Snatchers (1993),Horror|Sci-Fi|Thriller,1993,4.45,36
+366,2.9845268526415762,"Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)",Drama|Horror|Mystery|Thriller,1994,3.3,31
+364,3.770912359653158,"Lion King, The (1994)",Adventure|Animation|Children|Drama|Musical|IMAX,1994,4.0,61
+471,3.641621345603573,"Hudsucker Proxy, The (1994)",Comedy,1994,3.1,38
+357,3.6419234722884797,Four Weddings and a Funeral (1994),Comedy|Romance,1994,3.75,49
+3972,3.6423679614227655,"Legend of Drunken Master, The (Jui kuen II) (1994)",Action|Comedy,1994,3.5,74
+417,3.4658247816529464,Barcelona (1994),Comedy|Romance,1994,3.45,188
+368,3.4028356676382443,Maverick (1994),Adventure|Comedy|Western,1994,3.0,37
+247,3.797225277479874,Heavenly Creatures (1994),Crime|Drama,1994,4.15,41
+235,3.6479756483871886,Ed Wood (1994),Comedy|Drama,1994,3.95,57
+514,3.428218489685939,"Ref, The (1994)",Comedy,1994,3.3,41
+282,3.4087241463156737,Nell (1994),Drama,1994,2.5,31
+350,3.4571787176307387,"Client, The (1994)",Drama|Mystery|Thriller,1994,3.05,35
+349,3.651544677432172,Clear and Present Danger (1994),Action|Crime|Drama|Thriller,1994,3.4,37
+344,2.984289624414162,Ace Ventura: Pet Detective (1994),Comedy,1994,2.3,37
+355,2.467008333658669,"Flintstones, The (1994)",Children|Comedy|Fantasy,1994,1.85,40
+334,3.6588400351089105,Vanya on 42nd Street (1994),Drama,1994,3.8,32
+314,3.77164792280771,"Secret of Roan Inish, The (1994)",Children|Drama|Fantasy|Mystery,1994,3.9,40
+296,4.166555080298817,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,1994,4.45,50
+367,3.1741228068760137,"Mask, The (1994)",Action|Comedy|Crime|Fantasy,1994,3.2,44
+277,3.4083091281185527,Miracle on 34th Street (1994),Drama,1994,4.0,31
+300,3.654049570876397,Quiz Show (1994),Drama,1994,4.05,50
+329,3.32597754962321,Star Trek: Generations (1994),Adventure|Drama|Sci-Fi,1994,2.75,44
+306,4.027876676349697,Three Colors: Red (Trois couleurs: Rouge) (1994),Drama,1994,4.25,40
+162,3.94243263973254,Crumb (1994),Documentary,1994,4.15,39
+361,3.3194247214751234,It Could Happen to You (1994),Comedy|Drama|Romance,1994,3.1,34
+232,3.9677593977538117,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance,1994,3.7,31
+5893,3.553105369897314,"Last Seduction, The (1994)",Crime|Drama|Thriller,1994,3.9,48
+348,3.6674982425700224,Bullets Over Broadway (1994),Comedy,1994,3.95,54
+290,3.9003963001019044,Once Were Warriors (1994),Crime|Drama,1994,3.85,31
+353,3.5024142384317933,"Crow, The (1994)",Action|Crime|Fantasy|Thriller,1994,3.5,40
+459,2.884029940775328,"Getaway, The (1994)",Action|Adventure|Crime|Drama|Romance|Thriller,1994,2.9,124
+225,3.2824114872407577,Disclosure (1994),Drama|Thriller,1994,2.85,40
+379,2.757889446409188,Timecop (1994),Action|Sci-Fi|Thriller,1994,2.65,38
+316,3.3508034302939054,Stargate (1994),Action|Adventure|Sci-Fi,1994,2.6,37
+293,4.033135644581161,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller,1994,3.4,39
+342,3.494511894590882,Muriel's Wedding (1994),Comedy,1994,3.55,32
+253,3.4901703005224047,Interview with the Vampire: The Vampire Chronicles (1994),Drama|Horror,1994,2.9,45
+223,3.8543335397835445,Clerks (1994),Comedy,1994,3.7,48
+229,3.4894467196252905,Death and the Maiden (1994),Drama|Thriller,1994,3.5,48
+377,3.4889234937725937,Speed (1994),Action|Romance|Thriller,1994,3.8,41
+308,3.8444620802579985,Three Colors: White (Trzy kolory: Bialy) (1994),Comedy|Drama,1994,3.75,31
+380,3.4870496345555977,True Lies (1994),Action|Adventure|Comedy|Romance|Thriller,1994,3.2,45
+371,3.245605650335103,"Paper, The (1994)",Comedy|Drama,1994,3.35,31
+372,3.245076380148396,Reality Bites (1994),Comedy|Drama|Romance,1994,3.0,42
+413,2.823633610153346,Airheads (1994),Comedy,1994,2.1,31
+370,2.9615269964814614,Naked Gun 33 1/3: The Final Insult (1994),Action|Comedy,1994,2.8,32
+356,4.022282217348554,Forrest Gump (1994),Comedy|Drama|Romance|War,1994,3.45,53
+246,4.001289790986356,Hoop Dreams (1994),Documentary,1994,4.25,44
+231,2.955243209914465,Dumb & Dumber (Dumb and Dumber) (1994),Adventure|Comedy,1994,2.9,45
+318,4.436704975966286,"Shawshank Redemption, The (1994)",Crime|Drama,1994,4.0,57
+354,3.1506044876585206,Cobb (1994),Drama,1994,3.1,32
+382,3.0438587590915445,Wolf (1994),Drama|Horror|Romance|Thriller,1994,2.95,48
+273,3.1349192320876895,Mary Shelley's Frankenstein (Frankenstein) (1994),Drama|Horror|Sci-Fi,1994,4.25,38
+272,3.7148010984425817,"Madness of King George, The (1994)",Comedy|Drama,1994,3.9,42
+532,3.063017933683186,Serial Mom (1994),Comedy|Crime|Horror,1994,2.9,44
+319,3.742070311857142,Shallow Grave (1994),Comedy|Drama|Thriller,1994,3.2,42
+22,3.310471806200887,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller,1995,3.3,32
+132,2.8418223389488566,Jade (1995),Thriller,1995,2.6,122
+105,3.3167588927927714,"Bridges of Madison County, The (1995)",Drama|Romance,1995,3.6,40
+55,3.2036831098421477,Georgia (1995),Drama,1995,1.9,116
+147,3.534235598757655,"Basketball Diaries, The (1995)",Drama,1995,2.45,35
+327,2.827666796587394,Tank Girl (1995),Action|Comedy|Sci-Fi,1995,2.45,33
+152,3.116941785458602,"Addiction, The (1995)",Drama|Horror,1995,1.55,149
+151,3.5235666357931423,Rob Roy (1995),Action|Drama|Romance|War,1995,3.15,42
+17,3.948840175512016,Sense and Sensibility (1995),Drama|Romance,1995,3.95,49
+52,3.5203767815746283,Mighty Aphrodite (1995),Comedy|Drama|Romance,1995,3.35,33
+153,2.8983007161285954,Batman Forever (1995),Action|Adventure|Comedy|Crime,1995,2.6,54
+36,3.9237223705975346,Dead Man Walking (1995),Crime|Drama,1995,4.1,53
+191,2.781700552247158,"Scarlet Letter, The (1995)",Drama|Romance,1995,1.5,33
+714,3.8034147609831495,Dead Man (1995),Drama|Mystery|Western,1995,3.4,33
+187,3.341025637604193,Party Girl (1995),Comedy,1995,3.15,31
+562,3.736688068547536,Welcome to the Dollhouse (1995),Comedy|Drama,1995,3.95,46
+222,3.505967840918808,Circle of Friends (1995),Drama|Romance,1995,3.25,35
+209,2.9551003976408436,White Man's Burden (1995),Drama,1995,2.25,32
+185,3.110880643166767,"Net, The (1995)",Action|Crime|Thriller,1995,2.55,33
+18,3.3525512879296597,Four Rooms (1995),Comedy,1995,1.75,42
+388,3.3540437631425792,Boys Life (1995),Drama,1995,3.15,34
+7,3.3578188838171648,Sabrina (1995),Comedy|Romance,1995,3.7,31
+333,3.3390856739716326,Tommy Boy (1995),Comedy,1995,2.6,38
+15,2.7822873885814814,Cutthroat Island (1995),Action|Adventure|Romance,1995,2.2,31
+196,2.8602845409868953,Species (1995),Horror|Sci-Fi,1995,2.45,31
+339,3.4926035251354834,While You Were Sleeping (1995),Comedy|Romance,1995,3.25,41
+31,3.244448917469839,Dangerous Minds (1995),Drama,1995,2.35,37
+145,3.246060119844717,Bad Boys (1995),Action|Comedy|Crime|Drama|Thriller,1995,2.4,41
+48,2.9530193411385537,Pocahontas (1995),Animation|Children|Drama|Musical|Romance,1995,3.0,49
+274,2.949196903666181,Man of the House (1995),Comedy,1995,1.65,60
+216,3.253188901852863,Billy Madison (1995),Comedy,1995,2.4,35
+158,2.9396647615285985,Casper (1995),Adventure|Children,1995,2.35,34
+764,3.2591288184085734,Heavy (1995),Drama|Romance,1995,4.3,53
+150,3.8609814196214107,Apollo 13 (1995),Adventure|Drama|IMAX,1995,4.0,51
+358,3.2284889993014247,Higher Learning (1995),Drama,1995,2.65,34
+163,3.4348626944917924,Desperado (1995),Action|Romance|Western,1995,3.15,38
+218,3.2765585499289913,Boys on the Side (1995),Comedy|Drama,1995,3.0,32
+208,2.8570680811693316,Waterworld (1995),Action|Adventure|Sci-Fi,1995,2.55,48
+21,3.57257881032917,Get Shorty (1995),Comedy|Crime|Thriller,1995,3.85,49
+180,3.5617528084340284,Mallrats (1995),Comedy|Romance,1995,2.7,40
+6,3.820550022339557,Heat (1995),Action|Crime|Thriller,1995,3.85,58
+230,3.561742034309205,Dolores Claiborne (1995),Drama|Thriller,1995,3.4,33
+237,3.2179427903875832,Forget Paris (1995),Comedy|Romance,1995,2.7,33
+42,3.0682844607559323,Dead Presidents (1995),Action|Crime|Drama,1995,2.85,31
+57,3.2919700561629304,Home for the Holidays (1995),Drama,1995,3.0,44
+29,3.9068292677453273,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi,1995,3.5,33
+34,3.6353106394462786,Babe (1995),Children|Drama,1995,4.1,54
+73,3.709290881349595,"Misérables, Les (1995)",Drama|War,1995,3.45,41
+26,3.552718892492427,Othello (1995),Drama,1995,3.15,38
+1,3.9133897797601924,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,1995,4.5,73
+741,3.8910591646939845,Ghost in the Shell (Kôkaku kidôtai) (1995),Animation|Sci-Fi,1995,3.7,31
+11,3.6533919191438677,"American President, The (1995)",Comedy|Drama|Romance,1995,3.5,49
+322,3.6163511173444784,Swimming with Sharks (1995),Comedy|Drama,1995,3.15,33
+160,2.62182993825172,Congo (1995),Action|Adventure|Mystery|Sci-Fi,1995,1.8,42
+215,3.7785738705647827,Before Sunrise (1995),Drama|Romance,1995,4.1,34
+168,3.086625873733539,First Knight (1995),Action|Drama|Romance,1995,2.6,42
+173,2.557484024724898,Judge Dredd (1995),Action|Crime|Sci-Fi,1995,1.8,47
+43,3.4135321084740666,Restoration (1995),Drama,1995,3.15,31
+110,4.034155779451674,Braveheart (1995),Action|Drama|War,1995,3.5,48
+12,2.678849250877526,Dracula: Dead and Loving It (1995),Comedy|Horror,1995,1.5,35
+175,3.47228824656911,Kids (1995),Drama,1995,2.5,52
+47,4.042974696451641,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,1995,4.6,49
+16,3.7691740245368757,Casino (1995),Crime|Drama,1995,3.6,58
+72,3.395722540498758,Kicking and Screaming (1995),Comedy|Drama,1995,2.55,137
+14,3.4091689658176714,Nixon (1995),Drama,1995,3.35,56
+292,3.4091116426778902,Outbreak (1995),Action|Drama|Sci-Fi|Thriller,1995,2.8,41
+23,3.1466526305395477,Assassins (1995),Action|Crime|Thriller,1995,2.15,106
+41,3.782829060524735,Richard III (1995),Drama|War,1995,4.05,43
+112,3.4012994346297702,Rumble in the Bronx (Hont faan kui) (1995),Action|Adventure|Comedy|Crime,1995,3.2,52
+384,3.0378442132673884,Bad Company (1995),Action|Crime|Drama,1995,1.95,134
+161,3.7315401191587716,Crimson Tide (1995),Drama|Thriller|War,1995,3.7,44
+198,3.402374779120901,Strange Days (1995),Action|Crime|Drama|Mystery|Sci-Fi|Thriller,1995,3.0,38
+259,3.0871794852014625,Kiss of Death (1995),Crime|Drama|Thriller,1995,3.2,36
+9,3.019304931628442,Sudden Death (1995),Action,1995,2.6,32
+303,3.046420415723687,"Quick and the Dead, The (1995)",Action|Thriller|Western,1995,2.95,39
+585,2.6852149216746155,"Brady Bunch Movie, The (1995)",Comedy,1995,2.85,38
+25,3.6768965671365734,Leaving Las Vegas (1995),Drama|Romance,1995,3.85,45
+45,3.371048446418197,To Die For (1995),Comedy|Drama|Thriller,1995,3.4,197
+193,2.2905072821525425,Showgirls (1995),Drama,1995,1.45,41
+728,3.7319159443913104,Cold Comfort Farm (1995),Comedy,1995,3.75,31
+50,4.32172988664722,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,1995,3.75,47
+10,3.424999152518653,GoldenEye (1995),Action|Adventure|Thriller,1995,3.4,41
+144,3.442777221790779,"Brothers McMullen, The (1995)",Comedy,1995,3.55,34
+164,3.4301114478344172,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller,1995,3.65,50
+165,3.4838588848740666,Die Hard: With a Vengeance (1995),Action|Crime|Thriller,1995,2.85,42
+159,3.3674459159326062,Clockers (1995),Crime|Drama|Mystery,1995,3.25,46
+280,3.67284082709901,Murder in the First (1995),Drama|Thriller,1995,2.75,34
+3,3.150366452214798,Grumpier Old Men (1995),Comedy|Romance,1995,2.95,36
+70,3.2719951555451745,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller,1996,3.0,43
+788,2.8891963311603117,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi,1996,3.0,51
+1409,3.065727915522138,Michael (1996),Comedy|Drama|Fantasy|Romance,1996,3.8,192
+1042,3.4320947088549736,That Thing You Do! (1996),Comedy|Drama,1996,3.55,50
+1034,3.4378621353960295,Freeway (1996),Comedy|Crime|Drama|Thriller,1996,3.2,35
+1393,3.610876900611896,Jerry Maguire (1996),Drama|Romance,1996,3.7,57
+1483,3.068322188813388,Crash (1996),Drama|Thriller,1996,3.55,197
+1061,3.6086688306345076,Sleepers (1996),Thriller,1996,3.35,48
+104,3.409372793649897,Happy Gilmore (1996),Comedy,1996,2.75,50
+2952,3.5990363535097902,Sydney (Hard Eight) (1996),Crime|Drama|Thriller,1996,3.45,32
+830,3.093380380389958,"First Wives Club, The (1996)",Comedy,1996,2.7,32
+704,2.8962784566825093,"Quest, The (1996)",Action|Adventure,1996,3.6,111
+140,3.279400680973058,Up Close and Personal (1996),Drama|Romance,1996,2.55,31
+785,3.278463453233403,Kingpin (1996),Comedy,1996,2.9,35
+1449,3.880068142335891,Waiting for Guffman (1996),Comedy,1996,3.85,53
+804,3.093055553751042,She's the One (1996),Comedy|Romance,1996,2.9,48
+1537,3.860397622272132,Shall We Dance? (Shall We Dansu?) (1996),Comedy|Drama|Romance,1996,3.95,33
+92,2.9038886889271676,Mary Reilly (1996),Drama|Horror|Thriller,1996,2.2,41
+762,2.4458009171217685,Striptease (1996),Comedy|Crime,1996,1.7,34
+836,2.92874999907889,Chain Reaction (1996),Action|Adventure|Thriller,1996,2.05,31
+1407,3.2763988649159685,Scream (1996),Comedy|Horror|Mystery|Thriller,1996,3.5,53
+999,3.267600218303913,2 Days in the Valley (1996),Crime|Film-Noir,1996,3.05,52
+886,3.092493046831719,Bulletproof (1996),Action|Comedy|Crime,1996,2.15,130
+880,2.5332094586254814,"Island of Dr. Moreau, The (1996)",Sci-Fi|Thriller,1996,2.15,31
+991,3.4863666650209506,Michael Collins (1996),Drama,1996,3.4,44
+608,4.10117426654169,Fargo (1996),Comedy|Crime|Drama|Thriller,1996,4.2,66
+818,2.701703016152629,"Very Brady Sequel, A (1996)",Comedy,1996,2.8,32
+1041,3.9825469379694454,Secrets & Lies (1996),Drama,1996,4.3,34
+1358,3.9838434517283963,Sling Blade (1996),Drama,1996,4.15,49
+1363,3.1062385298453443,"Preacher's Wife, The (1996)",Drama,1996,2.9,38
+849,2.756286652013001,Escape from L.A. (1996),Action|Adventure|Sci-Fi|Thriller,1996,2.8,45
+778,3.9930092571324196,Trainspotting (1996),Comedy|Crime|Drama,1996,4.1,55
+494,3.3524507482319033,Executive Decision (1996),Action|Adventure|Thriller,1996,3.0,37
+1049,3.3805921637593155,"Ghost and the Darkness, The (1996)",Action|Adventure,1996,2.75,45
+94,3.483465782574581,Beautiful Girls (1996),Comedy|Drama|Romance,1996,3.5,46
+88,3.1100111847619036,Black Sheep (1996),Comedy,1996,3.2,87
+780,3.368461344221899,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,1996,3.1,54
+673,2.7335701252820246,Space Jam (1996),Adventure|Animation|Children|Comedy|Fantasy|Sci-Fi,1996,2.55,44
+101,3.7182367642898813,Bottle Rocket (1996),Adventure|Comedy|Crime|Romance,1996,3.3,42
+784,2.717225619669524,"Cable Guy, The (1996)",Comedy|Thriller,1996,2.7,54
+1414,3.3652700163234868,Mother (1996),Comedy,1996,3.5,88
+781,3.366599676472207,Stealing Beauty (1996),Drama,1996,2.95,47
+1054,3.3537743152240083,Get on the Bus (1996),Drama,1996,3.75,38
+869,3.1129213436918075,Kansas City (1996),Crime|Drama|Musical|Thriller,1996,2.95,33
+802,3.4768080370475385,Phenomenon (1996),Drama|Romance,1996,2.95,32
+839,2.776895627801706,"Crow: City of Angels, The (1996)",Action|Thriller,1996,1.7,33
+885,2.8716681333299654,Bogus (1996),Children|Drama|Fantasy,1996,3.0,33
+637,2.8618820529427516,Sgt. Bilko (1996),Comedy,1996,2.2,36
+1057,3.4016806709723872,Everyone Says I Love You (1996),Comedy|Musical|Romance,1996,3.65,41
+1120,3.548918975132541,"People vs. Larry Flynt, The (1996)",Comedy|Drama,1996,3.85,53
+661,3.3064504096814735,James and the Giant Peach (1996),Adventure|Animation|Children|Fantasy|Musical,1996,3.5,55
+986,3.465731705811845,Fly Away Home (1996),Adventure|Children,1996,3.55,32
+708,3.396409312634832,"Truth About Cats & Dogs, The (1996)",Comedy|Romance,1996,3.35,36
+1411,3.743831168067849,Hamlet (1996),Crime|Drama|Romance,1996,4.1,54
+994,3.936385582869952,Big Night (1996),Comedy|Drama,1996,4.0,52
+1359,2.6404491534349863,Jingle All the Way (1996),Children|Comedy,1996,2.0,38
+833,2.8316554203751174,High School High (1996),Comedy,1996,2.95,127
+1147,4.03743214422064,When We Were Kings (1996),Documentary,1996,4.2,42
+647,3.5246157506330094,Courage Under Fire (1996),Action|Crime|Drama|War,1996,3.65,52
+648,3.3852047730369907,Mission: Impossible (1996),Action|Adventure|Mystery|Thriller,1996,3.3,217
+663,3.331617453635446,Kids in the Hall: Brain Candy (1996),Comedy,1996,2.35,33
+628,3.731733652846247,Primal Fear (1996),Crime|Drama|Mystery|Thriller,1996,3.35,41
+1367,3.0814447742608584,101 Dalmatians (1996),Adventure|Children|Comedy,1996,4.0,37
+990,2.8748048226138048,Maximum Risk (1996),Action|Adventure|Thriller,1996,2.15,31
+1399,3.344631899316386,Marvin's Room (1996),Drama,1996,3.35,47
+125,3.678222995286921,Flirting With Disaster (1996),Comedy,1996,3.7,42
+866,3.6879791968889823,Bound (1996),Crime|Drama|Romance|Thriller,1996,3.85,34
+719,2.9792503668621815,Multiplicity (1996),Comedy,1996,2.7,43
+736,3.1952922963353014,Twister (1996),Action|Adventure|Romance|Thriller,1996,3.0,49
+695,3.1655044473760015,True Crime (1996),Mystery|Thriller,1996,3.0,38
+1003,3.1381087447105673,Extreme Measures (1996),Drama|Thriller,1996,3.0,31
+1356,3.651462873035858,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi|Thriller,1996,3.7,52
+733,3.6709603489486975,"Rock, The (1996)",Action|Adventure|Thriller,1996,3.25,47
+1354,3.759282551843199,Breaking the Waves (1996),Drama|Mystery,1996,4.0,42
+1183,3.6180101070791437,"English Patient, The (1996)",Drama|Romance|War,1996,3.85,58
+808,3.190227268987008,Alaska (1996),Adventure|Children,1996,2.45,78
+671,3.6373123444195965,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi,1996,3.2,37
+1416,3.16188145641886,Evita (1996),Drama|Musical,1996,3.25,31
+1167,3.0063096075296043,Dear God (1996),Comedy,1996,1.8,33
+1390,3.2289684385599866,My Fellow Americans (1996),Comedy,1996,2.6,38
+639,2.9863995112707045,Girl 6 (1996),Comedy|Drama,1996,2.3,32
+1391,2.967969542868745,Mars Attacks! (1996),Action|Comedy|Sci-Fi,1996,2.9,56
+1050,3.6265534175515652,Looking for Richard (1996),Documentary|Drama,1996,3.55,45
+656,2.9632508804846003,Eddie (1996),Comedy,1996,3.7,33
+786,3.1477667565411993,Eraser (1996),Action|Drama|Thriller,1996,2.45,44
+1060,3.8232746950573024,Swingers (1996),Comedy|Drama,1996,3.85,51
+1357,3.8301650468293165,Shine (1996),Drama|Romance,1996,4.0,31
+852,3.185806100757025,Tin Cup (1996),Comedy|Drama|Romance,1996,3.25,48
+135,3.007950036012175,Down Periscope (1996),Comedy,1996,1.9,31
+1405,2.9761240807460925,Beavis and Butt-Head Do America (1996),Adventure|Animation|Comedy|Crime,1996,3.1,51
+805,3.679423834131882,"Time to Kill, A (1996)",Drama|Thriller,1996,3.05,50
+1834,3.807528379817337,"Spanish Prisoner, The (1997)",Crime|Drama|Mystery|Thriller,1997,3.7,59
+1597,3.3117842013499215,Conspiracy Theory (1997),Drama|Mystery|Romance|Thriller,1997,3.1,41
+2693,3.541548384973269,Trekkies (1997),Documentary,1997,3.65,41
+1566,3.3027878340084813,Hercules (1997),Adventure|Animation|Children|Comedy|Musical,1997,3.5,49
+1608,3.3008112342397466,Air Force One (1997),Action|Thriller,1997,3.5,50
+1701,3.4064361987248035,Deconstructing Harry (1997),Comedy|Drama,1997,3.6,33
+1645,3.4643000497627403,"Devil's Advocate, The (1997)",Drama|Mystery|Thriller,1997,3.1,43
+1459,3.3127250296085946,Absolute Power (1997),Mystery|Thriller,1997,2.75,41
+1693,3.542849001911273,Amistad (1997),Drama|Mystery,1997,3.45,57
+2801,3.294974127910459,Oscar and Lucinda (a.k.a. Oscar & Lucinda) (1997),Drama|Romance,1997,3.3,31
+1827,3.5697109034578514,"Big One, The (1997)",Comedy|Documentary,1997,3.95,52
+2325,3.0992616497751966,Orgazmo (1997),Comedy,1997,2.55,32
+2618,3.6319136493948956,"Castle, The (1997)",Comedy,1997,3.45,33
+1527,3.7041583805064935,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi,1997,3.15,53
+2324,4.14789343884342,Life Is Beautiful (La Vita è bella) (1997),Comedy|Drama|Romance|War,1997,3.75,84
+2232,3.5580576623767604,Cube (1997),Horror|Mystery|Sci-Fi|Thriller,1997,3.05,33
+1580,3.5524279377789036,Men in Black (a.k.a. MIB) (1997),Action|Comedy|Sci-Fi,1997,3.75,67
+1616,3.0361275615177337,"Peacemaker, The (1997)",Action|Thriller|War,1997,3.0,31
+1719,3.9015742469602563,"Sweet Hereafter, The (1997)",Drama,1997,4.4,52
+1485,3.216743595376347,Liar Liar (1997),Comedy,1997,3.45,51
+1625,3.814628614317574,"Game, The (1997)",Drama|Mystery|Thriller,1997,3.6,43
+1730,3.5555013287767747,Kundun (1997),Drama,1997,3.65,58
+1447,3.2116469472819387,Gridlock'd (1997),Crime,1997,3.4,31
+1644,2.525839857926604,I Know What You Did Last Summer (1997),Horror|Mystery|Thriller,1997,2.65,39
+1643,3.7474711892006565,"Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown) (1997)",Drama|Romance,1997,3.65,39
+1676,3.211577551610558,Starship Troopers (1997),Action|Sci-Fi,1997,3.0,55
+1672,3.533921521955619,"Rainmaker, The (1997)",Drama,1997,3.45,44
+1673,3.6653634475779326,Boogie Nights (1997),Drama,1997,4.05,64
+1784,3.7774341865787435,As Good as It Gets (1997),Comedy|Drama|Romance,1997,3.6,75
+1619,3.3851595530685987,Seven Years in Tibet (1997),Adventure|Drama|War,1997,3.15,32
+1747,3.497533308882143,Wag the Dog (1997),Comedy,1997,3.7,70
+1588,2.754093240031865,George of the Jungle (1997),Children|Comedy,1997,2.65,50
+1658,3.1714843728571402,"Life Less Ordinary, A (1997)",Romance|Thriller,1997,2.75,35
+1526,2.7530148747555607,Fathers' Day (1997),Comedy,1997,2.0,31
+1621,3.1882352898467565,Soul Food (1997),Drama,1997,3.15,41
+2025,3.380705541779284,Lolita (1997),Drama|Romance,1997,4.0,38
+2439,3.4776415071051185,Affliction (1997),Drama,1997,3.8,44
+1704,4.016916458335514,Good Will Hunting (1997),Drama|Romance,1997,4.0,69
+1488,3.0467105250665107,"Devil's Own, The (1997)",Action|Drama|Thriller,1997,2.65,34
+1699,3.4787131660029167,"Butcher Boy, The (1997)",Comedy|Drama,1997,3.75,58
+1688,3.367959768932675,Anastasia (1997),Adventure|Animation|Children|Drama|Musical,1997,3.55,48
+1690,3.0140482850824752,Alien: Resurrection (1997),Action|Horror|Sci-Fi,1997,2.5,39
+1552,3.1804312111610433,Con Air (1997),Action|Adventure|Thriller,1997,2.85,60
+1889,3.4734087671206275,Insomnia (1997),Drama|Mystery|Thriller,1997,3.85,166
+1794,3.4028521507932776,Love and Death on Long Island (1997),Comedy|Drama,1997,4.0,35
+1466,3.774524131264127,Donnie Brasco (1997),Crime|Drama,1997,3.9,54
+1591,2.664743700271564,Spawn (1997),Action|Adventure|Sci-Fi|Thriller,1997,2.0,40
+1584,3.6405516832758837,Contact (1997),Drama|Sci-Fi,1997,3.4,55
+1355,3.118365754912724,Nightwatch (1997),Horror|Thriller,1997,2.95,125
+1617,4.065997219602826,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller,1997,4.3,83
+1487,3.105360528967197,Selena (1997),Drama|Musical,1997,3.0,38
+1573,3.326508438558167,Face/Off (1997),Action|Crime|Drama|Thriller,1997,3.95,60
+1465,3.391327548407505,Rosewood (1997),Action|Drama,1997,3.55,47
+1844,3.5286719393692616,Live Flesh (Carne trémula) (1997),Drama|Romance,1997,3.55,37
+2594,3.762111183012194,Open Your Eyes (Abre los ojos) (1997),Drama|Romance|Sci-Fi|Thriller,1997,3.7,45
+3000,4.048449920018169,Princess Mononoke (Mononoke-hime) (1997),Action|Adventure|Animation|Drama|Fantasy,1997,3.85,83
+1627,3.138504243978723,U Turn (1997),Crime|Drama|Mystery,1997,3.05,48
+1721,3.3350571200153603,Titanic (1997),Drama|Romance,1997,3.7,97
+1729,3.6627353400566354,Jackie Brown (1997),Crime|Drama|Thriller,1997,3.65,68
+1425,3.1981333314525147,Fierce Creatures (1997),Comedy,1997,2.8,31
+1474,2.657915740604369,Jungle2Jungle (a.k.a. Jungle 2 Jungle) (1997),Children|Comedy,1997,2.0,39
+6975,3.5150537596488864,Funny Games (1997),Drama|Horror|Thriller,1997,2.8,138
+1717,2.7740911550546463,Scream 2 (1997),Comedy|Horror|Mystery|Thriller,1997,3.4,66
+1500,3.7250350300302166,Grosse Pointe Blank (1997),Comedy|Crime|Romance,1997,3.55,57
+1515,2.707284767000944,Volcano (1997),Action|Drama|Thriller,1997,2.5,38
+1641,3.6935536873578236,"Full Monty, The (1997)",Comedy|Drama,1997,3.8,41
+1648,3.4447087354674033,"House of Yes, The (1997)",Comedy|Drama,1997,2.95,35
+1635,3.7492751227451153,"Ice Storm, The (1997)",Drama,1997,3.8,56
+1615,3.421032700537986,"Edge, The (1997)",Adventure|Drama,1997,3.15,46
+1816,2.9646331369025978,Two Girls and a Guy (1997),Comedy|Drama,1997,2.8,57
+1464,3.6141309144322973,Lost Highway (1997),Crime|Drama|Fantasy|Film-Noir|Mystery|Romance,1997,3.1,39
+1594,3.5878440350795713,In the Company of Men (1997),Comedy|Drama,1997,3.95,53
+1479,3.1588375410984812,"Saint, The (1997)",Action|Romance|Sci-Fi|Thriller,1997,2.3,44
+1480,3.2354812040738747,Smilla's Sense of Snow (1997),Drama|Thriller,1997,3.0,32
+1722,3.229797694451749,Tomorrow Never Dies (1997),Action|Adventure|Thriller,1997,2.95,55
+1569,3.272271639891234,My Best Friend's Wedding (1997),Comedy|Romance,1997,3.25,54
+1639,3.620945056125743,Chasing Amy (1997),Comedy|Drama|Romance,1997,3.75,66
+1660,3.4294117618586215,Eve's Bayou (1997),Drama,1997,3.75,50
+1499,2.159465052549411,Anaconda (1997),Action|Adventure|Thriller,1997,2.35,45
+1760,1.986098795143398,Spice World (1997),Comedy,1997,2.25,33
+1653,3.75022807083641,Gattaca (1997),Drama|Sci-Fi|Thriller,1997,3.55,55
+1432,2.9430862804551166,Metro (1997),Action|Comedy|Crime|Drama|Thriller,1997,2.0,33
+1726,2.9441058520701087,"Postman, The (1997)",Action|Adventure|Drama|Sci-Fi,1997,1.9,31
+1556,2.0170957767014848,Speed 2: Cruise Control (1997),Action|Romance|Thriller,1997,1.55,51
+1593,2.9489198248021364,Picture Perfect (1997),Comedy|Romance,1997,2.7,40
+1694,3.619852522706424,"Apostle, The (1997)",Drama,1997,4.0,44
+1513,2.963048445505353,Romy and Michele's High School Reunion (1997),Comedy,1997,3.1,49
+1590,2.906859606937923,Event Horizon (1997),Horror|Sci-Fi|Thriller,1997,2.15,33
+1600,2.9608027284909055,She's So Lovely (1997),Drama|Romance,1997,3.0,41
+1544,2.958822354960935,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller,1997,2.8,59
+1633,3.5779655155389136,Ulee's Gold (1997),Drama,1997,4.0,48
+1589,3.27391774802721,Cop Land (1997),Action|Crime|Drama|Thriller,1997,3.25,59
+1916,3.5579643459065124,Buffalo '66 (a.k.a. Buffalo 66) (1998),Drama|Romance,1998,3.5,40
+1883,3.3302775282117913,Bulworth (1998),Comedy|Drama|Romance,1998,3.5,61
+2125,3.601072298141812,Ever After: A Cinderella Story (1998),Comedy|Drama|Romance,1998,3.75,61
+1680,3.5235382098263326,Sliding Doors (1998),Drama|Romance,1998,3.15,49
+2154,2.818886040373144,How Stella Got Her Groove Back (1998),Drama|Romance,1998,2.75,47
+1769,3.1060587117622895,"Replacement Killers, The (1998)",Action|Crime|Thriller,1998,2.7,31
+1892,3.3316812636323117,"Perfect Murder, A (1998)",Thriller,1998,3.1,49
+2334,3.1062427731395523,"Siege, The (1998)",Action|Thriller,1998,2.9,59
+2389,2.8068789411423403,Psycho (1998),Crime|Horror|Thriller,1998,4.45,67
+1682,3.7898078158195103,"Truman Show, The (1998)",Comedy|Drama|Sci-Fi,1998,4.1,96
+1801,3.0811860932928816,"Man in the Iron Mask, The (1998)",Action|Adventure|Drama,1998,2.7,35
+1655,2.7935538550151406,Phantoms (1998),Drama|Horror|Thriller,1998,2.5,165
+1735,3.230753503230973,Great Expectations (1998),Drama|Romance,1998,2.7,32
+2322,2.893733679620608,Soldier (1998),Action|Sci-Fi|War,1998,1.75,50
+1772,2.635967300957569,Blues Brothers 2000 (1998),Action|Comedy|Musical,1998,2.55,42
+2360,3.9459527202947178,"Celebration, The (Festen) (1998)",Drama,1998,4.0,36
+2427,3.3911764700232143,"Thin Red Line, The (1998)",Action|Drama|War,1998,3.55,80
+2059,3.1557497167595407,"Parent Trap, The (1998)",Children|Comedy|Romance,1998,3.5,34
+2168,3.0836795203391203,Dance with Me (1998),Drama|Romance,1998,2.7,40
+2170,2.8297826051180075,Wrongfully Accused (1998),Action|Comedy,1998,1.9,31
+2236,3.3822183837129267,Simon Birch (1998),Drama,1998,2.9,32
+2318,3.77313340125395,Happiness (1998),Comedy|Drama,1998,3.95,44
+1884,3.6933189649261076,Fear and Loathing in Las Vegas (1998),Adventure|Comedy|Drama,1998,2.9,45
+2126,2.8256395225664614,Snake Eyes (1998),Action|Crime|Mystery|Thriller,1998,2.6,64
+2393,3.1982694100868625,Star Trek: Insurrection (1998),Action|Drama|Romance|Sci-Fi,1998,2.9,64
+2272,3.3583392949626707,One True Thing (1998),Drama,1998,3.6,60
+2107,2.6286795289681617,Halloween H20: 20 Years Later (Halloween 7: The Revenge of Laurie Strode) (1998),Horror|Thriller,1998,2.75,54
+1882,2.404242346635698,Godzilla (1998),Action|Sci-Fi|Thriller,1998,2.35,59
+2028,4.052036692237778,Saving Private Ryan (1998),Action|Drama|War,1998,4.1,92
+2355,3.5992177436233175,"Bug's Life, A (1998)",Adventure|Animation|Children|Comedy,1998,3.95,80
+2425,3.392357269855295,"General, The (1998)",Crime,1998,4.45,38
+1836,3.2560747639266356,"Last Days of Disco, The (1998)",Comedy|Drama,1998,3.15,51
+1754,3.447640395248431,Fallen (1998),Crime|Drama|Fantasy|Thriller,1998,2.65,54
+1841,3.0272799960502805,"Gingerbread Man, The (1998)",Drama|Thriller,1998,3.1,40
+2542,3.9616492887875423,"Lock, Stock & Two Smoking Barrels (1998)",Comedy|Crime|Thriller,1998,3.4,51
+7034,3.669826433049778,Show Me Love (Fucking �?mål) (1998),Drama|Romance,1998,3.8,39
+2026,2.784999997025814,Disturbing Behavior (1998),Horror|Thriller,1998,2.2,33
+2596,3.4963311824803425,SLC Punk! (1998),Comedy|Drama,1998,2.8,31
+2607,3.5041628914595933,Get Real (1998),Drama|Romance,1998,3.2,45
+2167,3.3462818246418657,Blade (1998),Action|Horror|Thriller,1998,2.85,83
+2314,3.0031331549720197,Beloved (1998),Drama,1998,3.55,66
+2171,3.5029947123093663,Next Stop Wonderland (1998),Comedy|Drama|Romance,1998,3.4,41
+2431,3.1114744071906575,Patch Adams (1998),Comedy|Drama,1998,2.0,55
+1888,2.9545612496561975,Hope Floats (1998),Comedy|Drama|Romance,1998,2.45,31
+2686,3.8450584141242263,"Red Violin, The (Violon rouge, Le) (1998)",Drama|Mystery,1998,3.55,39
+2297,3.2482167031744584,What Dreams May Come (1998),Adventure|Drama|Fantasy|Romance,1998,2.85,66
+2155,3.3498095620240584,"Slums of Beverly Hills, The (1998)",Comedy|Drama,1998,3.45,58
+2359,3.7544444437500495,Waking Ned Devine (a.k.a. Waking Ned) (1998),Comedy,1998,3.5,57
+2696,3.608625815028465,"Dinner Game, The (Dîner de cons, Le) (1998)",Comedy,1998,3.4,44
+1917,2.961537749158119,Armageddon (1998),Action|Romance|Sci-Fi|Thriller,1998,2.55,77
+1821,3.1534774412889335,"Object of My Affection, The (1998)",Comedy|Romance,1998,2.9,48
+2165,3.190639727315051,Your Friends and Neighbors (1998),Comedy|Drama,1998,3.5,55
+2384,2.996770229078962,Babe: Pig in the City (1998),Adventure|Children|Drama,1998,3.1,58
+2354,2.7713128947731933,"Rugrats Movie, The (1998)",Animation|Children|Comedy,1998,2.9,47
+1866,3.0531547866830913,"Big Hit, The (1998)",Action|Comedy|Crime,1998,2.55,39
+2356,3.015827771414706,Celebrity (1998),Comedy,1998,2.8,37
+1921,3.713324401799552,Pi (1998),Drama|Sci-Fi|Thriller,1998,3.6,49
+2273,3.3886630253906604,Rush Hour (1998),Action|Comedy|Crime|Thriller,1998,3.0,62
+2231,3.6864719651553726,Rounders (1998),Drama,1998,3.1,76
+1911,2.7352795366376825,Dr. Dolittle (1998),Comedy,1998,2.6,49
+2385,2.7354795406189476,Home Fries (1998),Comedy|Romance,1998,2.4,35
+2060,3.0602521549644495,BASEketball (1998),Comedy,1998,2.5,49
+2692,3.99986308375052,Run Lola Run (Lola rennt) (1998),Action|Crime,1998,3.85,78
+1885,3.571478654374686,"Opposite of Sex, The (1998)",Comedy|Drama|Romance,1998,3.55,40
+2296,2.7421658967215246,"Night at the Roxbury, A (1998)",Comedy,1998,1.7,54
+1876,2.9605486444569444,Deep Impact (1998),Drama|Sci-Fi|Thriller,1998,2.85,51
+3783,3.6842498016743326,Croupier (1998),Crime|Drama,1998,3.85,53
+2333,3.7502660088793793,Gods and Monsters (1998),Drama,1998,4.2,48
+2691,3.387114333087886,"Legend of 1900, The (a.k.a. The Legend of the Pianist on the Ocean) (Leggenda del pianista sull'oceano) (1998)",Drama,1998,3.1,35
+3008,3.507577015039842,Last Night (1998),Drama|Sci-Fi,1998,3.6,49
+2340,3.2736602443192386,Meet Joe Black (1998),Romance,1998,2.8,36
+1895,3.186703295346937,Can't Hardly Wait (1998),Comedy|Drama|Romance,1998,2.7,45
+1831,2.6133492396160807,Lost in Space (1998),Action|Adventure|Sci-Fi,1998,2.3,46
+1909,3.3202940926612787,"X-Files: Fight the Future, The (1998)",Action|Crime|Mystery|Sci-Fi|Thriller,1998,3.0,68
+1862,2.3055837544173565,Species II (1998),Horror|Sci-Fi,1998,1.6,31
+2424,3.1435686403413245,You've Got Mail (1998),Comedy|Romance,1998,3.1,75
+2188,2.8640805651110965,54 (1998),Drama,1998,2.05,62
+2395,3.8274229688419363,Rushmore (1998),Comedy|Drama,1998,3.9,82
+2429,2.8602390826729995,Mighty Joe Young (1998),Action|Adventure|Drama|Fantasy|Thriller,1998,2.9,42
+2006,3.300733387292603,"Mask of Zorro, The (1998)",Action|Comedy|Romance,1998,3.55,66
+2435,3.0339331577230944,Hurlyburly (1998),Drama,1998,2.95,34
+2390,3.5892833645834488,Little Voice (1998),Comedy,1998,3.6,35
+2166,3.405256151073088,Return to Paradise (1998),Crime|Drama|Romance|Thriller,1998,3.3,44
+2320,3.1073159762400584,Apt Pupil (1998),Drama|Thriller,1998,3.0,55
+2392,2.559702967852896,Jack Frost (1998),Children|Comedy|Drama,1998,1.9,47
+1804,3.01077654125424,"Newton Boys, The (1998)",Crime|Drama,1998,3.15,36
+1806,2.930566531661957,Paulie (1998),Adventure|Children|Comedy,1998,3.05,36
+1894,2.85305745336465,Six Days Seven Nights (1998),Adventure|Comedy|Romance,1998,2.7,38
+2328,2.8599715076271846,Vampires (1998),Horror|Western,1998,2.9,45
+2321,3.561591278761439,Pleasantville (1998),Comedy|Drama|Fantasy,1998,3.75,82
+1833,3.0393215628462618,Mercury Rising (1998),Action|Drama|Thriller,1998,2.1,35
+2331,3.2868099913206574,Living Out Loud (1998),Comedy|Drama|Romance,1998,3.15,31
+2590,3.1613224592960605,Hideous Kinky (1998),Drama,1998,2.95,34
+3054,2.3299292189397627,Pokémon: The First Movie (1998),Adventure|Animation|Children|Fantasy|Sci-Fi,1998,1.8,75
+2329,4.129829056031872,American History X (1998),Crime|Drama,1998,3.6,72
+1805,3.21705028709818,Wild Things (1998),Crime|Drama|Mystery|Thriller,1998,3.45,241
+1907,3.6236938745483775,Mulan (1998),Adventure|Animation|Children|Comedy|Drama|Musical|Romance,1998,3.75,72
+3077,3.7809259228783025,42 Up (1998),Documentary,1998,3.9,31
+2387,2.879448527596636,Very Bad Things (1998),Comedy|Crime,1998,2.8,50
+2337,3.287379159539662,Velvet Goldmine (1998),Drama,1998,3.25,38
+1918,3.1019544691907663,Lethal Weapon 4 (1998),Action|Comedy|Crime|Thriller,1998,2.95,61
+2391,3.6800114050560095,"Simple Plan, A (1998)",Crime|Drama|Thriller,1998,4.05,51
+2027,2.6936651551796063,Jane Austen's Mafia! (1998),Comedy|Crime,1998,2.0,42
+2492,2.923271885608948,20 Dates (1998),Comedy|Romance,1998,2.4,31
+2294,3.2952358618646582,Antz (1998),Adventure|Animation|Children|Comedy|Fantasy,1998,3.85,86
+1845,3.614878297930357,Zero Effect (1998),Comedy|Mystery|Thriller,1998,3.35,38
+1783,2.9552380924721855,Palmetto (1998),Crime|Drama|Mystery|Romance|Thriller,1998,2.55,31
+2336,3.8551477542394417,Elizabeth (1998),Drama,1998,3.65,47
+1840,3.3032598250540994,He Got Game (1998),Drama,1998,3.45,60
+2280,3.2615105265525424,Clay Pigeons (1998),Crime,1998,3.1,51
+2443,3.426570602341701,Playing by Heart (1998),Drama|Romance,1998,3.0,51
+2271,3.178286265883983,Permanent Midnight (1998),Drama,1998,2.85,51
+1810,3.445221919171841,Primary Colors (1998),Comedy|Drama,1998,3.6,74
+2316,3.0370760602775277,Practical Magic (1998),Drama|Fantasy|Mystery|Romance,1998,2.2,54
+2575,3.720405980268617,"Dreamlife of Angels, The (Vie rêvée des anges, La) (1998)",Drama,1998,3.8,42
+1873,3.640412240806637,"Misérables, Les (1998)",Crime|Drama|Romance|War,1998,3.45,41
+8604,3.3705572251979294,Taxi (1998),Action|Comedy,1998,1.7,104
+2433,3.3153639406635724,"Civil Action, A (1998)",Drama,1998,3.2,66
+2442,3.5359999973312704,Hilary and Jackie (1998),Drama,1998,3.75,43
+2353,3.5366650808631412,Enemy of the State (1998),Action|Thriller,1998,3.2,81
+2357,3.9346366764923357,Central Station (Central do Brasil) (1998),Drama,1998,3.95,48
+2278,3.5466386950570086,Ronin (1998),Action|Crime|Thriller,1998,3.15,60
+2282,3.3623652031138933,Pecker (1998),Comedy|Drama,1998,2.85,43
+1777,3.4003961390854833,"Wedding Singer, The (1998)",Comedy|Romance,1998,3.05,59
+2169,2.839899304633638,Dead Man on Campus (1998),Comedy,1998,1.8,34
+2396,3.8217537266721093,Shakespeare in Love (1998),Comedy|Drama|Romance,1998,4.05,101
+1912,3.659761478242439,Out of Sight (1998),Comedy|Crime|Drama|Romance|Thriller,1998,3.95,69
+1779,2.843186031375595,Sphere (1998),Sci-Fi|Thriller,1998,2.0,49
+2279,2.7245742888356768,Urban Legend (1998),Horror|Thriller,1998,2.15,48
+2306,2.7203438360049077,Holy Man (1998),Comedy,1998,1.8,49
+1897,3.4236398931754213,High Art (1998),Drama|Romance,1998,3.4,42
+2295,3.28609731386579,"Impostors, The (1998)",Comedy,1998,1.95,91
+2394,3.403347033919972,"Prince of Egypt, The (1998)",Animation|Musical,1998,3.5,82
+2428,2.8453661689991656,"Faculty, The (1998)",Horror|Sci-Fi,1998,2.8,37
+1920,2.846041123862645,Small Soldiers (1998),Animation|Children|Fantasy|War,1998,3.1,41
+2432,3.203325413722427,Stepmom (1998),Drama,1998,2.55,53
+1727,3.151846324156229,"Horse Whisperer, The (1998)",Drama|Romance,1998,3.45,52
+1732,3.9258233213221607,"Big Lebowski, The (1998)",Comedy|Crime,1998,3.55,74
+2338,2.2046822023438244,I Still Know What You Did Last Summer (1998),Horror|Mystery|Thriller,1998,1.65,53
+1855,2.608101848042323,Krippendorf's Tribe (1998),Comedy,1998,1.75,36
+2708,3.42665369169538,"Autumn Tale, An (Conte d'automne) (1998)",Romance,1998,3.9,32
+2335,2.939680530612502,"Waterboy, The (1998)",Comedy,1998,2.3,72
+2598,3.022811790263685,Pushing Tin (1999),Comedy,1999,2.8,65
+27317,3.4805619237745704,Audition (�?dishon) (1999),Drama|Horror|Mystery|Romance|Thriller,1999,3.5,61
+3173,3.1717125371478487,Any Given Sunday (1999),Drama,1999,2.75,118
+2599,3.766070426140772,Election (1999),Comedy,1999,3.9,101
+3146,2.6880801407717096,Deuce Bigalow: Male Gigolo (1999),Comedy,1999,2.0,73
+2687,3.4346235410149966,Tarzan (1999),Adventure|Animation|Children|Drama,1999,3.8,101
+3355,3.178893080518956,"Ninth Gate, The (1999)",Fantasy|Horror|Mystery|Thriller,1999,2.45,85
+2568,2.399388376688507,"Mod Squad, The (1999)",Action|Crime,1999,1.5,51
+2840,3.0251153340215633,Stigmata (1999),Drama|Thriller,1999,2.0,88
+2725,3.385774762966004,Twin Falls Idaho (1999),Drama,1999,3.65,44
+2771,3.016323597445118,Brokedown Palace (1999),Drama,1999,2.35,34
+2906,2.5791044753091654,Random Hearts (1999),Drama|Romance,1999,2.0,87
+3238,2.563340932190907,Eye of the Beholder (1999),Thriller,1999,1.7,86
+2827,2.5614914054945674,"Astronaut's Wife, The (1999)",Horror|Sci-Fi|Thriller,1999,2.1,57
+2572,3.459844794440919,10 Things I Hate About You (1999),Comedy|Romance,1999,3.0,58
+2540,3.0335459152186544,"Corruptor, The (1999)",Action|Crime|Drama|Thriller,1999,2.65,46
+2448,2.5499204217840057,Virus (1999),Horror|Sci-Fi,1999,1.6,44
+2546,3.03433420043267,"Deep End of the Ocean, The (1999)",Drama,1999,2.9,33
+2844,3.1030651293705462,"Minus Man, The (1999)",Drama|Mystery,1999,2.95,34
+2570,3.443474838885889,"Walk on the Moon, A (1999)",Drama|Romance,1999,3.35,35
+3747,3.444687260785871,Jesus' Son (1999),Drama,1999,3.65,43
+2701,2.3291384984453853,Wild Wild West (1999),Action|Comedy|Sci-Fi|Western,1999,1.95,102
+2719,2.5122851062512748,"Haunting, The (1999)",Horror|Thriller,1999,1.85,87
+2858,4.144691889882007,American Beauty (1999),Comedy|Drama,1999,4.0,151
+2571,4.1770189449987045,"Matrix, The (1999)",Action|Sci-Fi|Thriller,1999,3.7,125
+2714,3.160757151489243,"Wood, The (1999)",Drama,1999,3.0,56
+2549,2.3944470788148315,Wing Commander (1999),Action|Sci-Fi,1999,1.4,46
+3148,3.6701670961911224,"Cider House Rules, The (1999)",Drama,1999,3.3,109
+3179,3.413876540771778,Angela's Ashes (1999),Drama,1999,2.85,84
+2713,2.591018386389168,Lake Placid (1999),Horror|Thriller,1999,2.5,68
+3328,3.6717296046448675,Ghost Dog: The Way of the Samurai (1999),Crime|Drama,1999,3.5,91
+2671,3.4416717600139712,Notting Hill (1999),Comedy|Romance,1999,3.55,97
+2959,4.213653154584614,Fight Club (1999),Action|Crime|Drama|Thriller,1999,3.65,149
+2690,3.6626023377376757,"Ideal Husband, An (1999)",Comedy|Romance,1999,3.7,63
+2907,2.6707865144420375,Superstar (1999),Comedy,1999,2.25,72
+3189,3.4310558984307233,My Dog Skip (1999),Children|Drama,1999,3.35,80
+2976,3.1705396196069158,Bringing Out the Dead (1999),Drama,1999,3.35,105
+3004,2.661824951146578,"Bachelor, The (1999)",Comedy|Romance,1999,1.75,66
+2555,2.0795681911863353,Baby Geniuses (1999),Comedy,1999,0.95,43
+2707,3.430555934307178,Arlington Road (1999),Thriller,1999,3.05,86
+3176,3.471563677384829,"Talented Mr. Ripley, The (1999)",Drama|Mystery|Thriller,1999,3.65,125
+2908,3.7683307512287443,Boys Don't Cry (1999),Drama,1999,3.95,73
+3113,2.67982749429024,End of Days (1999),Action|Fantasy|Horror|Mystery|Thriller,1999,1.85,98
+2762,4.043338898883396,"Sixth Sense, The (1999)",Drama|Horror|Mystery,1999,3.7,126
+2881,3.1691746345071525,Double Jeopardy (1999),Action|Crime|Drama|Thriller,1999,2.2,83
+2490,3.3964841954950584,Payback (1999),Action|Thriller,1999,2.9,70
+2807,2.17727272443202,Universal Soldier: The Return (1999),Action|Sci-Fi,1999,1.4,51
+2617,3.165900005507378,"Mummy, The (1999)",Action|Adventure|Comedy|Fantasy|Horror|Thriller,1999,2.85,81
+2995,2.613128324974231,House on Haunted Hill (1999),Horror|Thriller,1999,2.2,53
+2580,3.6654627783369613,Go (1999),Comedy|Crime,1999,3.8,72
+3125,3.465235052270952,"End of the Affair, The (1999)",Drama,1999,3.3,66
+2806,2.603903093343585,Teaching Mrs. Tingle (1999),Comedy|Thriller,1999,2.0,68
+2720,2.243524268475466,Inspector Gadget (1999),Action|Adventure|Children|Comedy,1999,2.0,61
+3327,3.3903643684719436,Beyond the Mat (1999),Documentary,1999,3.35,65
+3147,3.962979610521911,"Green Mile, The (1999)",Crime|Drama,1999,3.4,128
+3083,3.9212748334153256,All About My Mother (Todo sobre mi madre) (1999),Drama,1999,4.0,80
+2883,3.373617205909943,Mumford (1999),Comedy|Drama,1999,2.95,76
+2505,2.9814911696234683,8MM (1999),Drama|Mystery|Thriller,1999,2.1,78
+3185,3.3016291679840384,Snow Falling on Cedars (1999),Drama,1999,2.6,88
+2761,3.807915122382716,"Iron Giant, The (1999)",Adventure|Animation|Children|Drama|Sci-Fi,1999,4.0,111
+2539,3.2289154098683888,Analyze This (1999),Comedy,1999,3.2,101
+3078,3.3745933346730057,Liberty Heights (1999),Drama,1999,3.65,45
+2978,2.9826987274968944,Three to Tango (1999),Comedy|Romance,1999,2.15,64
+2676,3.128883493148402,Instinct (1999),Drama|Thriller,1999,2.15,66
+2672,3.2597966090537516,"Thirteenth Floor, The (1999)",Drama|Sci-Fi|Thriller,1999,2.25,61
+2712,3.2076149517077637,Eyes Wide Shut (1999),Drama|Mystery|Thriller,1999,3.65,119
+2682,3.5398425157975204,Limbo (1999),Drama,1999,3.5,39
+3786,3.315529008132616,But I'm a Cheerleader (1999),Comedy,1999,2.35,46
+2600,3.316160744232986,eXistenZ (1999),Action|Sci-Fi|Thriller,1999,3.35,62
+2606,2.83785714078271,Idle Hands (1999),Comedy|Horror,1999,1.7,53
+3055,3.31618704591983,Felicia's Journey (1999),Thriller,1999,3.7,40
+2966,3.8567406335153542,"Straight Story, The (1999)",Adventure|Drama,1999,4.05,86
+3051,3.0562683902665397,Anywhere But Here (1999),Comedy|Drama,1999,3.2,86
+2997,3.938380332431773,Being John Malkovich (1999),Comedy|Drama|Fantasy,1999,4.0,116
+3157,2.936488005071749,Stuart Little (1999),Children|Comedy|Fantasy,1999,3.45,114
+2688,3.078676705392959,"General's Daughter, The (1999)",Crime|Drama|Mystery|Thriller,1999,2.15,87
+2891,3.3213470912888923,"Happy, Texas (1999)",Comedy,1999,3.35,50
+3145,3.259184911838717,Cradle Will Rock (1999),Drama,1999,3.1,66
+2683,3.209578147789863,Austin Powers: The Spy Who Shagged Me (1999),Action|Adventure|Comedy,1999,3.0,85
+2541,3.262166352316187,Cruel Intentions (1999),Drama,1999,2.65,76
+2805,2.868378590134366,Mickey Blue Eyes (1999),Comedy|Romance,1999,2.7,72
+2560,3.2099654637705233,Ravenous (1999),Horror|Thriller,1999,2.75,36
+2836,3.221671466895015,Outside Providence (1999),Comedy,1999,2.8,74
+2882,2.904338839574966,Jakob the Liar (1999),Drama,1999,2.35,71
+3005,3.2717332181283596,"Bone Collector, The (1999)",Thriller,1999,2.35,84
+2772,3.1274439082783854,Detroit Rock City (1999),Comedy,1999,2.7,36
+2889,3.269078668516134,"Mystery, Alaska (1999)",Children|Comedy,1999,2.45,78
+3117,3.2208372931140348,Ride with the Devil (1999),Drama|Romance|War,1999,3.1,64
+2497,2.9179846917784227,Message in a Bottle (1999),Romance,1999,2.6,35
+3114,3.8266265575875744,Toy Story 2 (1999),Adventure|Animation|Children|Comedy|Fantasy,1999,4.5,73
+3006,3.8883680923524886,"Insider, The (1999)",Drama|Thriller,1999,3.65,195
+2912,3.565887242157145,"Limey, The (1999)",Crime|Drama|Thriller,1999,3.7,79
+2496,3.20170004542684,Blast from the Past (1999),Comedy|Romance,1999,3.05,35
+3175,3.58453444064125,Galaxy Quest (1999),Adventure|Comedy|Sci-Fi,1999,3.6,111
+3129,3.5612099622165707,Sweet and Lowdown (1999),Comedy|Drama,1999,3.4,59
+2446,2.890334232215764,In Dreams (1999),Horror|Thriller,1999,3.7,127
+2506,3.136466772049082,"Other Sister, The (1999)",Comedy|Drama|Romance,1999,2.35,48
+3053,3.0638818281648192,"Messenger: The Story of Joan of Arc, The (1999)",Drama|War,1999,2.25,72
+2961,2.9275510183090354,"Story of Us, The (1999)",Comedy|Drama,1999,2.25,81
+2860,3.0668596859968154,Blue Streak (1999),Comedy,1999,2.4,68
+3182,3.6358033206806444,"Mr. Death: The Rise and Fall of Fred A. Leuchter, Jr. (1999)",Documentary,1999,4.2,38
+2724,2.8736112709392367,Runaway Bride (1999),Comedy|Romance,1999,2.65,82
+2829,2.873352710786265,"Muse, The (1999)",Comedy,1999,2.95,76
+3007,3.7590517222033117,American Movie (1999),Documentary,1999,4.15,46
+2710,2.8904237415258196,"Blair Witch Project, The (1999)",Drama|Horror|Thriller,1999,3.75,125
+2677,3.823533141472519,Buena Vista Social Club (1999),Documentary|Musical,1999,3.75,41
+3163,3.5327636694642823,Topsy-Turvy (1999),Comedy|Drama|Musical,1999,3.9,83
+2447,3.0800950668635925,Varsity Blues (1999),Comedy|Drama,1999,2.5,51
+3174,3.50439279570003,Man on the Moon (1999),Comedy|Drama,1999,3.1,117
+2587,3.000071887176744,Life (1999),Comedy|Crime|Drama,1999,3.7,137
+2485,3.005101699743723,She's All That (1999),Comedy|Romance,1999,2.45,55
+3822,3.5010138203344248,"Girl on the Bridge, The (Fille sur le pont, La) (1999)",Drama|Romance,1999,3.7,39
+2861,3.1106329996667323,For Love of the Game (1999),Comedy|Drama,1999,3.15,55
+2574,2.7562658523910963,"Out-of-Towners, The (1999)",Comedy,1999,2.5,34
+3156,3.051182431241035,Bicentennial Man (1999),Drama|Romance|Sci-Fi,1999,2.4,93
+2605,3.143024591480447,Entrapment (1999),Crime|Thriller,1999,2.6,80
+3127,3.047930078254692,Holy Smoke (1999),Comedy|Drama,1999,2.8,73
+2567,3.0590527974309656,EDtv (1999),Comedy,1999,3.15,42
+3159,3.4914805070220876,Fantasia 2000 (1999),Animation|Children|Musical|IMAX,1999,3.5,78
+2561,3.1093308748083794,True Crime (1999),Crime|Thriller,1999,3.0,38
+3155,3.3611580822605305,Anna and the King (1999),Drama|Romance,1999,2.95,97
+2700,3.6125902297052686,"South Park: Bigger, Longer and Uncut (1999)",Animation|Comedy|Musical,1999,3.5,92
+2826,3.1082476805042427,"13th Warrior, The (1999)",Action|Adventure|Fantasy,1999,2.3,86
+2722,2.712261228066966,Deep Blue Sea (1999),Action|Horror|Sci-Fi|Thriller,1999,2.85,89
+3115,3.1823016521908025,Flawless (1999),Drama,1999,2.85,90
+2763,3.485911624126573,"Thomas Crown Affair, The (1999)",Action|Mystery,1999,3.2,88
+3160,3.828471765845605,Magnolia (1999),Drama,1999,3.75,138
+2841,3.4842029570794684,Stir of Echoes (1999),Horror|Mystery|Thriller,1999,3.2,103
+3556,3.61313621580801,"Virgin Suicides, The (1999)",Drama|Romance,1999,3.5,90
+2890,3.5921562371512836,Three Kings (1999),Action|Adventure|Comedy|Drama|War,1999,3.9,126
+2709,3.112724933617331,Muppets From Space (1999),Children|Comedy,1999,3.1,53
+3181,3.5076092795805995,Titus (1999),Drama,1999,3.25,74
+2501,3.8373445030544366,October Sky (1999),Drama,1999,3.8,70
+3081,3.529066022182905,Sleepy Hollow (1999),Fantasy|Horror|Mystery|Romance,1999,3.15,124
+2611,3.640845883582185,"Winslow Boy, The (1999)",Drama,1999,3.95,35
+2996,3.2573268881343402,Music of the Heart (1999),Drama,1999,3.3,75
+2436,3.3269464357056053,Tea with Mussolini (1999),Comedy|Drama|War,1999,3.2,33
+2581,3.061923225418489,Never Been Kissed (1999),Comedy|Romance,1999,2.85,79
+2706,3.327343388725804,American Pie (1999),Comedy|Romance,1999,2.85,115
+3079,3.5993541415838806,Mansfield Park (1999),Comedy|Drama|Romance,1999,3.45,66
+2759,3.255539009845995,Dick (1999),Comedy,1999,3.15,70
+2500,2.8071005884699876,Jawbreaker (1999),Comedy,1999,1.65,57
+2723,3.0533356213597496,Mystery Men (1999),Action|Comedy|Fantasy,1999,2.85,100
+2558,2.806331616566225,Forces of Nature (1999),Comedy|Romance,1999,2.65,63
+2885,3.1989330698960723,Guinevere (1999),Drama|Romance,1999,3.4,33
+3052,3.6023872512805544,Dogma (1999),Adventure|Comedy|Fantasy,1999,3.15,126
+2583,3.5218686230366587,Cookie's Fortune (1999),Comedy|Drama,1999,3.75,55
+2502,3.964931822309528,Office Space (1999),Comedy|Crime,1999,3.4,88
+3186,3.5177333323929236,"Girl, Interrupted (1999)",Drama,1999,2.85,111
+2445,2.9441269802086114,At First Sight (1999),Drama,1999,2.6,36
+2770,3.0821874687776973,Bowfinger (1999),Comedy,1999,3.55,107
+2504,2.9671663419066014,200 Cigarettes (1999),Comedy|Drama,1999,2.25,57
+3897,3.836331466941103,Almost Famous (2000),Drama,2000,3.9,159
+3793,3.5904922107461,X-Men (2000),Action|Adventure|Sci-Fi,2000,3.5,152
+4144,3.8544298902399277,In the Mood For Love (Fa yeung nin wa) (2000),Drama|Romance,2000,3.8,98
+4783,3.6031441004915727,"Endurance: Shackleton's Legendary Antarctic Expedition, The (2000)",Documentary,2000,3.85,65
+3948,3.4414728918190867,Meet the Parents (2000),Comedy,2000,3.45,140
+4027,3.8721428926831427,"O Brother, Where Art Thou? (2000)",Adventure|Comedy|Crime,2000,3.55,143
+4022,3.6040076235029543,Cast Away (2000),Drama,2000,3.7,152
+4033,3.6109932734254655,Thirteen Days (2000),Drama|Thriller|War,2000,3.55,114
+3510,3.5463771587167523,Frequency (2000),Drama|Thriller,2000,3.25,122
+3753,3.4510709501013572,"Patriot, The (2000)",Action|Drama|War,2000,3.05,131
+3994,3.4694485944548448,Unbreakable (2000),Drama|Sci-Fi,2000,3.1,156
+4235,3.9433704866183414,Amores Perros (Love's a Bitch) (2000),Drama|Thriller,2000,3.9,111
+4034,3.8066887845881188,Traffic (2000),Crime|Drama|Thriller,2000,4.0,149
+4644,3.47142856693617,Bread and Tulips (Pane e tulipani) (2000),Comedy|Drama|Romance,2000,3.15,62
+5146,3.516983065706952,Vampire Hunter D: Bloodlust (Banpaia hantâ D) (2000),Animation|Fantasy|Horror|Sci-Fi,2000,3.2,32
+3911,3.8042155215952778,Best in Show (2000),Comedy,2000,3.75,107
+4021,3.5287449359398453,Before Night Falls (2000),Drama,2000,3.45,95
+3910,3.762517192815876,Dancer in the Dark (2000),Drama|Musical,2000,3.35,113
+3967,3.763098625796665,Billy Elliot (2000),Drama,2000,3.6,114
+4014,3.716036237514042,Chocolat (2000),Drama|Romance,2000,3.0,114
+3512,3.491923686824436,Return to Me (2000),Drama|Romance,2000,3.05,97
+3949,4.003603063274249,Requiem for a Dream (2000),Drama,2000,3.7,127
+4011,4.017061323346185,Snatch (2000),Comedy|Crime|Thriller,2000,3.2,136
+3535,3.4834048163491533,American Psycho (2000),Crime|Horror|Mystery|Thriller,2000,3.15,122
+3993,3.472476768684028,Quills (2000),Drama|Romance,2000,3.3,118
+5319,3.7119702148126295,Nine Queens (Nueve reinas) (2000),Crime|Thriller,2000,3.75,91
+4029,3.4681976729833863,State and Main (2000),Comedy|Drama,2000,3.65,113
+4378,3.5302963414447825,Sexy Beast (2000),Comedy|Crime|Drama,2000,3.6,118
+3317,3.7035845321849914,Wonder Boys (2000),Comedy|Drama,2000,3.6,122
+4642,3.6893843577580205,Hedwig and the Angry Inch (2000),Comedy|Drama|Musical,2000,3.9,103
+3996,3.888202422628482,"Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)",Action|Drama|Romance,2000,4.3,143
+3751,3.5681475368290627,Chicken Run (2000),Animation|Children|Comedy,2000,4.0,139
+4226,4.161655301524186,Memento (2000),Mystery|Thriller,2000,4.05,135
+3298,3.4562916572536557,Boiler Room (2000),Crime|Drama|Thriller,2000,3.2,97
+3481,3.8161408430501527,High Fidelity (2000),Comedy|Drama|Romance,2000,3.8,145
+3983,3.9193652644909935,You Can Count on Me (2000),Drama|Romance,2000,4.0,96
+4019,3.638343509482206,Finding Forrester (2000),Drama,2000,3.25,122
+4016,3.5430712849871497,"Emperor's New Groove, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,2000,3.5,126
+3952,3.5419999983812627,"Contender, The (2000)",Drama|Thriller,2000,3.35,128
+3916,3.7451128746046702,Remember the Titans (2000),Drama,2000,3.15,130
+3980,3.5357027450357705,Men of Honor (2000),Drama,2000,2.65,102
+3831,3.533963175902544,Saving Grace (2000),Comedy,2000,3.0,88
+3578,3.939978428757351,Gladiator (2000),Action|Adventure|Drama,2000,3.5,159
+3408,3.576458041017908,Erin Brockovich (2000),Drama,2000,3.65,137
+4741,3.617250855713299,Together (Tillsammans) (2000),Comedy|Drama|Romance,2000,3.6,79
+3593,1.771875697532495,Battlefield Earth (2000),Action|Sci-Fi,2000,1.15,122
+3909,2.951093608978872,Woman on Top (2000),Comedy|Romance,2000,2.4,95
+3956,2.7107370291745685,Lost Souls (2000),Drama|Horror|Thriller,2000,1.5,89
+4036,3.388231220167134,Shadow of the Vampire (2000),Drama|Horror,2000,3.5,133
+3598,3.3465827308530276,Hamlet (2000),Crime|Drama|Romance|Thriller,2000,4.1,54
+3324,2.838138329064545,Drowning Mona (2000),Comedy,2000,2.2,75
+4031,2.9700064609326766,All the Pretty Horses (2000),Drama|Romance|Western,2000,2.45,99
+3534,3.0960541576523886,28 Days (2000),Drama,2000,3.65,200
+3827,3.0991589110706603,Space Cowboys (2000),Action|Adventure|Comedy|Sci-Fi,2000,3.4,114
+3623,2.9665032872123636,Mission: Impossible II (2000),Action|Adventure|Thriller,2000,2.9,45
+3615,3.1057295356095556,Dinosaur (2000),Adventure|Animation|Children,2000,3.1,120
+3901,2.959377490074103,Duets (2000),Comedy|Drama,2000,1.95,88
+3565,3.2528374871293426,Where the Heart Is (2000),Comedy|Drama,2000,2.3,94
+3889,2.648682700494187,Highlander: Endgame (Highlander IV) (2000),Action|Adventure|Fantasy,2000,1.65,53
+3513,3.2648785408444163,Rules of Engagement (2000),Drama|Thriller,2000,2.5,93
+3624,3.312869564604081,Shanghai Noon (2000),Action|Adventure|Comedy|Western,2000,3.3,130
+3745,3.248246204900987,Titan A.E. (2000),Action|Adventure|Animation|Children|Sci-Fi,2000,2.85,97
+3946,2.5972585639020878,Get Carter (2000),Action|Drama|Thriller,2000,1.8,60
+3979,2.5905925288016993,Little Nicky (2000),Comedy,2000,1.95,113
+3409,3.1226914808630726,Final Destination (2000),Drama|Thriller,2000,2.3,85
+3286,2.580141283408831,Snow Day (2000),Comedy,2000,2.1,62
+3991,2.570823300463578,102 Dalmatians (2000),Children|Comedy,2000,2.2,89
+3452,3.0072955686715566,Romeo Must Die (2000),Action|Crime|Romance|Thriller,2000,2.45,89
+3566,3.2470770797014232,"Big Kahuna, The (2000)",Comedy|Drama,2000,3.2,76
+3879,2.953854274056415,"Art of War, The (2000)",Action|Thriller,2000,1.95,80
+3826,2.564195133936704,Hollow Man (2000),Horror|Sci-Fi|Thriller,2000,2.2,112
+4015,2.563448274966034,"Dude, Where's My Car? (2000)",Comedy|Sci-Fi,2000,1.8,54
+3190,2.560921049383454,Supernova (2000),Adventure|Sci-Fi|Thriller,2000,1.6,60
+3325,2.6253342681652714,"Next Best Thing, The (2000)",Comedy|Drama,2000,1.8,91
+3861,3.1288797191567284,"Replacements, The (2000)",Comedy,2000,2.45,105
+4020,3.3478016512604465,"Gift, The (2000)",Thriller,2000,2.95,116
+3484,2.823641701564923,"Skulls, The (2000)",Thriller,2000,1.55,84
+4640,3.360664815385827,Brother (2000),Action|Crime|Thriller,2000,3.55,143
+3285,3.0136517606813773,"Beach, The (2000)",Adventure|Drama,2000,2.2,116
+3990,2.79695945528957,Rugrats in Paris: The Movie (2000),Animation|Children|Comedy,2000,3.15,72
+3618,3.283065462588338,Small Time Crooks (2000),Comedy|Crime,2000,3.2,98
+3744,2.9950628157511243,Shaft (2000),Action|Crime|Thriller,2000,3.7,31
+3981,2.8020717521634286,Red Planet (2000),Action|Sci-Fi|Thriller,2000,1.85,98
+3825,2.7753113382265346,Coyote Ugly (2000),Comedy|Drama|Romance,2000,1.95,94
+3977,2.8171754563975755,Charlie's Angels (2000),Action|Comedy,2000,2.5,171
+3616,2.7607957533489924,Loser (2000),Comedy|Romance,2000,2.1,94
+3225,2.819327126029242,Down to You (2000),Comedy|Romance,2000,1.6,58
+3895,2.7565696263279706,"Watcher, The (2000)",Crime|Thriller,2000,1.7,87
+3752,2.9920778312558314,"Me, Myself & Irene (2000)",Adventure|Comedy,2000,2.7,95
+3287,2.975946544218894,"Tigger Movie, The (2000)",Animation|Children,2000,2.95,70
+4025,3.036302871547034,Miss Congeniality (2000),Comedy|Crime,2000,2.55,113
+3858,3.037421379766392,Cecil B. DeMented (2000),Comedy,2000,2.8,78
+4024,3.2948917706171867,"House of Mirth, The (2000)",Romance,2000,3.45,93
+3955,2.747325099494411,"Ladies Man, The (2000)",Comedy,2000,1.6,71
+3987,2.9912220288566482,Bounce (2000),Drama|Romance,2000,2.75,105
+3300,3.379749150125797,Pitch Black (2000),Horror|Sci-Fi|Thriller,2000,2.8,100
+3882,3.0564890023901032,Bring It On (2000),Comedy,2000,3.0,115
+3986,2.9778076913582403,"6th Day, The (2000)",Action|Sci-Fi|Thriller,2000,2.6,112
+3316,2.7342628076203734,Reindeer Games (2000),Action|Thriller,2000,2.1,86
+3857,2.822570277158916,Bless the Child (2000),Thriller,2000,1.45,97
+4055,3.350914872762808,Panic (2000),Drama,2000,3.45,178
+3717,3.06980981729193,Gone in 60 Seconds (2000),Action|Crime,2000,2.2,133
+3453,2.8235399775946552,Here on Earth (2000),Drama|Romance,2000,1.9,67
+3863,3.0367945553282705,"Cell, The (2000)",Drama|Horror|Thriller,2000,2.65,142
+3999,2.857444473557129,Vertical Limit (2000),Action|Adventure,2000,2.6,107
+3553,2.954471540255511,Gossip (2000),Drama|Thriller,2000,2.2,65
+3794,3.219532424632617,Chuck & Buck (2000),Comedy|Drama,2000,3.5,85
+3998,3.1603326238722045,Proof of Life (2000),Drama,2000,2.65,113
+3326,2.8810533481962044,What Planet Are You From? (2000),Comedy|Sci-Fi,2000,2.5,77
+3824,2.548073957402594,Autumn in New York (2000),Drama|Romance,2000,2.05,68
+3988,2.9242067378251306,How the Grinch Stole Christmas (a.k.a. The Grinch) (2000),Children|Comedy|Fantasy,2000,2.8,127
+3798,3.2177350419815096,What Lies Beneath (2000),Drama|Horror|Mystery,2000,2.75,122
+3821,2.3952897412652154,Nutty Professor II: The Klumps (2000),Comedy,2000,2.2,84
+3571,3.1660036121725597,Time Code (2000),Comedy|Drama,2000,3.15,80
+6820,3.338444105032365,Ginger Snaps (2000),Drama|Horror|Thriller,2000,3.7,46
+3852,3.422115801072203,"Tao of Steve, The (2000)",Comedy,2000,3.4,47
+3950,3.4228539548845323,Tigerland (2000),Drama,2000,3.5,42
+3536,3.423472313051589,Keeping the Faith (2000),Comedy|Drama|Romance,2000,3.1,114
+3483,3.171293632469343,"Road to El Dorado, The (2000)",Animation|Children,2000,2.75,101
+3617,3.175962525033733,Road Trip (2000),Comedy,2000,2.95,89
+3555,3.326169249082821,U-571 (2000),Action|Thriller|War,2000,3.1,94
+3978,3.1830362433341803,"Legend of Bagger Vance, The (2000)",Drama|Romance,2000,2.6,128
+3743,2.88128439914023,Boys and Girls (2000),Comedy|Romance,2000,1.9,61
+3893,3.1971189400550615,Nurse Betty (2000),Comedy|Crime|Drama|Romance|Thriller,2000,3.6,129
+4251,3.4318611948445197,Chopper (2000),Drama|Thriller,2000,3.2,64
+3973,2.2835142093348066,Book of Shadows: Blair Witch 2 (2000),Crime|Horror|Mystery|Thriller,2000,1.7,103
+3997,2.2789948940176092,Dungeons & Dragons (2000),Adventure|Fantasy,2000,1.55,87
+3301,3.3275541788717775,"Whole Nine Yards, The (2000)",Comedy|Crime,2000,2.6,93
+3799,2.2721833195817,Pokémon the Movie 2000 (2000),Animation|Children,2000,1.9,63
+5051,3.434893044828109,Italian for Beginners (Italiensk for begyndere) (2000),Comedy|Drama|Romance,2000,3.6,81
+3564,2.1562058501830728,"Flintstones in Viva Rock Vegas, The (2000)",Children|Comedy,2000,2.0,70
+3554,3.332959785802802,Love and Basketball (2000),Drama|Romance,2000,3.35,86
+3177,2.9035714257274483,Next Friday (2000),Comedy,2000,1.95,62
+3968,2.9034752577820138,Bedazzled (2000),Comedy,2000,2.7,109
+3594,3.222278621016836,Center Stage (2000),Drama|Musical,2000,2.5,79
+4383,3.3231586902527344,"Crimson Rivers, The (Rivières pourpres, Les) (2000)",Crime|Drama|Mystery|Thriller,2000,3.0,53
+3785,2.7891157935110633,Scary Movie (2000),Comedy|Horror,2000,2.75,109
+4023,3.322127574299297,"Family Man, The (2000)",Comedy|Drama|Romance,2000,2.7,125
+3273,2.5128377339433445,Scream 3 (2000),Comedy|Horror|Mystery|Thriller,2000,2.6,94
+3953,2.5008714570059096,Dr. T and the Women (2000),Comedy|Romance,2000,2.85,106
+4018,3.1366909647738956,What Women Want (2000),Comedy|Romance,2000,2.8,118
+3896,3.2374505904460724,"Way of the Gun, The (2000)",Crime|Thriller,2000,2.7,102
+3784,3.1361546473682607,"Kid, The (2000)",Comedy|Fantasy,2000,3.45,41
+3969,3.319574392378271,Pay It Forward (2000),Drama,2000,2.5,125
+3457,3.1389043593898336,Waking the Dead (2000),Drama|Thriller,2000,2.95,54
+3865,3.230340132695816,"Original Kings of Comedy, The (2000)",Comedy|Documentary,2000,3.45,87
+3943,3.1409609080316376,Bamboozled (2000),Comedy,2000,2.7,96
+4077,3.411798675794431,"With a Friend Like Harry... (Harry, un ami qui vous veut du bien) (2000)",Drama|Thriller,2000,3.75,88
+3515,3.134361763498397,Me Myself I (2000),Comedy|Romance,2000,2.7,95
+2769,3.1313293776992808,"Yards, The (2000)",Crime|Drama,2000,1.4,116
+3646,2.5280234951841227,Big Momma's House (2000),Comedy,2000,2.2,80
+3992,3.4135764119960053,Malèna (2000),Drama|Romance|War,2000,2.8,76
+3908,2.4509022993546052,Urban Legends: Final Cut (2000),Horror,2000,1.5,78
+3754,2.472916664274637,"Adventures of Rocky and Bullwinkle, The (2000)",Adventure|Animation|Children|Comedy|Fantasy,2000,2.4,92
+4967,3.7977499979428546,No Man's Land (2001),Drama|War,2001,3.9,97
+4141,2.993248527458758,Head Over Heels (2001),Comedy|Romance,2001,1.65,86
+4887,2.9424113457669683,"One, The (2001)",Action|Sci-Fi|Thriller,2001,1.95,83
+4823,3.2920872752531154,Serendipity (2001),Comedy|Romance,2001,2.85,128
+4267,2.9420280153854907,One Night at McCool's (2001),Comedy,2001,2.35,102
+6618,3.5356369965315357,Shaolin Soccer (Siu lam juk kau) (2001),Action|Comedy,2001,3.55,87
+4649,3.292531442659474,Wet Hot American Summer (2001),Comedy,2001,2.15,63
+4718,2.9964187950573504,American Pie 2 (2001),Comedy,2001,2.85,115
+4270,2.949193744815887,"Mummy Returns, The (2001)",Action|Adventure|Comedy|Thriller,2001,2.6,137
+5225,3.8382947164157275,And Your Mother Too (Y tu mamá también) (2001),Drama|Romance,2001,4.0,126
+4890,2.9064912608148363,Shallow Hal (2001),Comedy|Fantasy|Romance,2001,2.7,118
+4770,2.9282768741258103,"Glass House, The (2001)",Thriller,2001,2.1,84
+4865,3.3236096954701266,From Hell (2001),Crime|Horror|Mystery|Thriller,2001,2.85,146
+4727,2.9325245869264593,Captain Corelli's Mandolin (2001),Drama|Romance|War,2001,2.2,113
+4155,2.9866357043667957,Sweet November (2001),Drama|Romance,2001,1.75,95
+4866,3.3126135192042634,"Last Castle, The (2001)",Action,2001,2.8,113
+4450,3.3232988129163097,Bully (2001),Crime|Drama|Thriller,2001,2.8,83
+4306,3.8326743038637248,Shrek (2001),Adventure|Animation|Children|Comedy|Fantasy|Romance,2001,3.85,174
+4886,3.863998012793925,"Monsters, Inc. (2001)",Adventure|Animation|Children|Comedy|Fantasy,2001,3.95,165
+4989,2.9775797327043625,How High (2001),Comedy,2001,1.9,56
+5525,3.5480035448649963,Mostly Martha (Bella Martha) (2001),Comedy|Drama|Romance,2001,3.6,82
+5016,3.3029458998729786,"Shipping News, The (2001)",Drama,2001,2.9,128
+6776,3.550680267910587,Lagaan: Once Upon a Time in India (2001),Comedy|Drama|Musical|Romance,2001,3.95,59
+4743,3.30167817873924,Tortilla Soup (2001),Comedy|Romance,2001,3.15,62
+4699,2.9738858444588354,Original Sin (2001),Drama|Romance|Thriller,2001,1.7,90
+5325,3.53944330961497,Dogtown and Z-Boyz (2001),Documentary,2001,3.75,93
+4719,2.9524444413097464,Osmosis Jones (2001),Action|Animation|Comedy|Crime|Drama|Romance|Thriller,2001,2.75,106
+4344,3.0730916022682653,Swordfish (2001),Action|Crime|Drama,2001,2.15,134
+4308,3.562632449922421,Moulin Rouge (2001),Drama|Musical|Romance,2001,3.5,168
+5081,3.117707438034945,Birthday Girl (2001),Drama|Romance,2001,2.85,120
+4816,3.2479809970074824,Zoolander (2001),Comedy,2001,2.95,127
+4372,3.124916385207832,Crazy/Beautiful (2001),Drama|Romance,2001,2.9,97
+4815,3.247272724377039,Hearts in Atlantis (2001),Drama,2001,2.85,133
+4881,3.7039838938467575,"Man Who Wasn't There, The (2001)",Crime|Drama,2001,3.55,152
+4992,3.1309784200599613,Kate & Leopold (2001),Comedy|Romance,2001,2.6,116
+6299,3.700223336160162,"Winged Migration (Peuple migrateur, Le) (2001)",Documentary,2001,4.1,126
+4903,3.611984534491898,In the Bedroom (2001),Drama,2001,3.95,137
+4148,3.132162808601071,Hannibal (2001),Horror|Thriller,2001,2.55,162
+4446,3.135106382259232,Final Fantasy: The Spirits Within (2001),Adventure|Animation|Fantasy|Sci-Fi,2001,2.6,141
+4239,3.6890192571180784,Blow (2001),Crime|Drama,2001,2.9,134
+4299,3.2340572548639104,"Knight's Tale, A (2001)",Action|Comedy|Romance,2001,2.9,137
+4700,3.138540719062322,"Princess Diaries, The (2001)",Children|Comedy|Romance,2001,2.55,110
+4720,3.681440075325708,"Others, The (2001)",Drama|Horror|Mystery|Thriller,2001,3.6,146
+5298,3.2286061548321316,Human Nature (2001),Comedy|Romance,2001,2.9,94
+4880,3.623195513336668,Life as a House (2001),Drama,2001,2.6,102
+4223,3.6686532199170916,Enemy at the Gates (2001),Drama|War,2001,2.8,135
+4387,3.218216497407177,Kiss of the Dragon (2001),Action,2001,2.65,103
+5009,3.1656249978571402,Ali (2001),Drama,2001,3.15,145
+4370,3.210593364830955,A.I. Artificial Intelligence (2001),Adventure|Drama|Sci-Fi,2001,3.3,186
+4821,3.169622525502007,Joy Ride (2001),Adventure|Thriller,2001,3.3,111
+5010,3.6609708188423915,Black Hawk Down (2001),Action|Drama|War,2001,3.45,156
+4701,3.2080855320853408,Rush Hour 2 (2001),Action|Comedy,2001,2.7,125
+4366,3.1793034809495357,Atlantis: The Lost Empire (2001),Adventure|Animation|Children|Fantasy,2001,2.65,125
+4452,3.2012616169076034,Made (2001),Comedy,2001,3.15,107
+4733,3.1869693367115866,"Curse of the Jade Scorpion, The (2001)",Comedy,2001,2.6,122
+4776,3.6458716658976185,Training Day (2001),Crime|Drama|Thriller,2001,3.25,151
+4994,3.188141960360272,"Majestic, The (2001)",Comedy|Drama|Romance,2001,2.45,135
+4958,3.1893270071339614,Behind Enemy Lines (2001),Action|Drama|War,2001,2.35,127
+4728,3.1167019014436708,Rat Race (2001),Comedy,2001,2.45,124
+5628,3.2540315060823453,Wasabi (2001),Action|Comedy|Crime|Drama|Thriller,2001,2.55,42
+4896,3.6007723093219943,Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001),Adventure|Children|Fantasy,2001,3.5,183
+5608,3.7200974401392,"Das Experiment (Experiment, The) (2001)",Drama|Thriller,2001,3.3,64
+4848,3.7835831543859335,Mulholland Drive (2001),Crime|Drama|Film-Noir|Mystery|Thriller,2001,3.7,150
+4990,3.0188281731816002,Jimmy Neutron: Boy Genius (2001),Adventure|Animation|Children|Comedy,2001,3.2,73
+6216,3.5665246976685268,Nowhere in Africa (Nirgendwo in Afrika) (2001),Drama,2001,3.75,97
+4963,3.7782809343220918,Ocean's Eleven (2001),Crime|Thriller,2001,3.45,166
+5890,3.566852142339309,Elling (2001),Comedy|Drama,2001,3.55,58
+4056,3.2817819786276012,"Pledge, The (2001)",Crime|Drama|Mystery|Thriller,2001,3.4,119
+6223,3.2816362010990865,Spun (2001),Comedy|Crime|Drama,2001,2.35,77
+4734,3.280937405669789,Jay and Silent Bob Strike Back (2001),Adventure|Comedy,2001,2.8,148
+4725,3.280340132695817,Session 9 (2001),Horror|Thriller,2001,3.1,63
+4867,3.030908176147943,Riding in Cars with Boys (2001),Comedy|Drama,2001,2.6,107
+4898,3.031113134181433,Novocaine (2001),Comedy|Crime|Mystery|Thriller,2001,2.3,105
+5678,3.0424270884881004,Formula 51 (2001),Action|Comedy|Crime|Thriller,2001,2.15,101
+5294,3.57503401192614,Frailty (2001),Crime|Drama|Thriller,2001,3.45,133
+4901,3.5752366455481486,Spy Game (2001),Action|Crime|Drama|Thriller,2001,3.1,128
+4234,3.007423793049582,"Tailor of Panama, The (2001)",Drama|Thriller,2001,3.4,111
+6283,3.7563167803465904,Cowboy Bebop: The Movie (Cowboy Bebop: Tengoku no Tobira) (2001),Action|Animation|Sci-Fi|Thriller,2001,3.15,69
+4228,3.061059793418984,Heartbreakers (2001),Comedy|Crime|Romance,2001,2.65,115
+4873,3.7436936923037307,Waking Life (2001),Animation|Drama|Fantasy,2001,3.7,137
+4153,2.9033153392928686,Down to Earth (2001),Comedy|Fantasy|Romance,2001,1.95,94
+4902,3.584451541567013,"Devil's Backbone, The (Espinazo del diablo, El) (2001)",Drama|Fantasy|Horror|Thriller|War,2001,3.75,100
+4979,3.7407669250029087,"Royal Tenenbaums, The (2001)",Comedy|Drama,2001,3.6,170
+4168,3.0796528399834626,Get Over It (2001),Comedy|Romance,2001,2.55,62
+5135,3.7395820699766356,Monsoon Wedding (2001),Comedy|Romance,2001,3.95,116
+5013,3.589958095639457,Gosford Park (2001),Comedy|Drama|Mystery,2001,3.75,141
+4225,3.592898101042281,"Dish, The (2001)",Comedy,2001,3.7,95
+4231,3.093649729320087,Someone Like You (2001),Comedy|Romance,2001,2.4,105
+4641,3.730084161448026,Ghost World (2001),Comedy|Drama,2001,3.9,148
+4052,3.097822512351212,Antitrust (2001),Crime|Drama|Thriller,2001,2.05,102
+4745,3.103743696949496,O (2001),Drama,2001,3.0,123
+4814,3.1050095396292225,Don't Say a Word (2001),Thriller,2001,2.2,112
+4161,3.059754829641149,"Mexican, The (2001)",Action|Comedy,2001,2.75,127
+4844,3.3305660360421445,Bandits (2001),Comedy|Crime|Romance,2001,3.05,136
+4978,3.648715256981044,Lantana (2001),Drama|Mystery|Thriller,2001,3.7,103
+5618,4.165480452174056,Spirited Away (Sen to Chihiro no kamikakushi) (2001),Adventure|Animation|Fantasy,2001,4.25,154
+4448,3.440734340186361,"Score, The (2001)",Action|Drama,2001,3.25,126
+4639,2.8838055736150316,America's Sweethearts (2001),Comedy|Romance,2001,2.3,142
+4736,2.787945993310367,Summer Catch (2001),Comedy|Romance,2001,1.55,82
+4254,2.4037735825171023,Crocodile Dundee in Los Angeles (2001),Comedy|Drama,2001,1.8,77
+5015,3.4880618473683658,Monster's Ball (2001),Drama|Romance,2001,3.7,141
+4368,2.633378073853624,Dr. Dolittle 2 (2001),Comedy,2001,2.45,104
+4241,2.3012138142510277,Pokémon 3: The Movie (2001),Animation|Children,2001,2.0,53
+5417,3.509249559391667,"Fast Runner, The (Atanarjuat) (2001)",Drama|Fantasy,2001,4.0,94
+4899,2.6254273469108624,Black Knight (2001),Adventure|Comedy|Fantasy,2001,1.7,94
+4888,3.39735449300075,Tape (2001),Drama,2001,3.35,90
+5026,3.4212076130466538,"Brotherhood of the Wolf (Pacte des loups, Le) (2001)",Action|Mystery|Thriller,2001,3.1,115
+4367,2.7826104042802844,Lara Croft: Tomb Raider (2001),Action|Adventure,2001,1.95,154
+4143,2.583634793335789,Valentine (2001),Horror|Mystery,2001,1.55,69
+5391,3.4517509695608632,Thirteen Conversations About One Thing (a.k.a. 13 Conversations) (2001),Drama,2001,3.7,108
+4149,2.8652711304078355,Saving Silverman (Evil Woman) (2001),Comedy|Romance,2001,1.65,98
+4158,2.568710797953206,Monkeybone (2001),Animation|Comedy|Fantasy,2001,1.95,111
+4889,3.344277106309316,Heist (2001),Crime|Drama,2001,3.1,125
+4638,2.6796316957397948,Jurassic Park III (2001),Action|Adventure|Sci-Fi|Thriller,2001,2.6,153
+5269,3.3567873265934014,"Piano Teacher, The (La pianiste) (2001)",Drama,2001,3.45,81
+4224,2.821256784377696,Exit Wounds (2001),Action|Thriller,2001,2.2,64
+4975,3.357858924366393,Vanilla Sky (2001),Mystery|Romance|Sci-Fi|Thriller,2001,2.6,160
+4304,3.494327594048981,Startup.com (2001),Documentary,2001,3.8,92
+4246,3.450032035484771,Bridget Jones's Diary (2001),Comedy|Drama|Romance,2001,3.4,151
+4744,2.707982830499078,Jeepers Creepers (2001),Horror,2001,2.55,107
+4976,3.385323961797698,Iris (2001),Drama,2001,3.55,109
+4166,3.389172530865186,Series 7: The Contenders (2001),Action|Drama,2001,3.25,79
+4255,2.378585363445293,Freddy Got Fingered (2001),Comedy,2001,1.35,91
+4159,2.838695216664766,3000 Miles to Graceland (2001),Action|Thriller,2001,1.75,95
+4973,4.175665016502188,"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",Comedy|Romance,2001,3.95,140
+4310,2.8387675321985344,Pearl Harbor (2001),Action|Drama|Romance|War,2001,2.15,159
+4248,2.6904261179097126,Josie and the Pussycats (2001),Comedy,2001,2.6,118
+8131,3.4475044519276743,Pursuit of Happiness (2001),Comedy|Romance,2001,3.2,166
+7235,3.35806237230448,Ichi the Killer (Koroshiya 1) (2001),Action|Comedy|Crime|Drama|Horror|Thriller,2001,3.05,35
+4381,3.51317511870937,"Closet, The (Placard, Le) (2001)",Comedy,2001,3.5,79
+4345,3.3551290503394116,"Anniversary Party, The (2001)",Drama,2001,2.9,111
+4247,2.755414010773428,Joe Dirt (2001),Adventure|Comedy|Mystery|Romance,2001,1.5,74
+5074,3.332923295993379,Storytelling (2001),Comedy|Drama,2001,2.8,89
+4874,3.4568693852249814,K-PAX (2001),Drama|Fantasy|Mystery|Sci-Fi,2001,2.55,136
+4369,2.8828508704984017,"Fast and the Furious, The (2001)",Action|Crime|Thriller,2001,2.7,143
+4775,1.9718143418251906,Glitter (2001),Drama|Musical|Romance,2001,1.4,85
+4974,2.7606307206045613,Not Another Teen Movie (2001),Comedy,2001,2.0,94
+4388,2.4791903397402577,Scary Movie 2 (2001),Comedy,2001,1.65,106
+5222,3.3730460897108463,Kissing Jessica Stein (2001),Comedy|Romance,2001,3.5,115
+4643,2.7554410455521774,Planet of the Apes (2001),Action|Adventure|Drama|Sci-Fi,2001,3.7,44
+4993,4.124723411953403,"Lord of the Rings: The Fellowship of the Ring, The (2001)",Adventure|Fantasy,2001,4.05,202
+5477,3.485431914394473,Sex and Lucia (Lucía y el sexo) (2001),Drama|Romance,2001,3.25,69
+5316,3.3328662388935353,Enigma (2001),Romance|Thriller,2001,3.3,104
+4878,3.9930372832958687,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,2001,3.75,103
+4723,3.368577977876797,"Deep End, The (2001)",Drama,2001,3.55,114
+5014,3.5183662114650875,I Am Sam (2001),Drama,2001,2.3,141
+4845,2.5163362371632436,Corky Romano (2001),Comedy|Crime,2001,1.4,81
+4265,2.535981305527366,Driven (2001),Action|Thriller,2001,1.8,108
+4876,2.7422977603540666,Thirteen Ghosts (a.k.a. Thir13en Ghosts) (2001),Horror|Thriller,2001,1.7,89
+4232,2.8732902905458757,Spy Kids (2001),Action|Adventure|Children|Comedy,2001,3.3,127
+5110,3.4866584675877195,Super Troopers (2001),Comedy|Crime|Mystery,2001,2.5,86
+5072,3.479268900882749,Metropolis (2001),Animation|Sci-Fi,2001,4.45,98
+4386,2.7801038733770875,Cats & Dogs (2001),Children|Comedy,2001,3.35,36
+4732,2.779475651732472,Bubble Boy (2001),Comedy,2001,1.9,81
+4995,3.9022156834319848,"Beautiful Mind, A (2001)",Drama|Romance,2001,3.55,180
+4340,2.473642249657624,"Animal, The (2001)",Comedy,2001,3.85,40
+4343,2.876035616543332,Evolution (2001),Comedy|Sci-Fi,2001,1.85,100
+4735,2.5428333305904727,Ghosts of Mars (2001),Horror|Sci-Fi|Thriller,2001,1.8,100
+5450,3.339138078331443,Lovely & Amazing (2001),Comedy|Drama|Romance,2001,3.65,119
+6567,3.338448271605906,Buffalo Soldiers (2001),Comedy|Crime|Drama|War,2001,3.3,110
+5943,2.7443647929362207,Maid in Manhattan (2002),Comedy|Romance,2002,2.55,144
+5572,3.158942305318678,Barbershop (2002),Comedy,2002,3.15,123
+5669,3.7620187789564046,Bowling for Columbine (2002),Documentary,2002,4.1,160
+6291,3.588461535130129,Lilya 4-Ever (Lilja 4-ever) (2002),Crime|Drama,2002,3.8,67
+5502,3.263424582583652,Signs (2002),Horror|Sci-Fi|Thriller,2002,3.4,223
+5293,3.26089612867035,Changing Lanes (2002),Drama|Thriller,2002,3.5,149
+5670,3.3796195607453354,Comedian (2002),Comedy|Documentary,2002,3.4,88
+5792,3.416915419376582,Roger Dodger (2002),Comedy|Drama,2002,3.7,121
+5093,2.7150711806886845,Collateral Damage (2002),Action|Thriller,2002,2.0,139
+5556,2.4330902416252056,FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com) (2002),Crime|Horror|Thriller,2002,1.3,87
+5784,2.711751782022433,Ghost Ship (2002),Horror,2002,1.9,119
+5685,3.3828617583369853,Real Women Have Curves (2002),Comedy|Drama,2002,3.4,82
+5348,3.05437079256758,Hollywood Ending (2002),Comedy|Drama,2002,2.7,130
+5128,2.7164801602557738,Queen of the Damned (2002),Fantasy|Horror,2002,1.95,126
+5218,3.5841398505742124,Ice Age (2002),Adventure|Animation|Children|Comedy,2002,3.4,161
+5995,4.012128914667531,"Pianist, The (2002)",Drama|War,2002,4.1,177
+5377,3.6691344303669178,About a Boy (2002),Comedy|Drama|Romance,2002,3.85,159
+5625,3.272863845129437,Moonlight Mile (2002),Drama|Romance,2002,3.2,145
+5563,3.0633752199846054,City by the Sea (2002),Crime|Drama,2002,2.9,140
+5632,3.4732407361693065,Bloody Sunday (2002),Drama,2002,3.95,102
+5313,2.727230512458657,"Scorpion King, The (2002)",Action|Adventure|Fantasy,2002,2.45,130
+5903,3.724051854235671,Equilibrium (2002),Action|Sci-Fi|Thriller,2002,2.4,82
+5064,3.7357824744396266,The Count of Monte Cristo (2002),Action|Adventure|Drama|Romance|Thriller,2002,3.3,134
+5944,3.121778728921203,Star Trek: Nemesis (2002),Action|Drama|Sci-Fi|Thriller,2002,2.6,155
+5620,3.1421470108574434,Sweet Home Alabama (2002),Comedy|Romance,2002,2.6,154
+5812,3.609672445110925,Far from Heaven (2002),Drama|Romance,2002,4.05,188
+27741,3.62145815663865,"Twilight Samurai, The (Tasogare Seibei) (2002)",Drama|Romance,2002,4.1,68
+5952,4.093378233084532,"Lord of the Rings: The Two Towers, The (2002)",Adventure|Fantasy,2002,4.2,218
+5476,2.555032313077424,Halloween: Resurrection (Halloween 8) (2002),Horror|Thriller,2002,1.7,57
+5666,3.2464004471669576,"Rules of Attraction, The (2002)",Comedy|Drama|Romance|Thriller,2002,2.65,134
+5419,2.5199189967094444,Scooby-Doo (2002),Adventure|Children|Comedy|Fantasy|Mystery,2002,2.2,138
+5617,3.6975906128352927,Secretary (2002),Comedy|Drama|Romance,2002,3.35,140
+5872,3.1325569259626027,Die Another Day (2002),Action|Adventure|Thriller,2002,3.05,190
+5810,3.239373881048811,8 Mile (2002),Drama,2002,3.35,179
+5679,3.4117688156381365,"Ring, The (2002)",Horror|Mystery|Thriller,2002,3.3,169
+5444,3.456315994341582,Lilo & Stitch (2002),Adventure|Animation|Children|Sci-Fi,2002,3.65,144
+5809,3.136581589375755,Femme Fatale (2002),Crime|Thriller,2002,2.7,133
+5523,2.498814559748392,"Adventures of Pluto Nash, The (2002)",Action|Adventure|Comedy|Sci-Fi,2002,1.35,72
+5956,3.45495148146522,Gangs of New York (2002),Crime|Drama,2002,3.55,200
+5881,3.1366947607052533,Solaris (2002),Drama|Romance|Sci-Fi,2002,4.15,39
+5876,3.618102315287648,"Quiet American, The (2002)",Drama|Thriller|War,2002,3.85,150
+5254,3.1370167820220347,Blade II (2002),Action|Horror|Thriller,2002,3.0,134
+6063,3.2476878565152703,May (2002),Drama|Horror,2002,3.05,63
+5791,3.6734841614065914,Frida (2002),Drama|Romance,2002,3.45,148
+5266,3.227292725843923,Panic Room (2002),Thriller,2002,3.45,178
+5611,3.10984019769794,"Four Feathers, The (2002)",Adventure|War,2002,2.7,149
+5065,3.084133543740175,"Mothman Prophecies, The (2002)",Drama|Fantasy|Horror|Mystery|Thriller,2002,2.75,133
+5506,3.085522784894672,Blood Work (2002),Crime|Drama|Mystery|Thriller,2002,2.8,147
+5389,3.086829649103194,Spirit: Stallion of the Cimarron (2002),Adventure|Animation|Children|Western,2002,3.2,125
+5446,3.731077248427658,Rabbit-Proof Fence (2002),Adventure|Drama,2002,3.8,133
+5504,2.6939686339341677,Spy Kids 2: The Island of Lost Dreams (2002),Adventure|Children,2002,3.3,127
+6591,3.5945358756174137,"Magdalene Sisters, The (2002)",Drama,2002,3.8,143
+5107,3.1524714797609956,Hart's War (2002),Drama|War,2002,2.95,117
+6502,3.7279873713546055,28 Days Later (2002),Action|Horror|Sci-Fi,2002,3.65,200
+5478,2.6858118733908833,Eight Legged Freaks (2002),Action|Comedy|Horror|Sci-Fi,2002,2.75,140
+5621,2.6809265623769596,"Tuxedo, The (2002)",Action|Comedy,2002,2.2,136
+5048,2.679438401325046,Snow Dogs (2002),Adventure|Children|Comedy,2002,1.95,79
+27592,3.600772197595142,Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002),Crime|Drama,2002,3.1,53
+5046,3.1468861166039597,Impostor (2002),Action|Drama|Sci-Fi|Thriller,2002,1.95,91
+5941,3.105759159072546,Drumline (2002),Comedy|Drama|Musical|Romance,2002,3.35,81
+6370,3.6012300092637455,"Spanish Apartment, The (L'auberge espagnole) (2002)",Comedy|Drama|Romance,2002,3.25,89
+5219,3.1438896434938512,Resident Evil (2002),Action|Horror|Sci-Fi|Thriller,2002,2.25,120
+5323,2.4461752399602577,Jason X (2002),Horror|Sci-Fi|Thriller,2002,1.8,101
+5378,3.109311668836801,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX,2002,3.25,215
+5564,2.6510471161106897,Swimfan (2002),Thriller,2002,1.95,89
+5025,3.11441994761939,Orange County (2002),Comedy,2002,2.6,119
+5954,3.7647081257273656,25th Hour (2002),Crime|Drama,2002,3.55,162
+5127,3.0183889300755498,Dragonfly (2002),Drama|Fantasy|Mystery|Romance|Thriller,2002,1.8,121
+5942,2.7517173018909187,"Hot Chick, The (2002)",Comedy,2002,1.9,80
+5479,3.198578428952378,K-19: The Widowmaker (2002),Action|Adventure|Drama|Thriller,2002,3.05,165
+5414,2.9429752029022165,Bad Company (2002),Action|Comedy|Crime,2002,1.95,134
+5420,2.9452935671308715,Windtalkers (2002),Action|Drama|War,2002,2.55,164
+6060,2.9470763082882567,"Guru, The (2002)",Comedy|Romance,2002,2.85,87
+6062,3.5111545956052517,Lost in La Mancha (2002),Documentary,2002,3.75,97
+5957,3.1921321509069656,Two Weeks Notice (2002),Comedy|Romance,2002,2.6,118
+4774,3.199626163610141,Big Trouble (2002),Comedy|Crime,2002,2.7,110
+6286,3.6562006736543693,"Man Without a Past, The (Mies vailla menneisyyttä) (2002)",Comedy|Crime|Drama,2002,4.0,92
+5387,2.8518423265320054,Enough (2002),Drama|Thriller,2002,2.0,121
+5106,2.2878958445199506,Crossroads (2002),Comedy|Musical|Romance,2002,1.95,101
+5267,3.4396734985052584,"Rookie, The (2002)",Drama,2002,3.6,140
+5265,3.182303130847947,Death to Smoochy (2002),Comedy|Crime|Drama,2002,2.65,119
+5296,2.85046575071937,"Sweetest Thing, The (2002)",Comedy|Romance,2002,2.1,104
+6016,4.194396070184033,City of God (Cidade de Deus) (2002),Action|Adventure|Crime|Drama|Thriller,2002,4.15,149
+5066,3.3103347865418975,"Walk to Remember, A (2002)",Drama|Romance,2002,2.05,101
+5577,3.506581596730306,Igby Goes Down (2002),Comedy|Drama,2002,3.45,126
+5613,3.3048616268233735,8 Women (2002),Comedy|Crime|Musical|Mystery,2002,3.45,111
+5989,3.8291049613589263,Catch Me If You Can (2002),Crime|Drama,2002,3.95,191
+6552,3.66742342164427,Dirty Pretty Things (2002),Crime|Drama|Thriller,2002,3.9,138
+5264,2.872658223681731,Clockstoppers (2002),Action|Adventure|Sci-Fi|Thriller,2002,2.35,83
+5460,2.961633423611444,"Powerpuff Girls, The (2002)",Action|Animation|Children|Comedy,2002,3.05,99
+5363,2.9415447114332123,"New Guy, The (2002)",Comedy,2002,1.55,91
+5299,3.4390645458431104,My Big Fat Greek Wedding (2002),Comedy|Romance,2002,3.35,121
+5667,3.190314131817496,Tuck Everlasting (2002),Drama|Fantasy,2002,3.15,114
+5610,2.897882732135872,"Banger Sisters, The (2002)",Comedy|Drama,2002,2.65,140
+5673,3.5208819048932,Punch-Drunk Love (2002),Comedy|Drama|Romance,2002,3.7,179
+5283,3.192762892867993,National Lampoon's Van Wilder (2002),Comedy,2002,1.75,86
+5630,3.524355251078198,Red Dragon (2002),Crime|Mystery|Thriller,2002,3.2,183
+5092,2.901962383534628,Big Fat Liar (2002),Children|Comedy,2002,2.45,88
+5449,2.9021715513199924,Mr. Deeds (2002),Comedy|Romance,2002,2.0,153
+5418,3.882404933954779,"Bourne Identity, The (2002)",Action|Mystery|Thriller,2002,3.5,180
+6197,3.328169931413628,Spider (2002),Drama|Mystery,2002,3.75,126
+5400,3.195074256203676,"Sum of All Fears, The (2002)",Drama|Thriller,2002,3.0,166
+5530,2.8820655164146864,Simone (S1m0ne) (2002),Comedy|Drama|Fantasy|Sci-Fi,2002,2.9,154
+5152,3.518641844536668,We Were Soldiers (2002),Action|Drama|War,2002,3.2,141
+6755,3.4361371968406904,Bubba Ho-tep (2002),Comedy|Horror,2002,3.4,102
+6281,3.3360292796041513,Phone Booth (2002),Drama|Thriller,2002,3.3,184
+5680,3.1878091829177126,Auto Focus (2002),Crime|Drama,2002,3.35,155
+5151,2.8768064500202746,40 Days and 40 Nights (2002),Comedy|Romance,2002,2.4,134
+5329,3.434242017993916,"Salton Sea, The (2002)",Crime|Drama|Thriller,2002,2.9,84
+5445,3.6538853448373314,Minority Report (2002),Action|Crime|Mystery|Sci-Fi|Thriller,2002,4.0,222
+5459,2.93251731152471,Men in Black II (a.k.a. MIIB) (a.k.a. MIB 2) (2002),Action|Comedy|Sci-Fi,2002,2.6,187
+5464,3.654382968472547,Road to Perdition (2002),Crime|Drama,2002,3.75,205
+5415,2.963896381577362,Divine Secrets of the Ya-Ya Sisterhood (2002),Comedy|Drama,2002,2.65,142
+6218,3.5446465157611233,Bend It Like Beckham (2002),Comedy|Drama|Romance,2002,3.6,147
+5501,2.355053405967831,"Master of Disguise, The (2002)",Comedy|Mystery,2002,1.1,97
+5480,2.8002998463739504,Stuart Little 2 (2002),Children|Comedy,2002,3.45,114
+5463,2.99913844178932,Reign of Fire (2002),Action|Adventure|Fantasy,2002,2.6,149
+5481,3.0002355574944306,Austin Powers in Goldmember (2002),Comedy,2002,2.9,179
+5401,3.006006490834876,Undercover Brother (2002),Comedy,2002,3.3,126
+5633,3.3608782385856792,Heaven (2002),Drama,2002,3.35,86
+5785,3.0074138416052274,Jackass: The Movie (2002),Action|Comedy|Documentary,2002,2.55,93
+6385,3.7894595243489486,Whale Rider (2002),Drama,2002,3.85,143
+5873,3.2917930375226145,The Emperor's Club (2002),Drama,2002,2.9,125
+6215,3.285544368767475,Laurel Canyon (2002),Drama,2002,3.2,108
+5816,3.5646736585652254,Harry Potter and the Chamber of Secrets (2002),Adventure|Fantasy,2002,3.55,199
+5388,3.4543439445199122,Insomnia (2002),Action|Crime|Drama|Mystery|Thriller,2002,3.85,166
+5668,3.3657030190951716,White Oleander (2002),Drama,2002,3.25,131
+5959,3.4466854701752947,Narc (2002),Crime|Drama|Thriller,2002,3.55,151
+5324,3.0246208698152106,Life or Something Like It (2002),Comedy|Romance,2002,2.25,117
+5879,2.758706892295561,Eight Crazy Nights (Adam Sandler's Eight Crazy Nights) (2002),Animation|Comedy|Musical,2002,1.55,105
+5574,3.279488603408241,"Transporter, The (2002)",Action|Crime,2002,2.8,122
+7139,3.783063123512539,In America (2002),Drama|Romance,2002,3.85,170
+5955,3.4928380518775257,Antwone Fisher (2002),Drama,2002,3.45,145
+5108,3.2884363272766155,John Q (2002),Crime|Drama|Thriller,2002,2.2,127
+7981,3.799455609322802,Infernal Affairs (Mou gaan dou) (2002),Crime|Drama|Thriller,2002,3.8,60
+5220,2.846902139584743,Showtime (2002),Action|Comedy,2002,2.35,120
+5171,2.845945944698876,"Time Machine, The (2002)",Action|Adventure|Sci-Fi,2002,2.4,146
+6707,2.8432996176124217,Cabin Fever (2002),Horror|Thriller,2002,2.95,134
+5364,3.301443567394073,Unfaithful (2002),Drama|Thriller,2002,2.85,159
+5047,2.8346814377079506,Kung Pow: Enter the Fist (2002),Action|Comedy,2002,1.4,53
+5900,2.8331569643134262,Analyze That (2002),Comedy|Crime,2002,2.4,145
+5945,3.442505893409035,About Schmidt (2002),Comedy|Drama,2002,3.85,198
+5507,2.8316342711350355,xXx (2002),Action|Crime|Thriller,2002,2.8,174
+5804,2.8216724704270737,"Santa Clause 2, The (2002)",Children|Comedy|Fantasy|Romance,2002,2.8,111
+5609,2.4975064445940243,Ballistic: Ecks vs. Sever (2002),Action|Thriller,2002,1.3,108
+5992,3.636395836852524,"Hours, The (2002)",Drama|Romance,2002,3.7,184
+5882,3.2945917259081927,Treasure Planet (2002),Adventure|Animation|Children|Sci-Fi|IMAX,2002,3.25,140
+5524,2.9899832093244827,Blue Crush (2002),Adventure|Drama|Romance,2002,2.5,78
+5902,3.809076190940287,Adaptation (2002),Comedy|Drama|Romance,2002,4.1,195
+6593,3.1644326460062544,Freaky Friday (2003),Children|Comedy|Fantasy,2003,3.5,140
+6263,3.147940577355065,Basic (2003),Drama|Thriller|War,2003,2.25,141
+8800,3.1844155794833675,Code 46 (2003),Romance|Sci-Fi,2003,3.05,96
+6953,3.667473570562717,21 Grams (2003),Crime|Drama|Mystery|Romance|Thriller,2003,3.75,175
+6951,2.380231712572665,"Cat in the Hat, The (2003)",Children|Comedy,2003,1.6,148
+6482,2.1429460555305244,Dumb and Dumberer: When Harry Met Lloyd (2003),Comedy,2003,1.4,116
+6709,3.1632844885437796,Once Upon a Time in Mexico (2003),Action|Adventure|Crime|Thriller,2003,3.15,159
+7143,3.6686975551863235,"Last Samurai, The (2003)",Action|Adventure|Drama|War,2003,3.2,213
+6213,3.163404686576376,Tears of the Sun (2003),Action|Drama|Thriller,2003,2.5,148
+6155,3.1538803744594293,How to Lose a Guy in 10 Days (2003),Comedy|Romance,2003,2.5,145
+6950,3.1681975693785533,"Missing, The (2003)",Adventure|Thriller|Western,2003,3.05,168
+6954,3.652616105269166,"Barbarian Invasions, The (Les invasions barbares) (2003)",Comedy|Crime|Drama|Mystery|Romance,2003,3.6,125
+6333,3.6641946117752036,X2: X-Men United (2003),Action|Adventure|Sci-Fi|Thriller,2003,3.7,221
+6934,3.1433343760806487,"Matrix Revolutions, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,2003,2.65,203
+6379,2.892709980239977,Wrong Turn (2003),Horror|Thriller,2003,2.15,77
+7153,4.126651494686625,"Lord of the Rings: The Return of the King, The (2003)",Action|Adventure|Drama|Fantasy,2003,4.3,239
+6870,3.811653841314024,Mystic River (2003),Crime|Drama|Mystery,2003,3.9,193
+8014,3.814559027094191,"Spring, Summer, Fall, Winter... and Spring (Bom yeoreum gaeul gyeoul geurigo bom) (2003)",Drama,2003,4.05,94
+6014,2.8319206447816505,National Security (2003),Action|Comedy,2003,1.65,87
+6287,2.9737169841234383,Anger Management (2003),Comedy,2003,2.55,188
+6867,3.827215684983752,"Station Agent, The (2003)",Comedy|Drama,2003,4.0,149
+7323,3.8337377107431188,"Good bye, Lenin! (2003)",Comedy|Drama,2003,3.7,105
+6290,2.9566423321626645,House of 1000 Corpses (2003),Horror,2003,1.65,77
+6058,2.954569534244084,Final Destination 2 (2003),Horror|Thriller,2003,2.5,106
+6332,2.85063912985531,"Lizzie McGuire Movie, The (2003)",Children|Comedy|Romance,2003,2.7,96
+6196,2.9545543536364844,Cradle 2 the Grave (2003),Action|Crime|Drama|Thriller,2003,2.25,118
+6880,2.8514802604511242,"Texas Chainsaw Massacre, The (2003)",Horror,2003,2.4,152
+6338,2.855653947590498,Daddy Day Care (2003),Children|Comedy,2003,2.25,124
+6539,3.8425321269970434,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,2003,3.55,196
+6484,2.8698492420961896,Hollywood Homicide (2003),Action|Crime|Drama,2003,2.35,158
+6952,2.940903488732177,Gothika (2003),Horror|Thriller,2003,2.05,161
+27822,2.9351698075946038,Open Water (2003),Drama|Thriller,2003,3.3,189
+6493,2.8735970515757594,Alex and Emma (2003),Comedy|Drama|Romance,2003,1.85,131
+6763,2.931317311568228,Duplex (2003),Comedy|Crime,2003,2.5,104
+6550,2.8759392127745254,Johnny English (2003),Action|Comedy|Thriller,2003,2.4,115
+6252,2.922509573814991,"View from the Top, A (2003)",Comedy|Romance,2003,1.85,122
+6377,3.8705845691579563,Finding Nemo (2003),Adventure|Animation|Children|Comedy,2003,4.25,198
+6212,2.9079163996598165,Bringing Down the House (2003),Comedy,2003,2.35,144
+7256,3.8738467384913653,Touching the Void (2003),Adventure|Documentary,2003,4.0,136
+7161,2.9060123304536747,Cheaper by the Dozen (2003),Children|Comedy,2003,2.3,111
+6959,2.9040287734265116,Timeline (2003),Action|Adventure|Sci-Fi,2003,1.85,135
+6874,3.884073541088863,Kill Bill: Vol. 1 (2003),Action|Crime|Thriller,2003,3.85,226
+6294,2.896835440634299,Bulletproof Monk (2003),Action|Adventure|Sci-Fi,2003,2.15,130
+6219,2.9828337829816993,"Hunted, The (2003)",Action|Drama|Thriller,2003,2.35,143
+6586,2.9881174421633334,American Wedding (American Pie 3) (2003),Comedy,2003,2.9,149
+7156,3.946455161885028,"Fog of War: Eleven Lessons from the Life of Robert S. McNamara, The (2003)",Documentary|War,2003,4.2,135
+6564,2.7929518057418226,Lara Croft Tomb Raider: The Cradle of Life (2003),Action|Adventure|Comedy|Romance|Thriller,2003,2.25,163
+6535,2.5518048373910553,"Legally Blonde 2: Red, White & Blonde (2003)",Comedy,2003,2.4,147
+6888,2.5647467709575804,Scary Movie 3 (2003),Comedy|Horror,2003,2.4,124
+6266,3.1256062732259995,What a Girl Wants (2003),Comedy|Drama|Romance,2003,2.4,103
+6383,2.5699239170382433,"2 Fast 2 Furious (Fast and the Furious 2, The) (2003)",Action|Crime|Thriller,2003,2.4,155
+6503,2.5942324360500546,Charlie's Angels: Full Throttle (2003),Action|Adventure|Comedy|Crime|Thriller,2003,2.5,171
+6156,3.116987910833992,Shanghai Knights (2003),Action|Adventure|Comedy,2003,3.0,145
+6537,3.114333444154455,Terminator 3: Rise of the Machines (2003),Action|Adventure|Sci-Fi,2003,3.3,195
+6927,3.1060987367500976,"Human Stain, The (2003)",Drama|Romance|Thriller,2003,2.75,147
+6615,2.6561899924521732,Freddy vs. Jason (2003),Action|Horror|Thriller,2003,2.45,152
+6157,2.66616011769141,Daredevil (2003),Action|Crime,2003,2.6,210
+6624,2.6801178166884028,Agent Cody Banks (2003),Action|Adventure|Children|Fantasy,2003,2.55,99
+6620,3.728243177372631,American Splendor (2003),Comedy|Drama,2003,4.15,178
+6695,2.708383229309539,Jeepers Creepers 2 (2003),Horror|Thriller,2003,2.1,119
+7154,3.140313502838766,Mona Lisa Smile (2003),Drama|Romance,2003,2.45,147
+6548,3.082748450328178,Bad Boys II (2003),Action|Comedy|Crime|Thriller,2003,2.05,154
+6619,3.0809073677342633,Uptown Girls (2003),Comedy,2003,1.9,108
+27846,3.7393274829740983,"Corporation, The (2003)",Documentary,2003,3.7,107
+7371,3.7432121197160155,Dogville (2003),Drama|Mystery|Thriller,2003,3.45,152
+6264,2.727757350672266,"Core, The (2003)",Action|Drama|Sci-Fi|Thriller,2003,2.65,150
+6534,2.7298091308126593,Hulk (2003),Action|Adventure|Sci-Fi,2003,3.05,210
+6040,2.7405797056728725,Darkness Falls (2003),Horror|Thriller,2003,1.6,124
+6942,3.763574218214285,Love Actually (2003),Comedy|Drama|Romance,2003,3.2,187
+6380,3.765696646853109,Capturing the Friedmans (2003),Documentary,2003,4.2,146
+6958,2.7633944908833494,"Haunted Mansion, The (2003)",Children|Comedy|Fantasy|Horror,2003,2.1,134
+6595,3.0160248025662044,S.W.A.T. (2003),Action|Thriller,2003,2.7,162
+6541,2.7839651827974565,"League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003)",Action|Fantasy|Sci-Fi,2003,2.0,174
+6711,3.7922347432146593,Lost in Translation (2003),Comedy|Drama|Romance,2003,4.2,215
+7147,3.7963612977579886,Big Fish (2003),Drama|Fantasy|Romance,2003,3.6,211
+27773,4.019621290452192,Old Boy (2003),Mystery|Thriller,2003,3.65,127
+6889,3.15863697372662,Brother Bear (2003),Adventure|Animation|Children,2003,2.75,122
+7460,3.3910869538385056,Coffee and Cigarettes (2003),Comedy|Drama,2003,3.1,118
+6378,3.5516279526566255,"Italian Job, The (2003)",Action|Crime,2003,3.2,178
+6617,3.4768052489402903,Open Range (2003),Western,2003,3.4,170
+6936,3.3766966957082785,Elf (2003),Children|Comedy|Fantasy,2003,3.45,166
+6881,3.482698765432727,Pieces of April (2003),Comedy|Drama,2003,3.55,145
+6887,3.363508508558735,Radio (2003),Drama,2003,2.5,115
+6322,3.3596627724143002,Confidence (2003),Crime|Thriller,2003,3.15,150
+27801,3.4943661945085864,Ong-Bak: The Thai Warrior (Ong Bak) (2003),Action|Thriller,2003,3.45,102
+7164,3.3455180413637087,Peter Pan (2003),Action|Adventure|Children|Fantasy,2003,3.4,132
+7162,3.504284639203921,Cold Mountain (2003),Drama|Romance|War,2003,3.35,221
+6753,3.629441039457447,Secondhand Lions (2003),Children|Comedy|Drama,2003,3.05,132
+6538,3.3448711178657815,Swimming Pool (2003),Drama|Mystery|Thriller,2003,3.55,148
+6059,3.34405571592577,"Recruit, The (2003)",Action|Thriller,2003,2.75,163
+6764,3.331129617419495,"Rundown, The (2003)",Action|Adventure|Comedy,2003,3.2,143
+6932,3.5249101766843416,Shattered Glass (2003),Crime|Drama,2003,3.85,163
+6187,3.528874647602263,"Life of David Gale, The (2003)",Crime|Drama|Thriller,2003,2.1,153
+6373,3.210591157993876,Bruce Almighty (2003),Comedy|Drama|Fantasy|Romance,2003,2.25,190
+6765,3.3248971168018784,Under the Tuscan Sun (2003),Comedy|Drama|Romance,2003,3.1,143
+6337,3.3144800729473767,Owning Mahowny (2003),Crime|Drama|Thriller,2003,3.5,93
+6323,3.5417007806220417,Identity (2003),Crime|Horror|Mystery|Thriller,2003,3.2,166
+6754,3.3033191478857127,Underworld (2003),Action|Fantasy|Horror,2003,2.35,155
+8607,3.5507053900936523,Tokyo Godfathers (2003),Adventure|Animation|Drama,2003,3.55,57
+6873,3.236249147400562,Intolerable Cruelty (2003),Comedy|Romance,2003,3.35,178
+9010,3.5545067985228322,Love Me If You Dare (Jeux d'enfants) (2003),Drama|Romance,2003,2.6,78
+6365,3.2917271322094983,"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,2003,3.4,233
+6947,3.610230426854921,Master and Commander: The Far Side of the World (2003),Adventure|Drama|War,2003,3.8,205
+7158,3.6094629137971683,House of Sand and Fog (2003),Drama,2003,3.55,168
+6708,3.6068984538379047,Matchstick Men (2003),Comedy|Crime|Drama,2003,3.55,180
+31364,3.586988842995214,Memories of Murder (Salinui chueok) (2003),Crime|Drama|Mystery|Thriller,2003,3.85,34
+6188,3.591282564305753,Old School (2003),Comedy,2003,2.8,165
+33683,3.256243849619322,High Tension (Haute tension) (Switchblade Romance) (2003),Horror|Thriller,2003,2.6,126
+6296,3.6021922414454335,"Mighty Wind, A (2003)",Comedy|Musical,2003,3.7,171
+6879,3.5377292562046145,Runaway Jury (2003),Drama|Thriller,2003,3.3,152
+6297,3.4737561300150137,Holes (2003),Adventure|Children|Comedy|Mystery,2003,3.5,132
+7160,3.5999012333488523,Monster (2003),Crime|Drama,2003,3.6,182
+6890,3.4554371926599425,Elephant (2003),Drama,2003,3.5,142
+7265,3.459462832643879,"Dreamers, The (2003)",Drama,2003,3.1,154
+6957,3.4035595621886214,Bad Santa (2003),Comedy|Crime,2003,3.35,187
+7163,3.1921733271961203,Paycheck (2003),Action|Sci-Fi|Thriller,2003,2.35,151
+7982,3.407678567020403,"Tale of Two Sisters, A (Janghwa, Hongryeon) (2003)",Drama|Horror|Mystery|Thriller,2003,3.55,53
+7151,3.4680999160781534,Girl with a Pearl Earring (2003),Drama|Romance,2003,3.4,172
+7149,3.440377696361766,Something's Gotta Give (2003),Comedy|Drama|Romance,2003,3.25,163
+7155,3.412804529780652,Calendar Girls (2003),Comedy,2003,3.25,118
+7137,3.4030259342280744,"Cooler, The (2003)",Comedy|Drama|Romance,2003,3.35,168
+8370,3.6446624065067748,"Blind Swordsman: Zatoichi, The (Zatôichi) (2003)",Action|Comedy|Crime|Drama,2003,3.6,113
+6536,3.202102372086701,Sinbad: Legend of the Seven Seas (2003),Adventure|Animation|Children|Fantasy,2003,2.8,119
+7285,3.4199589302106164,Thirteen (2003),Drama,2003,3.2,195
+6863,3.4362762506595814,School of Rock (2003),Comedy|Musical,2003,3.9,188
+27700,3.456638008656018,Evil (Ondskan) (2003),Drama,2003,3.3,36
+30812,3.5715231780294623,"Aviator, The (2004)",Drama,2004,3.9,212
+27837,3.034290536370651,Flight of the Phoenix (2004),Action|Adventure,2004,2.4,115
+8861,3.017582779822136,Resident Evil: Apocalypse (2004),Action|Horror|Sci-Fi|Thriller,2004,1.95,121
+27808,3.28376549983572,Spanglish (2004),Comedy|Drama|Romance,2004,2.95,162
+8950,3.765808444054729,"Machinist, The (Maquinista, El) (2004)",Mystery|Thriller,2004,3.3,132
+8981,3.5635475189501222,Closer (2004),Drama|Romance,2004,3.3,201
+7324,3.2822168650905303,Hidalgo (2004),Adventure|Drama,2004,2.8,157
+8985,3.000610685138493,Blade: Trinity (2004),Action|Fantasy|Horror|Thriller,2004,2.25,162
+8948,3.005110406979716,Alfie (2004),Comedy|Drama|Romance,2004,2.75,149
+8784,3.7929073734240357,Garden State (2004),Comedy|Drama|Romance,2004,3.7,184
+27899,3.000556065859917,What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?) (2004),Comedy|Documentary|Drama,2004,2.3,75
+8830,2.462383608065969,Anacondas: The Hunt for the Blood Orchid (2004),Adventure|Drama|Horror|Sci-Fi|Thriller,2004,2.15,116
+7373,3.2917796882340142,Hellboy (2004),Action|Adventure|Fantasy|Horror,2004,3.4,195
+7458,3.2955973880465845,Troy (2004),Action|Adventure|Drama|War,2004,3.0,216
+8969,2.9892939351737726,Bridget Jones: The Edge of Reason (2004),Comedy|Drama|Romance,2004,2.35,149
+7173,2.9828947353313495,Along Came Polly (2004),Comedy|Romance,2004,2.4,152
+8622,3.5516879819176,Fahrenheit 9/11 (2004),Documentary,2004,3.65,224
+8808,2.980867706303592,"Princess Diaries 2: Royal Engagement, The (2004)",Comedy|Romance,2004,2.3,113
+7346,3.287698711227423,"Girl Next Door, The (2004)",Comedy|Romance,2004,2.8,156
+33171,3.5721483520383837,Mysterious Skin (2004),Drama|Mystery,2004,3.6,99
+8977,2.70071269267833,Alexander (2004),Action|Adventure|Drama|War,2004,1.95,193
+8873,3.8133616819746754,"Motorcycle Diaries, The (Diarios de motocicleta) (2004)",Adventure|Drama,2004,3.75,153
+8666,2.233038958474208,Catwoman (2004),Action|Crime|Fantasy,2004,1.55,177
+30803,3.7261548438925507,3-Iron (Bin-jip) (2004),Drama|Romance,2004,3.65,87
+33903,3.597214670559002,"Edukators, The (Die Fetten Jahre sind vorbei) (2004)",Comedy|Crime|Drama|Romance,2004,3.25,75
+8974,3.097340421780282,"SpongeBob SquarePants Movie, The (2004)",Adventure|Animation|Children|Comedy,2004,3.1,123
+27878,3.5933664967353653,Born into Brothels (2004),Documentary,2004,3.95,105
+8860,3.089202655073561,Cellular (2004),Action|Crime|Drama|Mystery|Thriller,2004,2.9,146
+7366,3.088328442852112,Jersey Girl (2004),Comedy|Drama|Romance,2004,2.65,169
+8865,3.084907226547452,Sky Captain and the World of Tomorrow (2004),Action|Adventure|Sci-Fi,2004,3.4,204
+7445,3.7365277251698648,Man on Fire (2004),Action|Crime|Drama|Mystery|Thriller,2004,2.6,157
+8957,3.439173194709593,Saw (2004),Horror|Mystery|Thriller,2004,2.7,161
+8914,3.738180081152673,Primer (2004),Drama|Sci-Fi,2004,3.25,115
+7325,3.0447502535838047,Starsky & Hutch (2004),Action|Comedy|Crime|Thriller,2004,3.0,188
+8362,3.079843439396136,Raising Helen (2004),Comedy|Drama|Romance,2004,2.3,126
+8958,3.7416519812913767,Ray (2004),Drama,2004,3.65,194
+27803,3.7432529476977168,"Sea Inside, The (Mar adentro) (2004)",Drama,2004,3.8,128
+8369,3.070751337265519,Mindhunters (2004),Action|Crime|Horror|Mystery|Thriller,2004,2.15,114
+7362,3.0681551940430825,Taking Lives (2004),Crime|Drama|Thriller,2004,2.3,155
+7439,3.057929625223279,"Punisher, The (2004)",Action|Crime|Thriller,2004,2.1,96
+30846,3.2770773591813285,"Assassination of Richard Nixon, The (2004)",Crime|Drama|Thriller,2004,3.3,130
+8640,3.054067177281607,King Arthur (2004),Action|Adventure|Drama|War,2004,2.45,183
+8361,3.0499382708430325,"Day After Tomorrow, The (2004)",Action|Adventure|Drama|Sci-Fi|Thriller,2004,2.65,208
+7367,3.0496127014186096,"Ladykillers, The (2004)",Comedy|Crime,2004,3.05,185
+8360,3.5728292614885055,Shrek 2 (2004),Adventure|Animation|Children|Comedy|Musical|Romance,2004,3.8,210
+8937,3.4423306206302713,Friday Night Lights (2004),Action|Drama,2004,3.55,166
+8970,3.7413164479631016,Finding Neverland (2004),Drama,2004,3.7,200
+7376,3.049408046616299,Walking Tall (2004),Action,2004,2.2,130
+8665,3.8214639393658305,"Bourne Supremacy, The (2004)",Action|Crime|Thriller,2004,3.6,185
+8910,3.5508364531992136,I Heart Huckabees (2004),Comedy,2004,3.15,184
+31184,3.3435414842282727,Appleseed (Appurushîdo) (2004),Action|Animation|Fantasy|Sci-Fi,2004,2.35,32
+8807,3.4639653023699752,Harold and Kumar Go to White Castle (2004),Adventure|Comedy,2004,3.25,144
+7361,4.084351478866744,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi,2004,4.15,216
+8531,2.572510432357096,White Chicks (2004),Action|Comedy|Crime,2004,1.85,122
+7369,2.5912510180399435,Scooby-Doo 2: Monsters Unleashed (2004),Action|Adventure|Children|Comedy|Mystery,2004,2.1,111
+8966,3.4979086619986566,Kinsey (2004),Drama,2004,3.8,187
+7293,3.35197937131243,50 First Dates (2004),Comedy|Romance,2004,2.7,172
+30850,3.397389029645649,"Merchant of Venice, The (2004)",Drama,2004,3.35,123
+30820,3.46755646479319,"Woodsman, The (2004)",Drama,2004,3.65,129
+7451,3.49105042755887,Mean Girls (2004),Comedy,2004,3.45,170
+8912,2.786940293901913,Taxi (2004),Action|Comedy,2004,1.7,104
+8376,3.3671950864128606,Napoleon Dynamite (2004),Comedy,2004,3.15,162
+42718,3.468445319540745,District 13 (Banlieue 13) (2004),Action|Crime|Sci-Fi,2004,3.5,108
+30749,3.9893562129949363,Hotel Rwanda (2004),Drama|War,2004,3.95,188
+31658,3.989700343059252,Howl's Moving Castle (Hauru no ugoku shiro) (2004),Adventure|Animation|Fantasy|Romance,2004,3.75,148
+27838,3.390420163918362,Mean Creek (2004),Drama|Thriller,2004,3.65,117
+8373,2.7546747070499142,"Stepford Wives, The (2004)",Comedy|Fantasy|Thriller,2004,2.35,163
+8529,3.47702983953207,"Terminal, The (2004)",Comedy|Drama|Romance,2004,3.1,198
+7448,2.730716383771198,Envy (2004),Comedy,2004,1.55,114
+8917,3.471014205813506,Team America: World Police (2004),Action|Adventure|Animation|Comedy,2004,3.45,191
+8810,2.70061104466812,AVP: Alien vs. Predator (2004),Action|Horror|Sci-Fi|Thriller,2004,2.05,139
+30822,3.383013098280721,In Good Company (2004),Comedy|Drama,2004,3.55,160
+8815,2.720817839277742,Exorcist: The Beginning (2004),Horror|Thriller,2004,1.8,123
+27706,3.343092939325254,Lemony Snicket's A Series of Unfortunate Events (2004),Adventure|Children|Comedy|Fantasy,2004,3.3,154
+7381,2.869699136864506,"Whole Ten Yards, The (2004)",Action|Comedy|Crime,2004,1.4,116
+27266,3.5142099027493225,2046 (2004),Drama|Fantasy|Romance|Sci-Fi,2004,3.7,106
+8947,2.8769230748013968,"Grudge, The (2004)",Horror|Mystery|Thriller,2004,2.55,153
+7255,2.9760539587376478,Win a Date with Tad Hamilton! (2004),Comedy|Romance,2004,2.8,142
+8972,3.385250905373564,National Treasure (2004),Action|Adventure|Drama|Mystery|Thriller,2004,2.35,118
+7360,3.5505724767904194,Dawn of the Dead (2004),Action|Drama|Horror|Thriller,2004,3.35,171
+33166,3.8266187805073253,Crash (2004),Crime|Drama,2004,3.55,197
+8870,2.9640304599079386,"Forgotten, The (2004)",Drama|Mystery|Sci-Fi|Thriller,2004,2.5,168
+27728,3.5439140781997915,Ghost in the Shell 2: Innocence (a.k.a. Innocence) (Inosensu) (2004),Action|Animation|Drama|Sci-Fi|Thriller,2004,3.15,94
+8526,2.9575177269949298,Around the World in 80 Days (2004),Adventure|Children|Comedy,2004,2.4,127
+30707,3.8327052484794337,Million Dollar Baby (2004),Drama,2004,4.15,224
+31804,3.309338990335264,Night Watch (Nochnoy dozor) (2004),Action|Fantasy|Horror|Mystery|Sci-Fi|Thriller,2004,2.95,125
+8638,3.8356799177165994,Before Sunset (2004),Drama|Romance,2004,4.15,158
+9018,3.5385118520546612,Control Room (2004),Documentary|War,2004,3.9,108
+8814,2.9789161685544885,Without a Paddle (2004),Comedy,2004,1.95,124
+8372,2.5310759462423107,Garfield: The Movie (2004),Animation|Children|Comedy,2004,1.75,133
+8907,2.950615186704646,Shark Tale (2004),Animation|Children|Comedy,2004,2.6,173
+8645,3.71968358905918,"Maria Full of Grace (Maria, Llena eres de gracia) (2004)",Crime|Drama,2004,4.0,137
+8528,3.3173979324178977,Dodgeball: A True Underdog Story (2004),Comedy,2004,3.15,159
+31660,3.3232766294206364,Steamboy (Suchîmubôi) (2004),Action|Animation|Drama|Sci-Fi,2004,3.0,87
+30816,3.4629132702744854,"Phantom of the Opera, The (2004)",Drama|Musical|Romance,2004,2.5,165
+8874,3.8728170516881617,Shaun of the Dead (2004),Comedy|Horror,2004,3.85,175
+27912,3.4634168113263417,Outfoxed: Rupert Murdoch's War on Journalism (2004),Documentary,2004,3.45,59
+7348,3.32972202071479,Spartan (2004),Thriller,2004,3.25,131
+8951,3.523143076671502,Vera Drake (2004),Drama,2004,3.95,155
+8781,3.3325435982437814,"Manchurian Candidate, The (2004)",Thriller,2004,4.3,48
+27873,3.339408469274861,Metallica: Some Kind of Monster (2004),Documentary,2004,3.8,121
+8366,3.5375616614034007,Saved! (2004),Comedy|Drama,2004,3.05,140
+7438,3.849906171552484,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,2004,3.85,226
+8866,3.190771025153534,Wimbledon (2004),Comedy|Romance,2004,2.95,142
+8983,3.678631737402652,House of Flying Daggers (Shi mian mai fu) (2004),Action|Drama|Romance,2004,3.9,163
+8949,3.685022409743881,Sideways (2004),Comedy|Drama|Romance,2004,4.3,212
+27721,3.696669339912862,"Very Long Engagement, A (Un long dimanche de fiançailles) (2004)",Drama|Mystery|Romance|War,2004,3.7,142
+8916,3.1850467251268304,Shall We Dance? (2004),Comedy|Romance,2004,2.7,152
+31878,3.713669867112542,Kung Fu Hustle (Gong fu) (2004),Action|Comedy,2004,3.8,172
+27831,3.687437184470248,Layer Cake (2004),Crime|Drama|Thriller,2004,3.55,133
+8783,3.2509545355368727,"Village, The (2004)",Drama|Mystery|Thriller,2004,2.7,199
+7263,3.654893272276621,Miracle (2004),Drama,2004,3.5,156
+8833,3.1622920471930227,Vanity Fair (2004),Drama|Romance,2004,2.9,162
+27815,3.695880858721705,"Chorus, The (Choristes, Les) (2004)",Drama,2004,3.25,105
+8973,3.657374628841126,Bad Education (La mala educación) (2004),Drama|Thriller,2004,3.75,134
+7318,3.1784022024966534,"Passion of the Christ, The (2004)",Drama,2004,2.9,262
+8836,3.207617182678565,Wicker Park (2004),Drama|Romance|Thriller,2004,2.15,120
+8371,3.2382687325743795,"Chronicles of Riddick, The (2004)",Action|Sci-Fi|Thriller,2004,2.3,158
+8984,3.2379239941995683,Ocean's Twelve (2004),Action|Comedy|Crime|Thriller,2004,2.95,174
+8530,3.629295150560096,Dear Frankie (2004),Drama|Romance,2004,3.4,109
+7444,3.1122976488414755,13 Going on 30 (2004),Comedy|Fantasy|Romance,2004,3.1,161
+7380,3.2301179702032274,Ella Enchanted (2004),Comedy|Fantasy|Romance,2004,2.8,113
+7254,3.661388168724401,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller,2004,2.4,166
+7375,3.121017269734022,"Prince & Me, The (2004)",Comedy|Romance,2004,2.4,118
+8968,3.1419429414516964,After the Sunset (2004),Action|Adventure|Comedy|Crime|Thriller,2004,2.2,138
+7347,3.1675230550272895,Secret Window (2004),Mystery|Thriller,2004,2.75,158
+30825,3.109670007323068,Meet the Fockers (2004),Comedy,2004,2.6,157
+8798,3.664335913646557,Collateral (2004),Action|Crime|Drama|Thriller,2004,3.7,223
+8939,3.1515923521954967,"Final Cut, The (2004)",Sci-Fi|Thriller,2004,2.7,75
+8965,3.1509784711657782,"Polar Express, The (2004)",Adventure|Animation|Children|Fantasy|IMAX,2004,3.2,186
+32291,3.2088073349200466,Melinda and Melinda (2004),Comedy|Drama,2004,2.9,154
+31694,3.214662269409268,Bride & Prejudice (2004),Comedy|Musical|Romance,2004,3.05,131
+42723,2.841220607835343,Hostel (2005),Horror,2005,2.9,100
+40819,3.7807235800175674,Walk the Line (2005),Drama|Musical|Romance,2005,3.65,202
+37240,3.63448275475145,Why We Fight (2005),Documentary,2005,3.5,108
+40614,3.1612791660007353,Derailed (2005),Drama|Thriller,2005,2.3,125
+34405,3.9409201551926545,Serenity (2005),Action|Adventure|Sci-Fi,2005,3.55,176
+40815,3.6950999226616883,Harry Potter and the Goblet of Fire (2005),Adventure|Fantasy|Thriller|IMAX,2005,3.7,216
+43376,3.5600174934933078,Sophie Scholl: The Final Days (Sophie Scholl - Die letzten Tage) (2005),Drama|War,2005,3.65,94
+33672,3.3149999952527414,Lords of Dogtown (2005),Action|Comedy|Drama,2005,3.0,141
+34319,3.37552138088537,"Island, The (2005)",Action|Sci-Fi|Thriller,2005,2.7,184
+34162,3.507912058328442,Wedding Crashers (2005),Comedy|Romance,2005,3.35,180
+37857,3.4820885166409754,MirrorMask (2005),Adventure|Children|Drama|Fantasy,2005,2.95,87
+42015,3.22179962436257,Casanova (2005),Action|Adventure|Comedy|Drama|Romance,2005,2.8,130
+39414,3.2443921529904705,Shopgirl (2005),Comedy|Drama|Romance,2005,3.15,146
+43560,3.2193348763053757,Nanny McPhee (2005),Children|Comedy|Fantasy,2005,3.3,130
+35957,3.1315759927441675,Red Eye (2005),Horror|Thriller,2005,3.35,178
+30898,3.288184927279838,"Upside of Anger, The (2005)",Comedy|Drama|Romance,2005,3.4,168
+39381,3.564190473055778,"Proposition, The (2005)",Crime|Drama|Western,2005,3.65,123
+36401,3.013187249029024,"Brothers Grimm, The (2005)",Comedy|Fantasy|Horror|Thriller,2005,2.55,177
+27839,2.771446942162605,"Ring Two, The (2005)",Drama|Horror|Mystery|Thriller,2005,2.2,178
+33794,3.948926300170064,Batman Begins (2005),Action|Crime|IMAX,2005,3.85,257
+30894,2.8551610198702315,White Noise (2005),Drama|Horror|Mystery|Sci-Fi|Thriller,2005,1.75,146
+44761,3.6672226513044417,Brick (2005),Crime|Drama|Film-Noir|Mystery,2005,3.55,134
+33669,3.2861702090143243,"Sisterhood of the Traveling Pants, The (2005)",Adventure|Comedy|Drama,2005,3.35,128
+34542,3.6663202621931275,Grizzly Man (2005),Documentary,2005,4.0,134
+34334,2.7835284239655937,Stealth (2005),Action|Adventure|Sci-Fi|Thriller,2005,1.9,138
+36527,3.3643994175563323,Proof (2005),Drama,2005,3.2,138
+42632,3.61138211073349,Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi) (2005),Crime|Drama|Mystery|Thriller,2005,3.5,84
+32598,3.219972160795303,Fever Pitch (2005),Comedy|Romance,2005,3.1,172
+40339,2.9812373873993616,Chicken Little (2005),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2005,2.7,156
+37729,3.552349680907624,Corpse Bride (2005),Animation|Comedy|Fantasy|Musical|Romance,2005,3.6,182
+39444,3.2315759284027794,"Weather Man, The (2005)",Comedy|Drama,2005,3.05,131
+41997,3.6746615815181793,Munich (2005),Action|Crime|Drama|Thriller,2005,3.75,197
+34437,3.544886030117724,Broken Flowers (2005),Comedy|Drama,2005,3.7,184
+34143,2.9203208512146617,Dark Water (2005),Drama|Horror|Thriller,2005,2.75,148
+34150,2.927841573719909,Fantastic Four (2005),Action|Adventure|Sci-Fi,2005,2.25,200
+31696,3.322751210251285,Constantine (2005),Action|Fantasy|Horror|Thriller,2005,2.75,214
+35836,3.533316811564517,"40-Year-Old Virgin, The (2005)",Comedy|Romance,2005,3.6,179
+32019,2.9058744058493255,Be Cool (2005),Comedy|Crime|Musical,2005,2.3,168
+39427,3.3176950953383395,Stay (2005),Thriller,2005,2.3,119
+36537,3.3165258169604233,Thumbsucker (2005),Comedy|Drama,2005,3.35,107
+27821,3.3129875864640295,"Interpreter, The (2005)",Drama|Thriller,2005,3.0,189
+37386,2.954548708833399,Aeon Flux (2005),Action|Sci-Fi,2005,1.65,102
+40826,3.31500380431291,Rent (2005),Drama|Musical|Romance,2005,2.9,168
+33639,3.536587586736178,Mad Hot Ballroom (2005),Children|Documentary,2005,3.55,115
+38798,3.314924430140334,In Her Shoes (2005),Comedy|Drama,2005,3.45,162
+39449,3.1477919480499024,Prime (2005),Comedy|Drama|Romance,2005,2.8,116
+31433,3.1437022853653156,"Wedding Date, The (2005)",Comedy|Romance,2005,1.9,136
+31427,2.966853143400595,Hide and Seek (2005),Horror|Mystery|Thriller,2005,1.9,153
+33499,2.902768161819075,Monster-in-Law (2005),Comedy|Romance,2005,2.1,162
+42734,3.1527914573586617,Hoodwinked! (2005),Animation|Children|Comedy,2005,2.75,122
+33085,2.9836567127334708,"Amityville Horror, The (2005)",Horror|Thriller,2005,2.1,155
+40583,3.5095517125880016,Syriana (2005),Drama|Thriller,2005,3.45,193
+33660,3.808197063954476,Cinderella Man (2005),Drama|Romance,2005,3.7,206
+36525,3.3781306141778615,Just Like Heaven (2005),Comedy|Fantasy|Romance,2005,2.85,148
+36535,3.6282237157239,Everything Is Illuminated (2005),Comedy|Drama,2005,3.25,118
+38061,3.8105501257804653,Kiss Kiss Bang Bang (2005),Comedy|Crime|Mystery|Thriller,2005,3.7,146
+42004,3.5154038791877587,Transamerica (2005),Adventure|Comedy|Drama,2005,3.4,134
+36517,3.671684674622507,"Constant Gardener, The (2005)",Drama|Thriller,2005,3.8,181
+34271,3.435276069833474,Hustle & Flow (2005),Crime|Drama,2005,3.65,153
+33615,3.335655945651569,Madagascar (2005),Adventure|Animation|Children|Comedy,2005,3.0,185
+41571,3.5204858279606683,Memoirs of a Geisha (2005),Drama|Romance,2005,2.7,158
+32017,2.8865046060878883,"Pacifier, The (2005)",Action|Comedy,2005,1.85,127
+42007,2.97749782368623,Rumor Has It... (2005),Comedy|Drama|Romance,2005,2.2,110
+37741,3.6725749098686773,Capote (2005),Crime|Drama,2005,4.1,179
+34048,3.1546290964725205,War of the Worlds (2005),Action|Adventure|Sci-Fi|Thriller,2005,3.5,244
+34323,3.2221259803644493,"Devil's Rejects, The (2005)",Action|Crime|Horror,2005,2.7,131
+41569,3.329537766961322,King Kong (2005),Action|Adventure|Drama|Fantasy|Thriller,2005,3.85,242
+42418,3.2994215437909262,"New World, The (2005)",Adventure|Drama|Romance,2005,3.3,169
+44204,3.4789109723965863,Tsotsi (2005),Crime|Drama,2005,3.7,126
+44974,3.530300185301525,Hard Candy (2005),Drama|Thriller,2005,3.2,133
+34520,2.749353444729059,"Dukes of Hazzard, The (2005)",Action|Adventure|Comedy,2005,1.8,164
+39446,3.085517714159907,Saw II (2005),Horror|Thriller,2005,2.3,116
+40581,3.113204221006031,Just Friends (2005),Comedy|Romance,2005,2.55,96
+40148,3.258766854588488,Revolver (2005),Crime|Drama|Thriller,2005,1.75,61
+34332,3.1982369499738015,Sky High (2005),Action|Adventure|Children|Comedy,2005,3.25,124
+32029,3.2649532681441884,Hostage (2005),Action|Crime|Drama|Thriller,2005,2.5,154
+42002,3.1821852692500796,"Producers, The (2005)",Comedy|Musical,2005,2.9,150
+32596,3.0785593669458926,Sahara (2005),Action|Adventure|Comedy,2005,2.6,171
+34532,3.249595516529465,"Skeleton Key, The (2005)",Drama|Horror|Mystery|Thriller,2005,2.65,147
+42011,3.0244675299027795,Fun with Dick and Jane (2005),Comedy|Crime,2005,2.45,131
+39292,3.7427464777142836,"Good Night, and Good Luck. (2005)",Crime|Drama,2005,4.05,213
+34530,2.591208786687592,Deuce Bigalow: European Gigolo (2005),Comedy,2005,1.4,100
+33158,2.641476822515986,xXx: State of the Union (2005),Action|Crime|Thriller,2005,1.9,135
+31420,3.1217610031841825,Assault on Precinct 13 (2005),Action|Crime|Drama|Thriller,2005,2.95,160
+37384,3.2763117245855327,Waiting... (2005),Comedy,2005,2.1,87
+34153,3.579694016038144,Murderball (2005),Documentary,2005,4.2,137
+41566,3.456135049272576,"Chronicles of Narnia: The Lion, the Witch and the Wardrobe, The (2005)",Adventure|Children|Fantasy,2005,3.45,206
+37380,2.655777123204018,Doom (2005),Action|Horror|Sci-Fi,2005,1.95,128
+33880,3.59277543351165,Me and You and Everyone We Know (2005),Comedy|Drama,2005,3.7,108
+37727,3.0906931629000733,Flightplan (2005),Action|Drama|Thriller,2005,2.65,169
+40278,3.436076855481173,Jarhead (2005),Action|Drama|War,2005,3.15,195
+31225,3.4362659469864676,Coach Carter (2005),Drama,2005,3.05,142
+38038,3.7209481351423928,Wallace & Gromit in The Curse of the Were-Rabbit (2005),Adventure|Animation|Children|Comedy,2005,4.05,172
+43396,3.650412311744283,"World's Fastest Indian, The (2005)",Drama,2005,3.45,136
+40851,3.0997354453817025,Zathura (2005),Action|Adventure|Children|Fantasy,2005,3.25,157
+41573,3.193056497660211,"Family Stone, The (2005)",Comedy|Drama|Romance,2005,2.95,151
+39435,3.099064071319547,"Legend of Zorro, The (2005)",Action|Adventure|Drama|Western,2005,2.4,133
+33162,3.4150083178245763,Kingdom of Heaven (2005),Action|Drama|Romance|War,2005,2.75,185
+27788,3.4149628755356085,"Jacket, The (2005)",Drama|Mystery|Sci-Fi|Thriller,2005,2.7,157
+38886,3.5970563826960413,"Squid and the Whale, The (2005)",Comedy|Drama,2005,3.95,138
+33437,3.414946805884495,Unleashed (Danny the Dog) (2005),Action|Crime|Drama|Thriller,2005,3.1,128
+39183,3.645904886899414,Brokeback Mountain (2005),Drama|Romance,2005,4.1,233
+37731,3.5937169671537585,Green Street Hooligans (a.k.a. Hooligans) (2005),Crime|Drama,2005,2.75,61
+33493,3.4528313672625828,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi,2005,3.6,253
+34528,3.4528348357131065,Junebug (2005),Comedy|Drama,2005,3.75,126
+34072,3.644974648095094,"March of the Penguins (Marche de l'empereur, La) (2005)",Documentary,2005,3.9,163
+40732,3.3957746456441846,"Descent, The (2005)",Adventure|Drama|Horror|Thriller,2005,3.65,165
+40723,3.076185765872382,Wolf Creek (2005),Crime|Horror|Thriller,2005,2.75,108
+39231,3.1227927332891987,Elizabethtown (2005),Comedy|Drama|Romance,2005,2.3,168
+37733,3.579168568995626,"History of Violence, A (2005)",Action|Crime|Drama|Thriller,2005,3.95,201
+39234,3.3842245945301697,North Country (2005),Drama,2005,3.35,166
+34336,3.048262239386138,Must Love Dogs (2005),Comedy|Romance,2005,2.5,145
+33646,3.1277296331963313,"Longest Yard, The (2005)",Comedy|Drama,2005,2.4,163
+33679,3.2475200217876705,Mr. & Mrs. Smith (2005),Action|Adventure|Comedy|Romance,2005,3.0,202
+32296,2.7267534309926615,Miss Congeniality 2: Armed and Fabulous (2005),Adventure|Comedy|Crime,2005,2.0,144
+36276,3.475144505103216,Hidden (a.k.a. Cache) (Caché) (2005),Drama|Mystery|Thriller,2005,3.9,128
+41285,3.6610450064828894,Match Point (2005),Crime|Drama|Romance,2005,3.6,205
+40629,3.7711457220334874,Pride & Prejudice (2005),Drama|Romance,2005,3.85,164
+33164,2.6827501994002043,House of Wax (2005),Horror|Thriller,2005,2.15,148
+33836,2.7491228043927967,Bewitched (2005),Comedy|Fantasy|Romance,2005,2.3,182
+33834,3.2106932990968566,Land of the Dead (2005),Action|Horror|Thriller,2005,3.3,169
+31685,3.3920524006687445,Hitch (2005),Comedy|Romance,2005,3.15,178
+36529,3.7572750470744816,Lord of War (2005),Action|Crime|Drama|Thriller|War,2005,3.1,141
+31221,2.6796243568940525,Elektra (2005),Action|Adventure|Crime|Drama,2005,1.85,150
+47894,3.4344045321955115,"Wind That Shakes the Barley, The (2006)",Drama|War,2006,3.8,111
+48412,3.3281164650253414,"Guardian, The (2006)",Action|Adventure|Drama,2006,2.6,143
+44555,4.146237941328432,"Lives of Others, The (Das leben der Anderen) (2006)",Drama|Romance|Thriller,2006,4.1,148
+45210,3.527465435512834,United 93 (2006),Crime|Drama,2006,4.1,200
+48744,3.370525374054186,Shortbus (2006),Comedy|Drama|Romance,2006,3.2,119
+45722,3.4528502505723,Pirates of the Caribbean: Dead Man's Chest (2006),Action|Adventure|Fantasy,2006,3.0,217
+52952,3.6348691667024173,This Is England (2006),Drama,2006,3.85,87
+49772,3.5365960519085835,"Painted Veil, The (2006)",Drama|Romance,2006,3.55,143
+45081,3.152579032203467,Silent Hill (2006),Fantasy|Horror|Thriller,2006,2.25,89
+58347,3.3836295557182883,Penelope (2006),Comedy|Fantasy|Romance,2006,2.8,125
+49824,3.2231003001997345,Dreamgirls (2006),Drama|Musical,2006,3.6,200
+45726,2.917666443680192,"You, Me and Dupree (2006)",Comedy,2006,2.15,164
+44788,3.5306107919480474,This Film Is Not Yet Rated (2006),Documentary,2006,3.6,115
+45732,2.770454542154312,My Super Ex-Girlfriend (2006),Comedy|Fantasy|Romance,2006,2.55,126
+48877,2.943015072895905,Saw III (2006),Crime|Horror|Thriller,2006,2.1,83
+44709,3.477346037436108,Akeelah and the Bee (2006),Drama,2006,3.5,132
+46850,3.5252385039573726,Wordplay (2006),Documentary,2006,3.7,120
+48780,4.003577193904567,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,2006,3.55,187
+47200,3.3818969051805565,Crank (2006),Action|Thriller,2006,3.0,87
+46970,3.1888499281426546,Talladega Nights: The Ballad of Ricky Bobby (2006),Action|Comedy,2006,3.25,182
+54372,3.5343154203317595,Tell No One (Ne le dis à personne) (2006),Crime|Drama|Mystery|Thriller,2006,3.8,103
+45720,3.3720553656471273,"Devil Wears Prada, The (2006)",Comedy|Drama,2006,3.3,183
+48774,3.8545886572038075,Children of Men (2006),Action|Adventure|Drama|Sci-Fi|Thriller,2006,4.0,208
+48394,3.999882342639117,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller,2006,4.3,193
+43919,2.2447596493797093,Date Movie (2006),Comedy|Romance,2006,1.2,83
+47629,3.6384228817405684,"Queen, The (2006)",Drama,2006,4.2,180
+43836,2.8261478560800395,"Pink Panther, The (2006)",Adventure|Comedy|Crime,2006,2.05,139
+45431,3.3609222333188162,Over the Hedge (2006),Adventure|Animation|Children|Comedy,2006,3.4,163
+45666,2.8679617424165276,Nacho Libre (2006),Comedy,2006,2.55,162
+46335,2.8659537543715903,"Fast and the Furious: Tokyo Drift, The (Fast and the Furious 3, The) (2006)",Action|Crime|Drama|Thriller,2006,2.35,107
+49822,3.350993721267181,"Good Shepherd, The (2006)",Drama|Thriller,2006,3.05,167
+48082,3.6601238850417537,"Science of Sleep, The (La science des rêves) (2006)",Comedy|Drama|Fantasy|Romance,2006,3.3,153
+52885,3.6601553801680637,Paprika (Papurika) (2006),Animation|Mystery|Sci-Fi,2006,3.6,86
+44972,2.5987341743744823,Scary Movie 4 (2006),Comedy|Horror,2006,2.35,125
+41863,3.469776710576436,"Three Burials of Melquiades Estrada, The (2006)",Adventure|Crime|Drama,2006,3.7,136
+45517,3.4662919041420377,Cars (2006),Animation|Children|Comedy,2006,3.45,192
+45442,2.856706823343655,Poseidon (2006),Action|Adventure|Thriller|IMAX,2006,2.45,196
+47423,3.5083058635879043,Half Nelson (2006),Drama,2006,3.8,151
+50794,3.177764974114545,Smokin' Aces (2006),Action|Crime|Drama|Thriller,2006,2.15,153
+45499,3.3441684814906103,X-Men: The Last Stand (2006),Action|Sci-Fi|Thriller,2006,2.95,227
+43928,2.648919082805961,Ultraviolet (2006),Action|Fantasy|Sci-Fi|Thriller,2006,1.4,76
+51091,3.3497597769820526,Black Snake Moan (2006),Drama,2006,3.15,152
+43679,2.865014364269289,Final Destination 3 (2006),Horror|Mystery|Thriller,2006,2.55,114
+48516,4.076953203799234,"Departed, The (2006)",Crime|Drama|Thriller,2006,4.1,228
+48142,2.8712348287386513,"Black Dahlia, The (2006)",Crime|Drama|Mystery|Thriller,2006,2.4,182
+44828,3.1744525507403494,Slither (2006),Comedy|Horror|Sci-Fi,2006,3.45,129
+48385,3.47214294365933,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan (2006),Comedy,2006,4.0,209
+47644,3.41115601864418,Invincible (2006),Drama,2006,3.2,132
+47970,3.195643559468169,"Last Kiss, The (2006)",Comedy|Drama,2006,2.85,124
+51709,3.3579649088160357,"Host, The (Gwoemul) (2006)",Comedy|Drama|Horror|Sci-Fi|Thriller,2006,3.85,144
+46578,3.89021651276966,Little Miss Sunshine (2006),Adventure|Comedy|Drama,2006,3.85,205
+45662,2.8906755424004285,"Omen, The (2006)",Horror|Thriller,2006,3.5,32
+47810,2.5274008767073575,"Wicker Man, The (2006)",Horror|Mystery|Thriller,2006,3.85,45
+51471,3.4601398552076432,Amazing Grace (2006),Drama|Romance,2006,3.3,118
+53318,3.5209589007279796,Cashback (2006),Comedy|Drama|Romance,2006,2.7,49
+48982,3.334724980160935,Flushed Away (2006),Animation|Comedy,2006,3.35,128
+44191,3.900686590943918,V for Vendetta (2006),Action|Sci-Fi|Thriller|IMAX,2006,3.4,233
+48322,3.2000623022198447,Jackass Number Two (2006),Comedy|Documentary,2006,2.9,103
+43921,3.336997314622744,Running Scared (2006),Action|Crime|Thriller,2006,2.25,128
+53550,3.464281147005016,Rescue Dawn (2006),Action|Adventure|Drama|War,2006,3.75,156
+49932,3.3899418080322947,Inland Empire (2006),Drama|Mystery|Thriller,2006,3.55,101
+48783,3.3886244892993913,Flags of Our Fathers (2006),Drama|War,2006,3.5,191
+46965,2.764711230133175,Snakes on a Plane (2006),Action|Comedy|Horror|Thriller,2006,3.1,169
+42725,3.4358296586364543,Grandma's Boy (2006),Comedy,2006,1.85,60
+27904,3.5642212175685244,"Scanner Darkly, A (2006)",Animation|Drama|Mystery|Sci-Fi|Thriller,2006,3.3,174
+45447,3.1218980659161426,"Da Vinci Code, The (2006)",Drama|Mystery|Thriller,2006,2.4,219
+44694,3.709903286291238,Volver (2006),Comedy|Drama,2006,3.9,160
+42738,3.2767318643287897,Underworld: Evolution (2006),Action|Fantasy|Horror,2006,1.85,100
+47122,3.068648125659492,John Tucker Must Die (2006),Comedy|Romance,2006,2.15,92
+44195,3.8106799791535453,Thank You for Smoking (2006),Comedy|Drama,2006,3.65,177
+45668,3.2690420531909177,"Lake House, The (2006)",Drama|Fantasy|Romance,2006,2.5,154
+47044,3.008089498028027,Miami Vice (2006),Action|Crime|Drama|Thriller,2006,2.8,189
+45950,3.60405144535783,"Inconvenient Truth, An (2006)",Documentary,2006,3.85,158
+48738,3.8140896408026697,"Last King of Scotland, The (2006)",Drama|Thriller,2006,3.65,177
+48520,2.9804901912380886,Employee of the Month (2006),Comedy,2006,2.0,88
+44022,3.300202359211754,Ice Age 2: The Meltdown (2006),Adventure|Animation|Children|Comedy,2006,3.05,142
+43936,3.2683101725965265,16 Blocks (2006),Crime|Thriller,2006,2.95,157
+48304,3.55130544040983,Apocalypto (2006),Adventure|Drama|Thriller,2006,3.15,184
+47518,3.2499130406161454,Accepted (2006),Comedy,2006,2.5,109
+48696,3.619214434746736,Little Children (2006),Drama|Romance,2006,3.7,154
+53123,3.802223057672513,Once (2006),Drama|Musical|Romance,2006,4.15,152
+47382,3.2943809476789054,Step Up (2006),Drama|Romance,2006,2.25,99
+52042,3.574487467777411,Black Book (Zwartboek) (2006),Drama|Thriller|War,2006,3.55,147
+46530,3.1227013618495296,Superman Returns (2006),Action|Adventure|Sci-Fi|IMAX,2006,3.55,254
+45728,3.5375116625389893,Clerks II (2006),Comedy,2006,3.05,158
+50912,3.565031843989077,"Paris, I Love You (Paris, je t'aime) (2006)",Romance,2006,3.5,109
+45028,3.2394607802801065,"Prairie Home Companion, A (2006)",Comedy|Drama|Musical,2006,3.55,188
+43871,3.004825945461116,Firewall (2006),Crime|Drama|Thriller,2006,2.3,153
+46974,3.023670664719426,World Trade Center (2006),Drama,2006,3.35,223
+50005,3.279864467631027,Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006),Action|Drama,2006,3.2,120
+59387,3.7727924675315334,"Fall, The (2006)",Adventure|Drama|Fantasy,2006,3.1,101
+47999,3.603032033788816,Jesus Camp (2006),Documentary|Drama,2006,3.6,97
+47997,3.2465770663850693,Idiocracy (2006),Adventure|Comedy|Sci-Fi|Thriller,2006,3.25,40
+47610,3.7685128645243275,"Illusionist, The (2006)",Drama|Fantasy|Mystery|Romance,2006,3.45,178
+46967,3.290508728217806,Scoop (2006),Comedy|Fantasy|Mystery,2006,2.7,137
+45186,3.2788813083391135,Mission: Impossible III (2006),Action|Adventure|Thriller,2006,3.3,217
+46972,3.1275241141681196,Night at the Museum (2006),Action|Comedy|Fantasy|IMAX,2006,2.65,129
+49274,3.126669867882196,Happy Feet (2006),Adventure|Animation|Children|Comedy|IMAX,2006,3.45,158
+45501,2.9947199973668535,"Break-Up, The (2006)",Comedy|Drama|Romance,2006,2.5,187
+45928,3.5545864624532713,Who Killed the Electric Car? (2006),Documentary,2006,3.6,103
+49961,3.571571509748588,Notes on a Scandal (2006),Drama,2006,3.75,167
+49272,3.821645460546628,Casino Royale (2006),Action|Adventure|Thriller,2006,3.9,214
+46976,3.787656687076073,Stranger than Fiction (2006),Comedy|Drama|Fantasy|Romance,2006,3.4,167
+46948,3.2599455007240126,Monster House (2006),Animation|Children|Fantasy|Mystery,2006,3.4,156
+46723,3.621462466579562,Babel (2006),Drama|Thriller,2006,3.35,192
+49530,3.828964488352243,Blood Diamond (2006),Action|Adventure|Crime|Drama|Thriller|War,2006,3.15,209
+45730,2.957945038866697,Lady in the Water (2006),Drama|Fantasy|Mystery,2006,2.1,207
+47640,3.0980117783967973,Beerfest (2006),Comedy,2006,2.5,104
+48997,3.5423638108282347,Perfume: The Story of a Murderer (2006),Crime|Drama|Thriller,2006,3.1,121
+44004,2.959744620337937,Failure to Launch (2006),Comedy|Romance,2006,2.3,147
+49130,3.3033428797161895,"Good Year, A (2006)",Comedy|Drama|Romance,2006,2.4,126
+45880,3.2272215238190554,Marie Antoinette (2006),Drama|Romance,2006,3.0,175
+44397,2.9594151177338452,"Hills Have Eyes, The (2006)",Drama|Horror|Thriller,2006,2.65,133
+49396,3.2263411245274076,Tenacious D in The Pick of Destiny (2006),Adventure|Comedy|Musical,2006,2.85,119
+47099,3.716729369215664,"Pursuit of Happyness, The (2006)",Drama,2006,3.2,166
+45672,3.1040883959715844,Click (2006),Adventure|Comedy|Drama|Fantasy|Romance,2006,2.4,165
+50068,3.71672449516407,Letters from Iwo Jima (2006),Drama|War,2006,4.1,196
+44199,3.8346992721518256,Inside Man (2006),Crime|Drama|Thriller,2006,3.65,195
+45062,3.110460988530896,"Sentinel, The (2006)",Crime|Drama|Thriller,2006,2.5,134
+48043,3.549721360700573,"Fountain, The (2006)",Drama|Fantasy|Romance,2006,2.95,189
+49651,3.2556511733005458,Rocky Balboa (2006),Action|Drama,2006,3.25,173
+55269,3.6496238411640194,"Darjeeling Limited, The (2007)",Adventure|Comedy|Drama,2007,3.25,166
+55805,3.421645793120364,Before the Devil Knows You're Dead (2007),Crime|Drama|Thriller,2007,3.85,158
+55276,3.6657251004842313,Michael Clayton (2007),Drama|Thriller,2007,3.8,192
+54272,3.4716974781618233,"Simpsons Movie, The (2007)",Animation|Comedy,2007,3.75,190
+51834,3.368177692713373,Becoming Jane (2007),Drama|Romance,2007,3.0,134
+54648,3.012633177368988,Rush Hour 3 (2007),Action|Comedy|Crime|Thriller,2007,2.1,155
+54001,3.700030925477478,Harry Potter and the Order of the Phoenix (2007),Adventure|Drama|Fantasy|IMAX,2007,3.4,234
+55765,3.7631143105423677,American Gangster (2007),Crime|Drama|Thriller,2007,3.5,206
+56171,3.1707968454741033,"Golden Compass, The (2007)",Adventure|Children|Fantasy,2007,2.8,186
+55872,3.425076919279116,August Rush (2007),Drama|Musical,2007,2.4,120
+56607,3.5719085025467123,"Kite Runner, The (2007)",Drama,2007,3.2,169
+51925,3.017624143196544,Premonition (2007),Drama|Fantasy|Mystery|Thriller,2007,1.9,161
+55069,3.5718893971296852,"4 Months, 3 Weeks and 2 Days (4 luni, 3 saptamâni si 2 zile) (2007)",Drama,2007,4.15,131
+52722,3.0225189224270084,Spider-Man 3 (2007),Action|Adventure|Sci-Fi|Thriller|IMAX,2007,3.1,239
+50798,2.076554678386598,Epic Movie (2007),Adventure|Comedy,2007,1.15,62
+52241,3.4270057271223866,"Lookout, The (2007)",Crime|Drama|Thriller,2007,3.65,163
+54881,3.6505015020375384,"King of Kong, The (2007)",Documentary,2007,3.85,242
+53125,3.372402158411412,Pirates of the Caribbean: At World's End (2007),Action|Adventure|Comedy|Fantasy,2007,2.7,213
+50685,3.4328016609312417,Waitress (2007),Comedy|Drama|Romance,2007,3.65,162
+51084,3.256268050296274,Music and Lyrics (2007),Comedy|Romance,2007,3.0,163
+55052,3.6336042385381093,Atonement (2007),Drama|Romance|War,2007,3.65,202
+56587,3.477707578999481,"Bucket List, The (2007)",Comedy|Drama,2007,2.55,163
+54259,3.776895832304761,Stardust (2007),Adventure|Comedy|Fantasy|Romance,2007,3.4,182
+56805,3.2529126173647662,Walk Hard: The Dewey Cox Story (2007),Comedy|Musical,2007,3.3,137
+52604,3.565295505939882,Fracture (2007),Crime|Drama|Mystery|Thriller,2007,3.25,163
+51412,3.2099307130847863,Next (2007),Action|Sci-Fi|Thriller,2007,2.3,128
+51077,2.699331739886802,Ghost Rider (2007),Action|Fantasy|Thriller,2007,2.15,130
+54256,3.2772815486047095,Hot Rod (2007),Comedy,2007,2.45,101
+53894,3.6472064757339475,Sicko (2007),Documentary|Drama,2007,3.9,199
+53121,3.093775320465138,Shrek the Third (2007),Adventure|Animation|Children|Comedy|Fantasy,2007,2.75,203
+56775,3.258032376530864,National Treasure: Book of Secrets (2007),Action|Adventure,2007,2.35,118
+56145,3.403279443447044,"Mist, The (2007)",Horror|Sci-Fi,2007,3.3,138
+52281,3.6458173984375835,Grindhouse (2007),Action|Crime|Horror|Sci-Fi|Thriller,2007,3.7,188
+56174,3.463987368316758,I Am Legend (2007),Action|Horror|Sci-Fi|Thriller|IMAX,2007,3.15,206
+54503,3.7406694553783613,Superbad (2007),Comedy,2007,3.7,198
+54771,3.073255809169429,"Invasion, The (2007)",Action|Drama|Horror|Sci-Fi|Thriller,2007,2.15,156
+54997,3.7123636354187273,3:10 to Yuma (2007),Action|Crime|Drama|Western,2007,3.75,205
+55118,3.738345863335889,Eastern Promises (2007),Crime|Drama|Thriller,2007,3.8,190
+58306,3.404133853408317,Mongol (2007),Drama|War,2007,3.55,98
+54281,3.4049220632180894,Charlie Bartlett (2007),Comedy|Drama,2007,2.9,130
+55814,3.7377941152268876,"Diving Bell and the Butterfly, The (Scaphandre et le papillon, Le) (2007)",Drama,2007,4.1,155
+55444,3.5921568592877104,Control (2007),Drama,2007,3.7,107
+53953,3.2633856876310126,1408 (2007),Drama|Horror|Thriller,2007,3.35,165
+59995,3.461105621977148,Boy A (2007),Crime|Drama,2007,3.75,57
+54736,3.4650688678032235,"Kingdom, The (2007)",Action|Drama|Thriller,2007,2.9,182
+53322,3.4509672950398094,Ocean's Thirteen (2007),Crime|Thriller,2007,3.2,195
+52458,3.268557533799487,Disturbia (2007),Drama|Thriller,2007,3.1,168
+55282,3.0832983167346906,30 Days of Night (2007),Horror|Thriller,2007,2.75,150
+55253,3.4698323976376635,"Lust, Caution (Se, jie) (2007)",Drama|Romance|Thriller|War,2007,3.3,140
+49910,3.417948713260067,Freedom Writers (2007),Drama,2007,3.15,121
+55094,3.417600627516062,In the Valley of Elah (2007),Drama|Mystery,2007,3.5,154
+50804,3.0600993336613005,Hannibal Rising (2007),Drama|Horror|Thriller,2007,1.95,141
+51939,3.0648309131042035,TMNT (Teenage Mutant Ninja Turtles) (2007),Action|Adventure|Animation|Children|Comedy|Fantasy,2007,2.5,114
+51086,3.0676923050731304,"Number 23, The (2007)",Drama|Mystery|Thriller,2007,1.75,186
+51080,3.467899826444423,Breach (2007),Drama|Thriller,2007,3.5,174
+51931,3.467594571779337,Reign Over Me (2007),Drama,2007,3.15,149
+56801,2.6281957156347713,AVPR: Aliens vs. Predator - Requiem (2007),Action|Horror|Sci-Fi,2007,1.55,66
+56788,3.5810411791230963,Charlie Wilson's War (2007),Comedy|Drama|War,2007,3.5,192
+55995,3.071899603869513,Beowulf (2007),Action|Adventure|Animation|Fantasy|IMAX,2007,3.25,189
+53460,3.2726950310840874,Surf's Up (2007),Animation|Children|Comedy,2007,3.3,141
+53000,3.3988528179308886,28 Weeks Later (2007),Horror|Sci-Fi|Thriller,2007,3.3,182
+58162,3.251959962521143,Run Fatboy Run (2007),Comedy|Romance,2007,2.75,143
+55768,3.0541342721292235,Bee Movie (2007),Animation|Comedy,2007,2.85,165
+56333,3.4025726100106644,"Savages, The (2007)",Comedy|Drama,2007,3.7,165
+50872,3.843188468089612,Ratatouille (2007),Animation|Children|Drama,2007,4.2,213
+50601,3.342101986979385,Bridge to Terabithia (2007),Adventure|Children|Fantasy,2007,3.6,143
+52287,3.3444191306475703,Meet the Robinsons (2007),Action|Adventure|Animation|Children|Comedy|Sci-Fi,2007,3.15,135
+56152,3.5059541965888745,Enchanted (2007),Adventure|Animation|Children|Comedy|Fantasy|Musical|Romance,2007,3.65,157
+55280,3.628681227776234,Lars and the Real Girl (2007),Comedy|Drama,2007,3.55,132
+56286,3.2954410258303772,I'm Not There (2007),Drama,2007,3.5,152
+55232,3.1596974581646955,Resident Evil: Extinction (2007),Action|Horror|Sci-Fi|Thriller,2007,2.15,91
+51935,3.5111762387897034,Shooter (2007),Action|Drama|Thriller,2007,2.8,142
+53993,2.873112717198992,Evan Almighty (2007),Comedy|Fantasy,2007,2.25,190
+55721,3.671030039386874,Elite Squad (Tropa de Elite) (2007),Action|Crime|Drama|Thriller,2007,2.55,34
+51662,3.648500928191638,300 (2007),Action|Fantasy|War|IMAX,2007,3.05,223
+52694,2.9779036780574604,Mr. Bean's Holiday (2007),Comedy,2007,2.7,109
+56367,3.8188664035693813,Juno (2007),Comedy|Drama|Romance,2007,4.05,197
+55442,3.819425243747854,Persepolis (2007),Animation|Drama,2007,4.1,145
+55247,3.8890909081841785,Into the Wild (2007),Action|Adventure|Drama,2007,3.75,181
+51255,3.8211913218608715,Hot Fuzz (2007),Action|Comedy|Crime|Mystery,2007,3.85,194
+51540,3.6139323791837645,Zodiac (2007),Crime|Drama|Thriller,2007,3.8,226
+55274,3.3013550090901993,Elizabeth: The Golden Age (2007),Drama,2007,2.55,162
+53464,2.9047446703107562,Fantastic Four: Rise of the Silver Surfer (2007),Action|Adventure|Sci-Fi,2007,2.4,165
+54190,3.5473708253602423,Across the Universe (2007),Drama|Fantasy|Musical|Romance,2007,2.9,151
+55245,2.9661320708140098,Good Luck Chuck (2007),Comedy|Romance,2007,1.4,110
+56782,3.8747776024878506,There Will Be Blood (2007),Drama|Western,2007,4.2,202
+53972,3.5289820085701735,Live Free or Die Hard (2007),Action|Adventure|Crime|Thriller,2007,3.4,197
+51575,2.914067274512883,Wild Hogs (2007),Adventure|Comedy,2007,1.9,139
+56757,3.529312900410986,Sweeney Todd: The Demon Barber of Fleet Street (2007),Drama|Horror|Musical|Thriller,2007,3.8,215
+54999,3.255397257568685,Shoot 'Em Up (2007),Action|Comedy|Crime,2007,3.1,156
+52245,3.1428389809588353,Blades of Glory (2007),Comedy|Romance,2007,3.1,183
+55577,2.9321452555903504,Saw IV (2007),Crime|Horror|Thriller,2007,1.85,71
+59018,3.6214899678100654,"Visitor, The (2007)",Drama|Romance,2007,3.85,111
+53129,3.5384326328839784,Mr. Brooks (2007),Crime|Drama|Thriller,2007,2.85,151
+56339,3.6245274297200787,"Orphanage, The (Orfanato, El) (2007)",Drama|Horror|Mystery|Thriller,2007,3.65,154
+50442,3.224612872911859,Alpha Dog (2007),Crime|Drama,2007,2.75,141
+55363,3.527235952837236,"Assassination of Jesse James by the Coward Robert Ford, The (2007)",Crime|Drama|Western,2007,3.55,162
+54286,3.935926712255519,"Bourne Ultimatum, The (2007)",Action|Crime|Thriller,2007,3.95,228
+55290,3.7199577916981763,Gone Baby Gone (2007),Crime|Drama|Mystery,2007,3.85,164
+54732,2.819461072917017,Balls of Fury (2007),Comedy,2007,2.1,127
+55267,3.3624193521843284,Dan in Real Life (2007),Comedy|Drama|Romance,2007,3.1,167
+54004,3.0037433122077877,I Now Pronounce You Chuck and Larry (2007),Comedy|Romance,2007,1.8,154
+53519,3.4929950884002783,Death Proof (2007),Action|Adventure|Crime|Horror|Thriller,2007,2.9,35
+55820,3.9543263858450737,No Country for Old Men (2007),Crime|Drama,2007,4.25,223
+56176,2.79460431210688,Alvin and the Chipmunks (2007),Children|Comedy,2007,2.2,104
+52975,3.3580035410885114,Hairspray (2007),Comedy|Drama|Musical,2007,3.85,205
+54796,3.2865938381954827,2 Days in Paris (2007),Comedy|Drama|Romance,2007,3.4,113
+63992,2.819314757177278,Twilight (2008),Drama|Fantasy|Romance|Thriller,2008,2.75,196
+58803,3.4119683835388974,21 (2008),Crime|Drama|Romance|Thriller,2008,2.6,161
+64030,3.088852184197234,Transporter 3 (2008),Action|Adventure|Crime|Thriller,2008,2.4,105
+57669,3.8218426874192857,In Bruges (2008),Comedy|Crime|Drama|Thriller,2008,3.5,154
+63131,3.5249382695731897,Role Models (2008),Comedy,2008,3.25,152
+53207,3.0231382934954345,88 Minutes (2008),Crime|Drama|Mystery|Thriller,2008,1.3,120
+60126,3.233302105415855,Get Smart (2008),Action|Comedy,2008,2.75,206
+58295,3.5245976042355966,"Bank Job, The (2008)",Action|Crime|Thriller,2008,3.35,137
+64497,2.9019018374618715,"Day the Earth Stood Still, The (2008)",Drama|Sci-Fi|Thriller|IMAX,2008,4.0,50
+64622,3.6278536561282198,"Reader, The (2008)",Drama|Romance,2008,3.15,183
+59784,3.6545088556889795,Kung Fu Panda (2008),Action|Animation|Children|Comedy|IMAX,2008,3.6,163
+61240,3.88661016809685,Let the Right One In (Låt den rätte komma in) (2008),Drama|Fantasy|Horror|Romance,2008,4.1,158
+58103,3.2457724062700892,Vantage Point (2008),Action|Drama|Thriller,2008,2.5,149
+65130,3.403660127492059,Revolutionary Road (2008),Drama|Romance,2008,3.35,194
+58998,3.619031475802143,Forgetting Sarah Marshall (2008),Comedy|Romance,2008,3.5,175
+58047,3.4612073756639745,"Definitely, Maybe (2008)",Comedy|Drama|Romance,2008,3.25,142
+62374,3.462311263102701,Body of Lies (2008),Action|Drama|Thriller,2008,2.9,194
+63436,2.90412555611018,Saw V (2008),Crime|Horror|Thriller,2008,1.45,69
+58297,3.0220272856363066,Doomsday (2008),Action|Drama|Sci-Fi|Thriller,2008,2.5,65
+59258,3.128816617039612,Baby Mama (2008),Comedy,2008,3.1,157
+62394,2.818625095973502,Max Payne (2008),Action|Crime|Drama|Thriller,2008,1.85,128
+64716,3.5619622219637206,Seven Pounds (2008),Drama,2008,2.3,180
+60072,3.2562374228916333,Wanted (2008),Action|Thriller,2008,3.25,196
+56949,3.16299846436459,27 Dresses (2008),Comedy|Romance,2008,2.5,146
+60397,3.146482258005322,Mamma Mia! (2008),Comedy|Musical|Romance,2008,2.75,173
+59421,3.1458989188590314,What Happens in Vegas... (2008),Comedy|Romance,2008,2.25,128
+60040,3.3173777623988947,"Incredible Hulk, The (2008)",Action|Sci-Fi,2008,3.05,210
+63859,3.4381835009559083,Bolt (2008),Action|Adventure|Animation|Children|Comedy,2008,3.6,174
+62434,3.3115966365810294,Zack and Miri Make a Porno (2008),Comedy|Drama|Romance,2008,3.05,183
+62344,3.257861055816134,Rachel Getting Married (2008),Drama|Romance,2008,3.75,187
+58559,4.194173273238268,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,2008,4.2,275
+60756,3.321098116452898,Step Brothers (2008),Comedy,2008,2.75,176
+57532,2.3027802646303597,Meet the Spartans (2008),Comedy,2008,0.95,46
+59118,3.3035645424497595,Happy-Go-Lucky (2008),Comedy|Drama,2008,3.85,149
+57528,3.2869133048386807,Rambo (Rambo 4) (2008),Action|Drama|Thriller|War,2008,2.4,138
+62155,3.3751452518159137,Nick and Norah's Infinite Playlist (2008),Comedy|Drama|Romance,2008,3.25,169
+59615,2.964856428435883,Indiana Jones and the Kingdom of the Crystal Skull (2008),Action|Adventure|Comedy|Sci-Fi,2008,3.45,246
+64957,3.597091950657967,"Curious Case of Benjamin Button, The (2008)",Drama|Fantasy|Mystery|Romance,2008,3.55,228
+57640,3.3542630039966945,Hellboy II: The Golden Army (2008),Action|Adventure|Fantasy|Sci-Fi,2008,3.6,197
+64575,3.5942551095729556,Doubt (2008),Drama|Mystery,2008,3.45,204
+61236,3.6656311930355923,Waltz with Bashir (Vals im Bashir) (2008),Animation|Documentary|Drama|War,2008,4.2,134
+59369,3.779660703496745,Taken (2008),Action|Crime|Drama|Thriller,2008,2.9,160
+58154,3.2800319449383792,"Other Boleyn Girl, The (2008)",Drama|Romance,2008,2.65,136
+63853,3.2054340120415317,Australia (2008),Adventure|Drama|War|Western,2008,2.95,199
+60037,2.67908878216288,"Happening, The (2008)",Drama|Sci-Fi|Thriller,2008,2.0,168
+63062,3.6138152245777806,Changeling (2008),Crime|Drama|Mystery,2008,3.15,190
+61160,3.058153384261244,Star Wars: The Clone Wars (2008),Action|Adventure|Animation|Sci-Fi,2008,2.1,152
+58156,2.9896080173772566,Semi-Pro (2008),Comedy,2008,2.25,154
+65088,3.1346187511506143,Bedtime Stories (2008),Adventure|Children|Comedy,2008,2.2,104
+59126,3.4701101894372246,Religulous (2008),Comedy|Documentary,2008,3.2,149
+60069,4.003202902734526,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,2008,4.2,226
+64839,3.795124112380951,"Wrestler, The (2008)",Drama,2008,4.15,207
+59900,2.85047675510301,You Don't Mess with the Zohan (2008),Comedy,2008,2.35,178
+60760,2.992295077920369,"X-Files: I Want to Believe, The (2008)",Drama|Mystery|Sci-Fi|Thriller,2008,2.4,155
+62849,3.558394928755465,RocknRolla (2008),Action|Crime,2008,3.0,140
+60950,3.557489359601213,Vicky Cristina Barcelona (2008),Comedy|Drama|Romance,2008,3.45,188
+59022,3.1731443961287793,Harold & Kumar Escape from Guantanamo Bay (2008),Adventure|Comedy,2008,2.8,128
+60766,3.668810469586141,Man on Wire (2008),Documentary,2008,4.2,145
+61352,3.349715365334773,Traitor (2008),Crime|Drama|Thriller,2008,3.05,160
+58105,3.247337273933094,"Spiderwick Chronicles, The (2008)",Adventure|Children|Drama|Fantasy|IMAX,2008,3.3,142
+64969,3.388108334770567,Yes Man (2008),Comedy,2008,2.6,144
+59501,3.277474400323184,"Chronicles of Narnia: Prince Caspian, The (2008)",Adventure|Children|Fantasy,2008,3.15,179
+62511,3.501146128268518,"Synecdoche, New York (2008)",Comedy|Drama,2008,3.3,172
+62293,3.3458742584114445,"Duchess, The (2008)",Drama|Romance,2008,3.15,161
+57368,3.347194464530579,Cloverfield (2008),Action|Mystery|Sci-Fi|Thriller,2008,3.35,190
+60074,3.208428492404255,Hancock (2008),Action|Adventure|Comedy|Crime|Fantasy,2008,2.7,211
+63113,3.347362695775653,Quantum of Solace (2008),Action|Adventure|Thriller,2008,3.05,241
+63876,3.751490601122116,Milk (2008),Drama,2008,4.0,217
+62376,3.299833467995712,City of Ember (2008),Adventure|Children|Sci-Fi,2008,2.85,121
+61132,3.379345548445773,Tropic Thunder (2008),Action|Adventure|Comedy|War,2008,3.55,221
+62999,3.2676202828757153,Madagascar: Escape 2 Africa (2008),Action|Adventure|Animation|Children|Comedy|IMAX,2008,2.95,145
+61350,2.978655458036009,Babylon A.D. (2008),Action|Adventure|Sci-Fi|Thriller,2008,1.6,97
+59103,3.233577828087083,"Forbidden Kingdom, The (2008)",Action|Adventure|Comedy|Fantasy,2008,3.05,123
+55830,3.206414716590179,Be Kind Rewind (2008),Comedy,2008,3.1,123
+63033,3.236264817255781,Blindness (2008),Drama|Mystery|Romance|Thriller,2008,2.6,150
+62081,3.2376397484862425,Eagle Eye (2008),Action|Crime|Thriller|IMAX,2008,2.3,172
+60937,2.8204065000510985,"Mummy: Tomb of the Dragon Emperor, The (2008)",Action|Adventure|Fantasy|Thriller,2008,1.85,161
+61323,3.515371402976138,Burn After Reading (2008),Comedy|Crime|Drama,2008,3.4,217
+64983,3.3402709329204745,Valkyrie (2008),Drama|Thriller|War,2008,3.0,185
+63082,3.908384836739066,Slumdog Millionaire (2008),Crime|Drama|Romance,2008,4.1,220
+61729,3.353625265658902,Ghost Town (2008),Comedy|Fantasy|Romance,2008,3.45,173
+59037,3.120979016046804,Speed Racer (2008),Action|Children|Sci-Fi|IMAX,2008,2.55,202
+58299,3.3416337253378465,Horton Hears a Who! (2008),Adventure|Animation|Children|Comedy,2008,3.5,130
+62437,3.163002939217714,W. (2008),Drama,2008,3.0,205
+61248,3.1298104920283167,Death Race (2008),Action|Adventure|Sci-Fi|Thriller,2008,2.4,145
+64034,3.615450925107991,"Boy in the Striped Pajamas, The (Boy in the Striped Pyjamas, The) (2008)",Drama|War,2008,3.1,132
+60514,2.9818827664856578,Journey to the Center of the Earth (2008),Action|Adventure|Sci-Fi,2008,3.0,148
+58293,2.644773590801037,"10,000 BC (2008)",Adventure|Romance|Thriller,2008,1.6,139
+59725,2.982506050280176,Sex and the City (2008),Comedy|Romance,2008,2.75,173
+64614,3.917807820186488,Gran Torino (2008),Crime|Drama,2008,3.55,211
+64620,3.691910900767038,Frost/Nixon (2008),Drama,2008,3.95,216
+58025,3.0112489972229186,Jumper (2008),Action|Adventure|Drama|Sci-Fi|Thriller,2008,2.0,158
