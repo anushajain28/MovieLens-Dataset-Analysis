@@ -82,17 +82,21 @@ to user.
 #### Input 1: Movie ID : 19
 ![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/user_input_1.JPG)
 #### Related Movies
-https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_df_1.JPG
+![alt tag](
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_df_1.JPG)
 
-https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies.jpeg
+![alt tag](
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies.jpeg)
 
 ##### Input 2: Movie ID : 628
 ![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/user_input_2.JPG)
 
 ##### Related Movies
-https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_df_2.JPG
+![alt tag](
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_df_2.JPG)
 
-https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_2.jpeg
+![alt tag](
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_2.jpeg)
 
 ======
 
