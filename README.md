@@ -7,7 +7,8 @@ MovieLens is a research site run by GroupLens Research at the University of Minn
 The data contains Tag Genome Data.The tag genome encodes how strongly movies exhibit particular properties represented by tags (atmospheric, thought-provoking, realistic, etc.). The tag genome was computed using a machine learning algorithm on user-contributed content including tags, ratings, and textual reviews.
 
 ## Data Source 
-[MovieLens Data](https://grouplens.org/datasets/movielens/ "MovieLens Data Link")
+[MovieLens Data](https://grouplens.org/datasets/movielens/ "MovieLens Data Link") 
+and 
 [MovieLens + Rotten Tomatoes](https://grouplens.org/datasets/hetrec-2011/ "MovieLens+Rotten Tomatoes Link")
 
 ## Data Processing and Cleaning
@@ -53,7 +54,7 @@ From the plot we see that over the period of years, the ratings from users have 
 - such movies have high variation in user and critics ratings
 ![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_1/divisive_movies.jpeg)
 
-##### Balanced Movied
+##### Balanced Movies
 - movies that have been made keeping in mind to maintain balance between users, critics and judges. 
 - such movies have very low variation in user and critics ratings
 ![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_1/balanced_movies.JPG)
