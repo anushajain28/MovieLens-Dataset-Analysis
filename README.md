@@ -41,22 +41,22 @@ Analyzing the ratings by viewers and critics gives us an idea about how the movi
 	- m = minimum votes required to be listed in the Top 50 (currently 500)
 	- C = the mean vote across the whole report
 -combing the dataframes of users and critics rating we get the following dataframes
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_1999.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_1/rating_df.JPG)
     
 ### Results:
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_1999.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_1/ratings_variation.jpeg)
 
 From the plot we see that over the period of years, the ratings from users have fluctuated in a limited range of 2.5-4.2 where as for the same movies the critics have rated as low as 1.0 and and as high as 4.7 . The users rate the movie mostly on the basis of story content where critics rate the movie based on every aspect and hence this variation in ratings. 
 
 ##### Highly divisive movies
 - movies that have been made only either for masses with spice in stories or the movies that have been made from the perspective of critics and judges. 
 - such movies have high variation in user and critics ratings
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_2000.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_1/divisive_movies.jpeg)
 
 ##### Balanced Movied
 - movies that have been made keeping in mind to maintain balance between users, critics and judges. 
 - such movies have very low variation in user and critics ratings
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%201/Emails_SentIn_2001.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_1/balanced_movies.JPG)
 
 ### Conclusion
 From the plot we see that over the period of years, the ratings from users have fluctuated in a limited range of 2.5-4.2 where as for the same movies the critics have rated as low as 1.0 and and as high as 4.7 . The users rate the movie mostly on the basis of story content where critics rate the movie based on every aspect and hence this variation in ratings. 
@@ -80,10 +80,19 @@ to user.
 ### Results:
 
 #### Input 1: Movie ID : 19
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%202/MailsSent.PNG)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/user_input_1.JPG)
+#### Related Movies
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_df_1.JPG
+
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies.jpeg
 
 ##### Input 2: Movie ID : 628
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%202/From_to.PNG)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/user_input_2.JPG)
+
+##### Related Movies
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_df_2.JPG
+
+https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_2/related_movies_2.jpeg
 
 ======
 
@@ -102,10 +111,10 @@ For each movie, there are n number of users who have rated the movie.
 ### Results:
 
 ##### Most Popular Genre for each Age-Group
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_3/age_group_genre.jpeg)
 
 ##### Mean Rating for each Genre by each gender
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_3/gender_rating_genre.jpeg)
 
 ### Conclusion
 From the above plot we can conclude that majority of users rating the movies belong to age-group: 20-60 and majority of users are fond of DRAMA movies. 
@@ -125,10 +134,10 @@ Based on the choice of movies by users, there has been a considerable amount of 
 ### Results:
 
 ##### Movies produced each year for each genre
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_4/movies_every_year.jpeg)
 
 ##### Trend of movies produced in various genres over the period of years
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_4/movies_trend.jpeg)
 
 ### Conclusion
 From the graph , it is evident that the genres for which procduction has changed significantly over the period of years are **DRAMA** , **COMEDY** , **Action**. Also from the previous analysis it was interpreted that the most favourite genres for different age groups are same : Drama, Comedy and Action. And hence there is an increase in procduction
@@ -154,10 +163,10 @@ From the graph , it is evident that the genres for which procduction has changed
 ### Results:
 
 ##### Top 10 directors and their ratings
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_5/top10directors.jpeg)
 
 ##### Favorite shooting locations of top 10 directors
-![alt tag](https://github.com/anushajain28/Midterm_Spring2017/blob/master/midterm/Question%201/Analysis%203/CommonTopics.png)
+![alt tag](https://github.com/anushajain28/Final_Exam_2017/blob/master/Analysis/Analysis_5/favourite_location.jpeg)
 
 ### Conclusion
 Analysing the movieLens dataset gave many interesting insights into the movie business. Although it is mainly used for recommendation systems we were still able to extract some trends in the data.
